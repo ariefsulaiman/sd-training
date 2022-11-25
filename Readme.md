@@ -20,10 +20,13 @@ Example of package - Quadruple in-line package (QIP) and Dual in-line package (D
 **Macro** - a simple core/cell with simple functionality and can be easily found online.\
 **Foundry IP's** - cell with more specific functionality and the design was patent/owned by a company. Has higher value compared to macro.\
 
+
 **Synthesis Flow**\
 Convert software's instructions which is written in high level language to gate level language/machine language which is normally in binary format.
-
-
+![image](https://user-images.githubusercontent.com/118953928/203932543-03c7cf3e-1d1c-4771-98bd-f1b03b06856e.png)
+Specification/instructions written in RTL (high-level language such as C, C++ or Java) as inputs.
+Compiler will compile the instruction into assembly language (.exe).
+Assembler will then convert assembly language into gate level language (low-level language.machine language) which is in binary format (operands), and it is the language understood by a computer.
 
 
 ### Lab
