@@ -6,7 +6,7 @@
 
 
 ## Day 0
-### Note
+### Topic - System/Tool Setup Check. GitHub ID creation
 The term **"IC packaging"** describes the material that holds a semiconductor device. The circuit material is enclosed in a package to prevent rust or physical damage and to enable attachment of the electrical contacts linking it to the printed circuit board (PCB). There are many different types of integrated circuits, and as a result, there are many IC packaging system designs to take into account. This is because various circuit designs will require various requirements for their exterior casing.\
 Example of package - Quadruple in-line package (QIP) and Dual in-line package (DIP).
 
