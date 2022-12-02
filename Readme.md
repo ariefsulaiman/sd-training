@@ -30,5 +30,5 @@ Assembler will then convert assembly language into gate level language (low-leve
 
 
 ### Lab
-![](day0.JPG)
+![](Day0.JPG)
 
