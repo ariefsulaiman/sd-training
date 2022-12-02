@@ -18,7 +18,7 @@ Example of package - Quadruple in-line package (QIP) and Dual in-line package (D
 **I/O** - help in communication between die with external and will be connected to die by using wire bonding.\
 **Wire Bonding** - method of making interconnections between an integrated circuit (IC) or other semiconductor device and its packaging during semiconductor device fabrication.\
 **Macro** - a simple core/cell with simple functionality and can be easily found online.\
-**Foundry IP's** - cell with more specific functionality and the design was patent/owned by a company. Has higher value compared to macro.\
+**Foundry IP's** - cell with more specific functionality and the design was patent/owned by a company. Has higher value compared to macro.
 
 
 **Synthesis Flow**\
