@@ -62,7 +62,7 @@ How to get a faster/slower cells
 | More Power  | Less Power |
 
 
-### Lab Session
+### Lab using Iverilog and Gtkwave
   1. Cloning the directory from Github into machine
 ![image](https://user-images.githubusercontent.com/118953928/205473699-d51db95c-31fe-4583-b6fd-bfe48b1a1c62.png)
 
@@ -74,3 +74,5 @@ The verilog file and testbench need to be compile by iverilog to create a a.out 
 3. Open the design file and the testbench file\
 ![image](https://user-images.githubusercontent.com/118953928/205474955-6169a528-89d9-4842-bb40-f536162e729d.png)
 ![image](https://user-images.githubusercontent.com/118953928/205474904-bd3460b3-f911-42e9-92f5-3492da540a15.png)
+
+### Lab using Yosys and Sky130 PDKs
