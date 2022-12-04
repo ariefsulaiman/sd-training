@@ -35,10 +35,32 @@ Assembler will then convert assembly language into gate level language (low-leve
 ## Day 1 
 ### Topic - Introduction to Verilog RTL design and Synthesis
 * **Design** is a set of Verilog code for the design work as intended.
+* **RTL Design** is the behavioural representation of the required specification.
 * **Simulator** is a method to check design and simulate the design. In this topic, the tool used is iverilog.
 * **Testbench** is the setup of test vector to check it output match with the specs to test the functionality.
 * **IVerilog** is a Verilog simulation and synthesis tool that is available for free. it take a design and a testbench as a input and it converts Verilog source code into a value change dump format (VCD file).
 * **GTKWave** is a fully featured GTK+ wave reader for Unix, Win32, and Mac OSX that reads and displays LXT, LXT2, VZT, FST, and GHW and Verilog VCD/EVCD files. GTKWave is the best open source free wave viewer and the IVerilog developer recommends to use it.
+* **Synthesizer** is a tool used for converting RTL to Netlist. In this topic, the synthesizer used is Yosys.
+* **Yosys** is a framework for Verilog RTL synthesis. it takes a design and a .lib and it converts it into a netlist file.
+
+* **Synthesis** is the process to converting RTL to gate level translation. The design is converted into gate. The connections are made between gates. The output of this process is called netlist.
+
+What is .lib?
+* A LIB file is a documentation of timing and power parameters related with cells in a technology node's standard cell library. A lib file is mainly a timing model file that comprises the cell delay, cell transition time, setup and hold time requirements. It may contain variation of a single cell. For example, slow medium and fast cell.
+
+Why do we need variation of cell?
+* Slow, fast and medium synthesis libraries are provided for timing-based synthesis. The slow lib is used for Hold time and the fast lib is used for Setup time checks. Achieve a maximum clock speed (minimum clock period), means better performance.  But that not always true because it should not too fast because hold violation might happen. So sometimes we need cell that can work slowly. 
+
+How to get a faster/slower cells
+* In digital logic circuit, to get a faster cell the charge-discharge of a capacitance need to be fast. To get a faster charge-discharge of a capacitance the transistor needs to be bigger to be able of sourcing more current. The wider transistor means more area and power it gets. There will always be a trade of between speed, area and power.
+
+| Faster cell  | Slower cells |
+| ------------- | ------------- |
+| Low Delay  | More Delay  |
+| Wider Transistor  | Narrow Transistor  |
+| More Area  | Less Area  |
+| More Power  | Less Power |
+
 
 ### Lab Session
   1. Cloning the directory from Github into machine
