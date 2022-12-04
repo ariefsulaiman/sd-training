@@ -7,6 +7,7 @@
 
 ## Day 0
 ### Topic - System/Tool Setup Check. GitHub ID creation
+### Theory
 The term **"IC packaging"** describes the material that holds a semiconductor device. The circuit material is enclosed in a package to prevent rust or physical damage and to enable attachment of the electrical contacts linking it to the printed circuit board (PCB). There are many different types of integrated circuits, and as a result, there are many IC packaging system designs to take into account. This is because various circuit designs will require various requirements for their exterior casing.\
 Example of package - Quadruple in-line package (QIP) and Dual in-line package (DIP).
 
@@ -34,6 +35,7 @@ Assembler will then convert assembly language into gate level language (low-leve
 
 ## Day 1 
 ### Topic - Introduction to Verilog RTL design and Synthesis
+### Theory
 * **Design** is a set of Verilog code for the design work as intended.
 * **RTL Design** is the behavioural representation of the required specification.
 * **Simulator** is a method to check design and simulate the design. In this topic, the tool used is iverilog.
@@ -63,19 +65,25 @@ How to get a faster/slower cells
 
 
 ### Lab using Iverilog and Gtkwave
-  1. Cloning the directory from Github into machine
+**Lab 1: Introduction to lab** 
+
+Cloning the directory from Github into machine
 ![image](https://user-images.githubusercontent.com/118953928/205473699-d51db95c-31fe-4583-b6fd-bfe48b1a1c62.png)
 
-  2. Setting up and opening the GTKwave\
-The verilog file and testbench need to be compile by iverilog to create a a.out that contains a vcd file for the GTKwave to read the file.
+**Lab 2: Introduction iverilog gtkwave part 1** 
+
+Setting up and opening the GTKwave.
+The verilog file and testbench need to be compile by iverilog to create a a.out. Executing a.out to create vcd file for the GTKwave to read the file.
 ![image](https://user-images.githubusercontent.com/118953928/205474522-5ff4bd08-2950-4745-ab93-f5dc98cf919b.png)
 ![image](https://user-images.githubusercontent.com/118953928/205474452-7bdd8af4-8a20-4549-a897-1267c5663269.png)
 
-3. Open the design file and the testbench file\
+**Lab 2: Introduction iverilog gtkwave part 2** 
+
+Open the design file and the testbench file\
 ![image](https://user-images.githubusercontent.com/118953928/205474955-6169a528-89d9-4842-bb40-f536162e729d.png)
 ![image](https://user-images.githubusercontent.com/118953928/205474904-bd3460b3-f911-42e9-92f5-3492da540a15.png)
 
-Summary command
+**Summary of command used**
 | Command  | Detail |
 | ------------- | ------------- |
 | git clone \<linkfromgithub> | Copying the directory from Github into the machine  |
