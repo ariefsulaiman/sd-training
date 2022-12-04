@@ -75,4 +75,12 @@ The verilog file and testbench need to be compile by iverilog to create a a.out 
 ![image](https://user-images.githubusercontent.com/118953928/205474955-6169a528-89d9-4842-bb40-f536162e729d.png)
 ![image](https://user-images.githubusercontent.com/118953928/205474904-bd3460b3-f911-42e9-92f5-3492da540a15.png)
 
+Summary command
+| Command  | Detail |
+| ------------- | ------------- |
+| git clone \<linkfromgithub> | Copying the directory from Github into the machine  |
+| iverilog good_mux.v tb_good_mux.v  |  Compile verilog design and testbench and create a.out file |
+| ./a.out  | Run the simulation. vcd file is created  |
+| gtkwave tb_good_mux.vcd  | View the simulation results graphically |
+
 ### Lab using Yosys and Sky130 PDKs
