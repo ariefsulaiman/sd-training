@@ -2,8 +2,8 @@
 
 ## Table of content
 
-[Day 0](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-0)
-
+[Day 0 - System/Tool Setup Check. GitHub ID creation](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-0)\
+[Day 1 - Introduction to Verilog RTL design and Synthesis](https://github.com/ariefsulaiman/sd-training/edit/main/Readme.md#day-1)
 
 ## Day 0
 ### Topic - System/Tool Setup Check. GitHub ID creation
@@ -31,4 +31,13 @@ Assembler will then convert assembly language into gate level language (low-leve
 
 ### Lab
 ![](Day0.jpg)
+
+## Day 1 
+### Topic - Introduction to Verilog RTL design and Synthesis
+* **Design** is a set of Verilog code for the design work as intended.
+* **Simulator** is a method to check design and simulate the design. In this topic, the tool used is iverilog.
+* **Testbench** is the setup of test vector to check it output match with the specs to test the functionality.
+* **IVerilog** is a Verilog simulation and synthesis tool that is available for free. it take a design and a testbench as a input and it converts Verilog source code into a value change dump format (VCD file).
+* **GTKWave** is a fully featured GTK+ wave reader for Unix, Win32, and Mac OSX that reads and displays LXT, LXT2, VZT, FST, and GHW and Verilog VCD/EVCD files. GTKWave is the best open source free wave viewer and the IVerilog developer recommends to use it.
+
 
