@@ -30,7 +30,7 @@ Assembler will then convert assembly language into gate level language (low-leve
 
 
 ### Lab
-![](Day0.jpg)
+![Day0](https://user-images.githubusercontent.com/118953928/205473351-53f8d06d-b517-41cb-832d-c3b92b0b8233.jpg)
 
 ## Day 1 
 ### Topic - Introduction to Verilog RTL design and Synthesis
