@@ -115,3 +115,4 @@ Task --> Understanding the logic circuit\
 The circuit from the video is different from my result when showing the logic circuit. The logic circuit on the video show there is 1 nand, 1 clk inverter and and 1 02ai gate. My logic just show a whole block of mux. I think because there a Mux2x1 in the standard cell library so, there is no need divide for each logic gate for the same function.
 
 **Lab 3: Good mux Part 3** 
+In progress
