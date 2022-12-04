@@ -67,19 +67,19 @@ How to get a faster/slower cells
 ### Lab using Iverilog and Gtkwave
 **Lab 1: Introduction to lab** 
 
-Cloning the directory from Github into machine
+Task --> Cloning the directory from Github into machine
 ![image](https://user-images.githubusercontent.com/118953928/205473699-d51db95c-31fe-4583-b6fd-bfe48b1a1c62.png)
 
 **Lab 2: Introduction iverilog gtkwave part 1** 
 
-Setting up and opening the GTKwave.
+Task --> Setting up and opening the GTKwave\
 The verilog file and testbench need to be compile by iverilog to create a a.out. Executing a.out to create vcd file for the GTKwave to read the file.
 ![image](https://user-images.githubusercontent.com/118953928/205474522-5ff4bd08-2950-4745-ab93-f5dc98cf919b.png)
 ![image](https://user-images.githubusercontent.com/118953928/205474452-7bdd8af4-8a20-4549-a897-1267c5663269.png)
 
 **Lab 2: Introduction iverilog gtkwave part 2** 
 
-Open the design file and the testbench file\
+Task --> Open the design file and the testbench file\
 ![image](https://user-images.githubusercontent.com/118953928/205474955-6169a528-89d9-4842-bb40-f536162e729d.png)
 ![image](https://user-images.githubusercontent.com/118953928/205474904-bd3460b3-f911-42e9-92f5-3492da540a15.png)
 
@@ -92,3 +92,26 @@ Open the design file and the testbench file\
 | gtkwave tb_good_mux.vcd  | View the simulation results graphically |
 
 ### Lab using Yosys and Sky130 PDKs
+**Lab 3: Good mux Part 1** 
+Task --> Opening up Yosys\
+![yosys](https://user-images.githubusercontent.com/118953928/205495328-f2b7ee41-6f4a-41a3-88e5-bbb2715046c8.JPG)
+
+Task --> Read library, Read design, Synthesis, Generate netlists for the specified cell library, Display logic circuit 
+![image](https://user-images.githubusercontent.com/118953928/205495758-f4c95477-6352-468f-afba-ff9bfdb3eab0.png)
+![show](https://user-images.githubusercontent.com/118953928/205496208-f9e15299-ce6c-4de1-a3cf-1a6ccbc28eed.JPG)
+
+
+**Command used**
+| Command  | Detail |
+| ------------- | ------------- |
+| read_liberty -lib ../my_lib/lib/sky*.lib | Read library  |
+| read_verilog good_mux.v  |  Read design |
+| synth -top good_mux  | Synthesis  |
+| abc -liberty ../lib/sky*.lib  | Generate netlists for the specified cell library |
+| show  | Display logic circuit |
+
+**Lab 3: Good mux Part 2** \
+Task --> Understanding the logic circuit\
+The circuit from the video is different from my result when showing the logic circuit. The logic circuit on the video show there is 1 nand, 1 clk inverter and and 1 02ai gate. My logic just show a whole block of mux. I think because there a Mux2x1 in the standard cell library so, there is no need divide for each logic gate for the same function.
+
+**Lab 3: Good mux Part 3** 
