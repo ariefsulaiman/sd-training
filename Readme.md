@@ -114,5 +114,19 @@ Task --> Read library, Read design, Synthesis, Generate netlists for the specifi
 Task --> Understanding the logic circuit\
 The circuit from the video is different from my result when showing the logic circuit. The logic circuit on the video show there is 1 nand, 1 clk inverter and and 1 02ai gate. My logic just show a whole block of mux. I think because there a Mux2x1 in the standard cell library so, there is no need divide for each logic gate for the same function.
 
-**Lab 3: Good mux Part 3** 
-In progress
+**Lab 3: Good mux Part 3** \
+Task --> write netlist, open netlist in vim\
+![image](https://user-images.githubusercontent.com/118953928/205530077-76f2415f-9395-4382-bcde-d8bcaf1702ea.png)
+![image](https://user-images.githubusercontent.com/118953928/205529961-5039b4ae-e1f4-4f02-91d2-c3223c1b8ae5.png)
+
+Task --> Simplify netlist, open simplify netlist in vim\
+![image](https://user-images.githubusercontent.com/118953928/205530977-bbb4cc7c-29dd-46f0-98f6-13f33b9e53ee.png)
+![image](https://user-images.githubusercontent.com/118953928/205530696-f1c08a2f-260d-4edd-9a51-ab765747d951.png)
+
+**Command used**
+| Command  | Detail |
+| ------------- | ------------- |
+| write_verilog good_mux_netlist.v | Generate the netlist.v  |
+| !vim good_mux_netlist.v  |  Open the generated netlist |
+| write_verilog -noattr good_mux_netlist.v  | Simplify the netlist  |
+
