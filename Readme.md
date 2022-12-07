@@ -135,10 +135,18 @@ Task --> Simplify netlist, open simplify netlist in vim\
 ### Topic - Timing libs(QTMs/ETMs), hierarchical vs flat synthesis and efficient flop coding styles
 ### Theory & Lab
 #### Lab Topic: Introduction to timing.lib
+
 > 1. Structure of .lib
+- vim../my_lib/lib/sky130_fd_sc_hd_tt_025C_1v80.lib --> Open the .lib
+- :syn off --->switch off the syntax --> Turn off syntax colour
 ![Slide1](https://user-images.githubusercontent.com/118953928/206137095-3ebec90c-93ce-4fb5-8d1f-ebb0b9caaf7c.JPG) 
+> > Note\
+Tt: typical(fast/slow/typical)\
+C= temperature\
+V= voltage
 
 > 2. Variation of cells in .lib
+- :vsp ../my_lib/verilog_model/sky130_fd_sc_hd.v --> Open the file that conatin all detail and behavioural 
 ![Slide2](https://user-images.githubusercontent.com/118953928/206137566-7766f8be-4773-4639-8baf-4edb2ca412c0.JPG)
 
 > 3. Behavioral code of the cell inside .lib
@@ -155,9 +163,18 @@ Task --> Simplify netlist, open simplify netlist in vim\
 
 #### Lab Topic: Hierarchy vs flat synthesis
 > 1. Opening & understanding multiple module
+Command : Gvim multiple_module.v
 ![Slide10](https://user-images.githubusercontent.com/118953928/206141163-bf473bc1-6ec1-422c-8144-b2c653956b0e.JPG)
 
-> 2. Synthesis of the mutiples_module  s
+> 2. Synthesis of the mutiples_modules
+Command: 
+- yosys
+- Read_liberty –lib ../my_lib/lib/sky130_fd_sc_hd__tt025C_1v80.lib
+- Synth –top multiple module
+- Abc –liberty ../my_lib/lib/sky130_fd_sc_hd__tt025C_1v80.lib
+- Show multiple_module
+
+vii)write_verilog multiple_modules_hier.v
 ![Slide11](https://user-images.githubusercontent.com/118953928/206141431-fd95d8c1-d75d-4858-9e36-25d6fa5f3d80.JPG)
 ![Slide12](https://user-images.githubusercontent.com/118953928/206141606-5eb3b4ca-c44f-4c24-aabc-651399d64f21.JPG)
 ![Slide13](https://user-images.githubusercontent.com/118953928/206141624-3be9de33-6b54-4c8c-9c4d-66fe5fb32fcc.JPG)
