@@ -130,3 +130,17 @@ Task --> Simplify netlist, open simplify netlist in vim\
 | !vim good_mux_netlist.v  |  Open the generated netlist |
 | write_verilog -noattr good_mux_netlist.v  | Simplify the netlist  |
 
+## Day 1 
+### Topic - Timing libs(QTMs/ETMs), hierarchical vs flat synthesis and efficient flop coding styles
+### Theory & Lab
+
+> 1. Structure of .lib
+![Slide1](https://user-images.githubusercontent.com/118953928/206137095-3ebec90c-93ce-4fb5-8d1f-ebb0b9caaf7c.JPG) 
+
+> 2. Variation of cells in .lib
+![Slide2](https://user-images.githubusercontent.com/118953928/206137566-7766f8be-4773-4639-8baf-4edb2ca412c0.JPG)
+
+> 3. Behavioral code of the cell inside .lib
+![Slide3](https://user-images.githubusercontent.com/118953928/206137854-c5bd555f-6603-466e-9dbb-7d64a9ff66f1.JPG)
+
+
