@@ -130,10 +130,10 @@ Task --> Simplify netlist, open simplify netlist in vim\
 | !vim good_mux_netlist.v  |  Open the generated netlist |
 | write_verilog -noattr good_mux_netlist.v  | Simplify the netlist  |
 
-## Day 1 
+## Day 2 
 ### Topic - Timing libs(QTMs/ETMs), hierarchical vs flat synthesis and efficient flop coding styles
 ### Theory & Lab
-
+#### Lab Topic: Introduction to timing.lib
 > 1. Structure of .lib
 ![Slide1](https://user-images.githubusercontent.com/118953928/206137095-3ebec90c-93ce-4fb5-8d1f-ebb0b9caaf7c.JPG) 
 
@@ -149,6 +149,24 @@ Task --> Simplify netlist, open simplify netlist in vim\
 ![Slide6](https://user-images.githubusercontent.com/118953928/206138911-3ba7e73a-696d-4b1e-a756-2e8bd64a6a93.JPG)
 ![Slide7](https://user-images.githubusercontent.com/118953928/206138953-0ef3b587-f741-40e8-ad79-44fa546504dc.JPG)
 
+> 5. 
+![Slide8](https://user-images.githubusercontent.com/118953928/206139251-5d402e51-e8af-4fef-a9dd-b491e2e00f9b.JPG)
+
+#### Lab Topic: Hierarchy vs flat synthesis
+> 1. Opening & understanding multiple module
+![Slide10](https://user-images.githubusercontent.com/118953928/206141163-bf473bc1-6ec1-422c-8144-b2c653956b0e.JPG)
+
+> 2. Synthesis of the mutiples_module  
+![Slide11](https://user-images.githubusercontent.com/118953928/206141431-fd95d8c1-d75d-4858-9e36-25d6fa5f3d80.JPG)
+![Slide12](https://user-images.githubusercontent.com/118953928/206141606-5eb3b4ca-c44f-4c24-aabc-651399d64f21.JPG)
+![Slide13](https://user-images.githubusercontent.com/118953928/206141624-3be9de33-6b54-4c8c-9c4d-66fe5fb32fcc.JPG)
+
+
+> 3. 
+
+
+
+#### Lab Topic: -
 
 
 
