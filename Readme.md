@@ -172,26 +172,51 @@ Task --> Simplify netlist, open simplify netlist in vim\
 > 5. Synthesizing sub module from the multiple_modules.v
 ![Slide18](https://user-images.githubusercontent.com/118953928/206143146-e0457ba3-8d37-492d-a0c1-81cb3b61c974.JPG)
 
-> 6. Flip-flop
+#### Lab Topic: Various Flop Coding Styles and Optimization
+
+> 1. Flip-flop
 ![Slide19](https://user-images.githubusercontent.com/118953928/206143268-69ceaa31-11a7-4247-a29a-d0207a38e90f.JPG)
 
-> 7. Asynchronous D-flip-flop
+> 2. Asynchronous D-flip-flop
 ![Slide20](https://user-images.githubusercontent.com/118953928/206143520-1255fd04-4a40-424c-a237-032e2c787a95.JPG)
 
-> 8. Synchronous D-flip-flop 
+> 3. Synchronous D-flip-flop 
  ![Slide21](https://user-images.githubusercontent.com/118953928/206143701-d312c8cc-ab25-45b7-82cc-1550dac40601.JPG)
  
-> 9. Simulating asynchronous D-flip-flop (reset)
+> 4. Simulating asynchronous D-flip-flop (reset)
 ![Slide22](https://user-images.githubusercontent.com/118953928/206145248-1ae21d67-2b54-4b78-aec0-c8901a992726.JPG)
 
-> 10. Simulating asynchronous D-flip-flop (set)
+> 5. Simulating asynchronous D-flip-flop (set)
 ![Slide23](https://user-images.githubusercontent.com/118953928/206145497-e9dc8277-071a-4c43-ada1-ccc73f99ace2.JPG)
 
+> 6. Simulating synchronous D-flip-flop (set)
+![Slide24](https://user-images.githubusercontent.com/118953928/206146136-f453b94e-d04f-49cd-b48c-20b9dbcf3a2c.JPG)
+
+> 7. Synthesis asynchronous D-flip-flop (reset)
+![Slide25](https://user-images.githubusercontent.com/118953928/206146468-6dfa53aa-176d-453a-b616-eb564bcf1226.JPG)
+
+> 8. Synthesis asynchronous D-flip-flop (set)
+![Slide26](https://user-images.githubusercontent.com/118953928/206146624-4c772154-6d39-4e27-94c3-672f8ed407f8.JPG)
+
+> 9. Synthesis synchronous D-flip-flop (set)
+![Slide27](https://user-images.githubusercontent.com/118953928/206146881-9e14fce8-a6f1-4e8b-ada4-0e6893208aa2.JPG)
+
+> 10. Interesting optimization of mult2 & mult8
+![Slide29](https://user-images.githubusercontent.com/118953928/206148279-9ad0b948-e6a5-46d8-b144-59accbf662dd.JPG)
+
+> 11. Synthesis of mult2
+![Slide30](https://user-images.githubusercontent.com/118953928/206148447-51663683-b8e6-4bbc-ac26-a01c7d6efec7.JPG)
+
+> 12. Interesting optimization of mult8
+![Slide31](https://user-images.githubusercontent.com/118953928/206148687-291127bd-d7db-4af5-9321-5e4588dd5dfd.JPG)
+
+> 13. Synthesis of mult8
+![Slide32](https://user-images.githubusercontent.com/118953928/206148944-64e5a680-2385-48f5-bf21-22e22dbad88c.JPG)
 
 
 
 
-#### Lab Topic: -
+
 
 
 
