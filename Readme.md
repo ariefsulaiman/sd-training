@@ -210,12 +210,24 @@ Command : Gvim multiple_module.v
 ![Slide24](https://user-images.githubusercontent.com/118953928/206146136-f453b94e-d04f-49cd-b48c-20b9dbcf3a2c.JPG)
 
 > 7. Synthesis asynchronous D-flip-flop (reset)
+- Coding
+![image](https://user-images.githubusercontent.com/118953928/206331269-3758d609-38e0-4574-9a23-3107c91b9fbf.png)
+
+- Result
 ![Slide25](https://user-images.githubusercontent.com/118953928/206146468-6dfa53aa-176d-453a-b616-eb564bcf1226.JPG)
 
 > 8. Synthesis asynchronous D-flip-flop (set)
+- Coding
+![image](https://user-images.githubusercontent.com/118953928/206332007-7e17fbb5-0cc7-4706-8376-7241cc3a6c52.png)
+
+- Result
 ![Slide26](https://user-images.githubusercontent.com/118953928/206146624-4c772154-6d39-4e27-94c3-672f8ed407f8.JPG)
 
 > 9. Synthesis synchronous D-flip-flop (set)
+- Coding
+![image](https://user-images.githubusercontent.com/118953928/206332774-93ae20f7-76f0-4180-aee8-06aef2f28db5.png)
+
+- Result
 ![Slide27](https://user-images.githubusercontent.com/118953928/206146881-9e14fce8-a6f1-4e8b-ada4-0e6893208aa2.JPG)
 
 > 10. Interesting optimization of mult2 & mult8
