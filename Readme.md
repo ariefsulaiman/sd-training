@@ -166,15 +166,10 @@ V= voltage
 Command : Gvim multiple_module.v
 ![Slide10](https://user-images.githubusercontent.com/118953928/206141163-bf473bc1-6ec1-422c-8144-b2c653956b0e.JPG)
 
-> 2. Synthesis of the mutiples_modules
-Command: 
-- yosys
-- Read_liberty –lib ../my_lib/lib/sky130_fd_sc_hd__tt025C_1v80.lib
-- Synth –top multiple module
-- Abc –liberty ../my_lib/lib/sky130_fd_sc_hd__tt025C_1v80.lib
-- Show multiple_module
-
-vii)write_verilog multiple_modules_hier.v
+> 2. Synthesis of the mutiples_modules\
+- Command:\
+![image](https://user-images.githubusercontent.com/118953928/206324204-07a98b64-97ed-4249-b865-41c744635086.png)
+- Result\
 ![Slide11](https://user-images.githubusercontent.com/118953928/206141431-fd95d8c1-d75d-4858-9e36-25d6fa5f3d80.JPG)
 ![Slide12](https://user-images.githubusercontent.com/118953928/206141606-5eb3b4ca-c44f-4c24-aabc-651399d64f21.JPG)
 ![Slide13](https://user-images.githubusercontent.com/118953928/206141624-3be9de33-6b54-4c8c-9c4d-66fe5fb32fcc.JPG)
@@ -185,6 +180,10 @@ vii)write_verilog multiple_modules_hier.v
 ![Slide15](https://user-images.githubusercontent.com/118953928/206142232-04f06038-e6a3-4ebe-af71-7b0a8ba1d07c.JPG)
 
 > 4. Flatten the multiple_modules
+- Code
+![image](https://user-images.githubusercontent.com/118953928/206327140-c5782660-28bd-4ce1-a816-c8745c15adcc.png)
+
+- Result
 ![Slide17](https://user-images.githubusercontent.com/118953928/206142853-3fb1077f-66ec-4889-b5c1-30051c572806.JPG)
 
 > 5. Synthesizing sub module from the multiple_modules.v
