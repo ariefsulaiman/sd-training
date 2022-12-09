@@ -271,8 +271,10 @@ Command : Gvim multiple_module.v
 ![Slide32](https://user-images.githubusercontent.com/118953928/206148944-64e5a680-2385-48f5-bf21-22e22dbad88c.JPG)
 </details>
   
-## Day 3 
-### Topic - Combinational and sequential optimizations
+## Day 3 - Combinational and sequential optimizations
+<details>
+  <summary>Theory</summary>
+  
 ### Theory & Lab
 #### Lab Topic: Introduction To Optimization
 
@@ -365,7 +367,7 @@ Command : Gvim multiple_module.v
 ![Slide52](https://user-images.githubusercontent.com/118953928/206739953-88acd904-7377-4b41-8a06-b7602be7d4cd.JPG)
 ![Slide53](https://user-images.githubusercontent.com/118953928/206739964-48748c46-eee3-4611-b230-dc944a6ce089.JPG)
 ![Slide54](https://user-images.githubusercontent.com/118953928/206739969-b20824ca-a468-4b9c-a6af-c7b4e3e3f1fc.JPG)
-
+</details>
 
 
 
