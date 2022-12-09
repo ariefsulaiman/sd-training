@@ -282,11 +282,9 @@ Command : Gvim multiple_module.v
 </details>
   
 ## Day 3 - Combinational and sequential optimizations
+
 <details>
-  <summary>Theory</summary>
-  
-### Theory & Lab
-#### Lab Topic: Introduction To Optimization
+  <summary>Lab Topic: Introduction To Optimization</summary>  
 
 > Combinational Logic Optimization
 ![Slide2](https://user-images.githubusercontent.com/118953928/206737731-3b98b2c1-5cc1-4d5c-8bea-f80e394e3f51.JPG)
@@ -301,8 +299,10 @@ Command : Gvim multiple_module.v
 
 > State Optimization 
 ![Slide7](https://user-images.githubusercontent.com/118953928/206738105-e6aa77a0-7cc5-4856-9814-5a200b8509d5.JPG)
-
-#### Lab Topic: Combinational Logic Optimization
+</details>
+  
+<details>
+  <summary>Lab Topic: Combinational Logic Optimization</summary>
 
 > opt_check.v
 ![Slide9](https://user-images.githubusercontent.com/118953928/206738385-fe0c1beb-2bd2-46ef-885e-075936e0fa5b.JPG)
@@ -333,8 +333,10 @@ Command : Gvim multiple_module.v
 ![Slide24](https://user-images.githubusercontent.com/118953928/206738858-625ddf05-3d48-420b-b706-66a3b369749c.JPG)
 ![Slide25](https://user-images.githubusercontent.com/118953928/206738866-207a2410-32a2-42c2-937f-9565fd0cb450.JPG)
 ![Slide26](https://user-images.githubusercontent.com/118953928/206738869-dc8c4cb0-e8eb-4589-9a16-0cf357d2ecde.JPG)
-
-#### Lab Topic: Combinational Logic Optimization
+</details>
+  
+<details>
+  <summary>Lab Topic: Sequential Logic Optimization</summary>
 
 > dff_const1
 ![Slide28](https://user-images.githubusercontent.com/118953928/206739222-46dd648a-a549-448c-9f62-08f0a09203cb.JPG)
@@ -365,8 +367,10 @@ Command : Gvim multiple_module.v
 ![Slide45](https://user-images.githubusercontent.com/118953928/206739775-5e5725c9-b9a0-4c75-99e5-24e4edb39a83.JPG)
 ![Slide46](https://user-images.githubusercontent.com/118953928/206739781-c1b8b53f-4eea-44d0-88f3-2bf7cb3d9160.JPG)
 ![Slide47](https://user-images.githubusercontent.com/118953928/206739785-3eba604c-7892-43d8-bb09-f91075c0c4bd.JPG)
-
-#### Lab Topic: Sequential Optimization Unused Outputs
+</details>
+  
+<details>
+  <summary>Lab Topic: Sequential Optimization Unused Outputs</summary>
 
 > **counter_opt.v**
 ![Slide49](https://user-images.githubusercontent.com/118953928/206739924-9988c8eb-f008-4f2b-a282-5aa73bea282a.JPG)
