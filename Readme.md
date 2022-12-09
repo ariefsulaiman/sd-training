@@ -78,16 +78,13 @@ How to get a faster/slower cells
 </details>
  
 <details>
-  <summary>Lab</summary>
- 
-    <details>
-    <summary>Lab using Iverilog and Gtkwave</summary>
-    
+  <summary>Lab using Iverilog and Gtkwave</summary>  
 
 **Lab 1: Introduction to lab** 
 
 Task --> Cloning the directory from Github into machine
 ![image](https://user-images.githubusercontent.com/118953928/205473699-d51db95c-31fe-4583-b6fd-bfe48b1a1c62.png)
+
 
 **Lab 2: Introduction iverilog gtkwave part 1** 
 
@@ -112,6 +109,10 @@ Task --> Open the design file and the testbench file\
 | gtkwave tb_good_mux.vcd  | View the simulation results graphically |
 </details>
     
+    
+<details>
+  <summary>Lab using Yosys and Sky130 PDKs</summary>  
+  
 ### Lab using Yosys and Sky130 PDKs
 **Lab 3: Good mux Part 1** 
 Task --> Opening up Yosys\
