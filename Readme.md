@@ -250,8 +250,48 @@ Command : Gvim multiple_module.v
 - Result
 ![Slide32](https://user-images.githubusercontent.com/118953928/206148944-64e5a680-2385-48f5-bf21-22e22dbad88c.JPG)
 
+## Day 3 
+### Topic - Combinational and sequential optimizations
+### Theory & Lab
+#### Lab Topic: Introduction To Optimization
 
+> Combinational Logic Optimization
 
+> Sequential Constant Optimization (D-FF with reset signal)
+
+> State Optimization 
+
+#### Lab Topic: Combinational Logic Optimization
+
+> opt_check.v
+
+> opt_check2.v
+
+> opt_check3.v
+
+> opt_check4.v
+
+> Multiple_module_opt.v
+
+> Multiple_module_opt2.v
+
+#### Lab Topic: Combinational Logic Optimization
+
+> dff_const1
+
+> dff_const2
+
+> dff_const3
+
+> dff_const4
+
+> dff_const5
+
+#### Lab Topic: Sequential Optimization Unused Outputs
+
+> counter_opt.v
+
+> counter_opt2.v
 
 
 
