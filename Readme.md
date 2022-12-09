@@ -7,8 +7,7 @@
 [Day 2 - Timing libs(QTMs/ETMs), hierarchical vs flat synthesis and efficient flop coding styles](https://github.com/ariefsulaiman/sd-training#day-2)
 
 
-## Day 0
-### Topic - System/Tool Setup Check. GitHub ID creation
+## Day 0 - System/Tool Setup Check. GitHub ID creation
 <details>
   <summary>Theory</summary>
  
@@ -44,8 +43,7 @@ Assembler will then convert assembly language into gate level language (low-leve
  
   </details>
 
-## Day 1 
-### Topic - Introduction to Verilog RTL design and Synthesis
+## Day 1 - Introduction to Verilog RTL design and Synthesis
 <details>
   <summary>Theory</summary>
  
@@ -151,8 +149,10 @@ Task --> Simplify netlist, open simplify netlist in vim\
 
  
  
-## Day 2 
-### Topic - Timing libs(QTMs/ETMs), hierarchical vs flat synthesis and efficient flop coding styles
+## Day 2 - Timing libs(QTMs/ETMs), hierarchical vs flat synthesis and efficient flop coding styles
+<details>
+  <summary>Theory & Lab</summary>
+  
 ### Theory & Lab
 #### Lab Topic: Introduction to timing.lib
 
@@ -269,7 +269,8 @@ Command : Gvim multiple_module.v
 
 - Result
 ![Slide32](https://user-images.githubusercontent.com/118953928/206148944-64e5a680-2385-48f5-bf21-22e22dbad88c.JPG)
-
+</details>
+  
 ## Day 3 
 ### Topic - Combinational and sequential optimizations
 ### Theory & Lab
