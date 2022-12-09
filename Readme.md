@@ -6,8 +6,13 @@
 [Day 1 - Introduction to Verilog RTL design and Synthesis](https://github.com/ariefsulaiman/sd-training/edit/main/Readme.md#day-1)\
 [Day 2 - Timing libs(QTMs/ETMs), hierarchical vs flat synthesis and efficient flop coding styles](https://github.com/ariefsulaiman/sd-training#day-2)
 
+
 ## Day 0
 ### Topic - System/Tool Setup Check. GitHub ID creation
+<details>
+  <summary>Theory</summary>
+ 
+
 ### Theory
 The term **"IC packaging"** describes the material that holds a semiconductor device. The circuit material is enclosed in a package to prevent rust or physical damage and to enable attachment of the electrical contacts linking it to the printed circuit board (PCB). There are many different types of integrated circuits, and as a result, there are many IC packaging system designs to take into account. This is because various circuit designs will require various requirements for their exterior casing.\
 Example of package - Quadruple in-line package (QIP) and Dual in-line package (DIP).
@@ -29,13 +34,22 @@ Convert software's instructions which is written in high level language to gate 
 Specification/instructions written in RTL (high-level language such as C, C++ or Java) as inputs.
 Compiler will compile the instruction into assembly language (.exe).
 Assembler will then convert assembly language into gate level language (low-level language.machine language) which is in binary format (operands), and it is the language understood by a computer.
+</details>
 
-
+<details>
+  <summary>Lab</summary>
+ 
 ### Lab
 ![Day0](https://user-images.githubusercontent.com/118953928/205473351-53f8d06d-b517-41cb-832d-c3b92b0b8233.jpg)
+ 
+  </details>
 
 ## Day 1 
 ### Topic - Introduction to Verilog RTL design and Synthesis
+<details>
+  <summary>Theory</summary>
+ 
+
 ### Theory
 * **Design** is a set of Verilog code for the design work as intended.
 * **RTL Design** is the behavioural representation of the required specification.
@@ -63,8 +77,11 @@ How to get a faster/slower cells
 | Wider Transistor  | Narrow Transistor  |
 | More Area  | Less Area  |
 | More Power  | Less Power |
-
-
+</details>
+ 
+<details>
+  <summary>Lab</summary>
+ 
 ### Lab using Iverilog and Gtkwave
 **Lab 1: Introduction to lab** 
 
@@ -130,7 +147,10 @@ Task --> Simplify netlist, open simplify netlist in vim\
 | write_verilog good_mux_netlist.v | Generate the netlist.v  |
 | !vim good_mux_netlist.v  |  Open the generated netlist |
 | write_verilog -noattr good_mux_netlist.v  | Simplify the netlist  |
+</details>
 
+ 
+ 
 ## Day 2 
 ### Topic - Timing libs(QTMs/ETMs), hierarchical vs flat synthesis and efficient flop coding styles
 ### Theory & Lab
