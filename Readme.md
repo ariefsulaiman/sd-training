@@ -256,10 +256,18 @@ Command : Gvim multiple_module.v
 #### Lab Topic: Introduction To Optimization
 
 > Combinational Logic Optimization
+![Slide2](https://user-images.githubusercontent.com/118953928/206737731-3b98b2c1-5cc1-4d5c-8bea-f80e394e3f51.JPG)
+![Slide3](https://user-images.githubusercontent.com/118953928/206737745-294ff8f0-c640-4aec-8b93-4d37092f7ad5.JPG)
+![Slide4](https://user-images.githubusercontent.com/118953928/206737755-7fa69913-b322-4f3e-bb75-4271992ed91b.JPG)
 
 > Sequential Constant Optimization (D-FF with reset signal)
+![Slide5](https://user-images.githubusercontent.com/118953928/206738058-c1fa725f-dce3-4970-a66f-49a9ca483a24.JPG)
+
+> Sequential Constant Optimization (D-FF with set signal)
+![Slide6](https://user-images.githubusercontent.com/118953928/206738071-79327fe0-fe76-4c31-9efd-2b09197664a0.JPG)
 
 > State Optimization 
+![Slide7](https://user-images.githubusercontent.com/118953928/206738105-e6aa77a0-7cc5-4856-9814-5a200b8509d5.JPG)
 
 #### Lab Topic: Combinational Logic Optimization
 
