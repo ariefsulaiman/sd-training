@@ -157,9 +157,8 @@ Task --> Simplify netlist, open simplify netlist in vim\
  
 ## Day 2 - Timing libs(QTMs/ETMs), hierarchical vs flat synthesis and efficient flop coding styles
 <details>
-  <summary>Theory & Lab</summary>
+  <summary>Lab Topic: Introduction to timing.lib</summary>
   
-### Theory & Lab
 #### Lab Topic: Introduction to timing.lib
 
 > 1. Structure of .lib
@@ -186,8 +185,11 @@ V= voltage
 
 > 5. Variation of cells 
 ![Slide8](https://user-images.githubusercontent.com/118953928/206139251-5d402e51-e8af-4fef-a9dd-b491e2e00f9b.JPG)
+</details>
+  
+  <details>
+  <summary>Lab Topic: Hierarchy vs flat synthesis</summary>
 
-#### Lab Topic: Hierarchy vs flat synthesis
 > 1. Opening & understanding multiple module
 Command : Gvim multiple_module.v
 ![Slide10](https://user-images.githubusercontent.com/118953928/206141163-bf473bc1-6ec1-422c-8144-b2c653956b0e.JPG)
@@ -214,8 +216,10 @@ Command : Gvim multiple_module.v
 
 > 5. Synthesizing sub module from the multiple_modules.v
 ![Slide18](https://user-images.githubusercontent.com/118953928/206143146-e0457ba3-8d37-492d-a0c1-81cb3b61c974.JPG)
-
-#### Lab Topic: Various Flop Coding Styles and Optimization
+</details>
+  
+<details>
+  <summary>Lab Topic: Various Flop Coding Styles and Optimization</summary>
 
 > 1. Flip-flop
 ![Slide19](https://user-images.githubusercontent.com/118953928/206143268-69ceaa31-11a7-4247-a29a-d0207a38e90f.JPG)
