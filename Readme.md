@@ -383,6 +383,31 @@ Command : Gvim multiple_module.v
 ![Slide54](https://user-images.githubusercontent.com/118953928/206739969-b20824ca-a468-4b9c-a6af-c7b4e3e3f1fc.JPG)
 </details>
 
+## Day 4 - GLS, blocking vs non-blocking and Synthesis-Simulation mismatch
+
+<details>
+  <summary>SKY130RTL D4SK1 - GLS, Synthesis-Simulation mismatch and Blocking/Non-blocking statements</summary>
+  
+Content
+ 
+</details>
+
+<details>
+  <summary>SKY130RTL D4SK2 - Labs on GLS and Synthesis-Simulation Mismatch</summary>
+  
+Content
+ 
+</details>
+
+
+<details>
+  <summary>SKY130RTL D4SK3 - Labs on synth-sim mismatch for blocking statement</summary>
+  
+Content
+ 
+</details>
+
+
 
 
 
