@@ -432,7 +432,14 @@ Command : Gvim multiple_module.v
 ![Slide23](https://user-images.githubusercontent.com/118953928/206896431-5dcdd94c-925e-4ffe-a32b-2f024cd308ba.JPG)
 </details>
 
-
+## Day 5 - DFT
+<details>
+  <summary>Theory</summary>
+  
+  content
+  
+  </details>
+  
 
 
 
