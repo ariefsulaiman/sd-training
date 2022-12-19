@@ -460,43 +460,67 @@ Command : Gvim multiple_module.v
   <summary>Introduction to the course</summary>
   
   
-   </details>
+![Slide2](https://user-images.githubusercontent.com/118953928/208457042-1ce2dc00-4e56-4951-a102-6245cc23bbee.JPG)
+![Slide3](https://user-images.githubusercontent.com/118953928/208457050-7c415eda-909d-438b-abeb-d30906b64118.JPG)
+![Slide4](https://user-images.githubusercontent.com/118953928/208457057-972819ec-158a-4251-8f15-bf5c66442ad9.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/208457060-33e6fe96-dcfd-4416-9501-24ded36ccbeb.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/208457062-4a15e0e8-1497-41e8-ae3f-ce83210efc87.JPG)
+</details>
   
   <details>
   <summary>Introduction to DC</summary>
-  
-  
-   </details>
+    
+![Slide8](https://user-images.githubusercontent.com/118953928/208457254-495162e7-66fc-4f3d-b8ac-a585c9003aa0.JPG)
+![Slide9](https://user-images.githubusercontent.com/118953928/208457263-5f0595e5-934f-4223-914c-8e9268cc00b6.JPG)
+![Slide10](https://user-images.githubusercontent.com/118953928/208457267-3af6203b-fcf1-4d3c-8cd3-a7cfbd09ce95.JPG)
+</details>
   
   <details>
   <summary>Lab 1 - Invoking dc basic setup</summary>
   
-  
-   </details>
+![Slide12](https://user-images.githubusercontent.com/118953928/208457416-6029aec6-0e6d-4034-9be3-78d3e0d804ba.JPG)
+![Slide13](https://user-images.githubusercontent.com/118953928/208457424-e35b12af-6954-4c0d-9972-c46e79c438a8.JPG)
+![Slide14](https://user-images.githubusercontent.com/118953928/208457430-3d364613-c7cc-4ca3-9ffb-2d400ed232ba.JPG)
+![Slide15](https://user-images.githubusercontent.com/118953928/208457437-f14929a2-45de-4c0f-850a-5b09de5bbac2.JPG)
+![Slide16](https://user-images.githubusercontent.com/118953928/208457440-7063834e-da07-4d3c-90bd-bec958421719.JPG)
+![Slide17](https://user-images.githubusercontent.com/118953928/208457445-b145c478-684f-45ea-b6cd-b43191fd6466.JPG)
+![Slide18](https://user-images.githubusercontent.com/118953928/208457449-a2d4e2da-48fa-4f6d-9550-3025a8dd6371.JPG)
+![Slide19](https://user-images.githubusercontent.com/118953928/208457456-757b1f77-0716-4c12-a58f-d6debd2f12a8.JPG)
+![Slide20](https://user-images.githubusercontent.com/118953928/208457460-dbf808ae-120f-4dbe-ac9b-66b70ba5f0ba.JPG)
+ </details>
   
   <details>
   <summary>Lab 2 - Intro to ddc gui with design_vision</summary>
   
+![Slide22](https://user-images.githubusercontent.com/118953928/208457524-ea70a909-fd67-42aa-a4ab-6f3d8380764d.JPG)
+![Slide23](https://user-images.githubusercontent.com/118953928/208457533-d9ed212b-149d-488b-85b8-1f256ad77467.JPG)
+![Slide24](https://user-images.githubusercontent.com/118953928/208457536-686236e0-61bf-4c85-89be-fa9db8b8dabf.JPG)
+
   
    </details>
   
   <details>
   <summary>Lab 3 - dc Synopsys dc setup</summary>
   
-  
-   </details>
+![Slide26](https://user-images.githubusercontent.com/118953928/208457592-cca055a8-2be0-4155-9120-78b3cc372233.JPG)
+![Slide27](https://user-images.githubusercontent.com/118953928/208457599-b2261352-ddee-4cbc-9110-e2fee0675108.JPG)
+ </details>
   
   <details>
   <summary>Lecture 3 - TCL quick refresher</summary>
   
-  
+![Slide29](https://user-images.githubusercontent.com/118953928/208457689-ec5ad320-6564-41a6-9090-a7c81c223abb.JPG)
+![Slide30](https://user-images.githubusercontent.com/118953928/208457700-1a5cdc14-afe3-41fa-9016-0e1dd7f914e2.JPG)
+
    </details>
   
   <details>
   <summary>Lab 4 - tcl scripting</summary>
   
-  
-   </details>
+![Slide32](https://user-images.githubusercontent.com/118953928/208457751-17929e2e-d7dd-4b9f-87e3-4a2fa5f6c081.JPG)
+![Slide33](https://user-images.githubusercontent.com/118953928/208457761-ed040d4d-599b-4797-b52c-360b0e89d84e.JPG)
+![Slide34](https://user-images.githubusercontent.com/118953928/208457766-8bf57748-fd69-415b-aaab-cc3ab6b130b6.JPG)
+  </details>
 
 
 
