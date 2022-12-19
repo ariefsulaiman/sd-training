@@ -7,7 +7,9 @@
 [Day 2 - Timing libs(QTMs/ETMs), hierarchical vs flat synthesis and efficient flop coding styles](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-2---timing-libsqtmsetms-hierarchical-vs-flat-synthesis-and-efficient-flop-coding-styles)\
 [Day 3 - Combinational and Sequential Optimizations](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-3---combinational-and-sequential-optimizations)\
 [Day 4 - GLS, blocking vs non-blocking and Synthesis-Simulation mismatch](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-4---gls-blocking-vs-non-blocking-and-synthesis-simulation-mismatch)\
-[Day 5 - DFT](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-5---dft)
+[Day 5 - DFT](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-5---dft)\
+[Day 6 -Introduction to Logic Synthesis](https://github.com/ariefsulaiman/sd-training/edit/main/Readme.md#day-5---introduction-to-logic-synthesis)
+
 
 ## Day 0 - System/Tool Setup Check. GitHub ID creation
 <details>
@@ -452,7 +454,49 @@ Command : Gvim multiple_module.v
   </details>
   
 
+## Day 6 - Introduction to Logic Synthesis
 
+<details>
+  <summary>Introduction to the course</summary>
+  
+  
+   </details>
+  
+  <details>
+  <summary>Introduction to DC</summary>
+  
+  
+   </details>
+  
+  <details>
+  <summary>Lab 1 - Invoking dc basic setup</summary>
+  
+  
+   </details>
+  
+  <details>
+  <summary>Lab 2 - Intro to ddc gui with design_vision</summary>
+  
+  
+   </details>
+  
+  <details>
+  <summary>Lab 3 - dc Synopsys dc setup</summary>
+  
+  
+   </details>
+  
+  <details>
+  <summary>Lecture 3 - TCL quick refresher</summary>
+  
+  
+   </details>
+  
+  <details>
+  <summary>Lab 4 - tcl scripting</summary>
+  
+  
+   </details>
 
 
 
