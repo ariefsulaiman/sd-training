@@ -528,43 +528,89 @@ Command : Gvim multiple_module.v
 <details>
   <summary>Lecture session</summary>
   
-Content
+![Slide2](https://user-images.githubusercontent.com/118953928/208876695-3b23eb15-509d-48e1-90ea-08dfafea6d1e.JPG)
+![Slide3](https://user-images.githubusercontent.com/118953928/208876700-08e95fa6-9ef0-47b2-ad08-c5e4a67a7b32.JPG)
+![Slide4](https://user-images.githubusercontent.com/118953928/208876701-0a78b623-0408-41b7-9b28-f6e5c6169842.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/208876708-ddfb8902-3007-4ba4-86ea-7a64a3c525b4.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/208876710-97f1c790-6955-4c7b-bab4-2f31e785b11b.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/208876714-1fec14ee-8e8c-43ae-9545-e47e837cb264.JPG)
+![Slide8](https://user-images.githubusercontent.com/118953928/208876718-d9d841af-38cf-4fa5-a7c1-9be2565f69bf.JPG)
+![Slide9](https://user-images.githubusercontent.com/118953928/208876721-1b6fabc7-828d-4377-bcd8-6422dac07415.JPG)
+![Slide10](https://user-images.githubusercontent.com/118953928/208876723-78f7b6eb-f771-495a-80f6-6353b89f2333.JPG)
+![Slide11](https://user-images.githubusercontent.com/118953928/208876726-a87dbf3f-27b7-4d11-90ce-2c914f92dce0.JPG)
+![Slide12](https://user-images.githubusercontent.com/118953928/208876728-2975a876-ad2b-4d32-8eb7-effd639cabb0.JPG)
+
   </details>
   
 <details>
   <summary>Lect 4 - Intro to STA</summary>
   
-Content
+![Slide14](https://user-images.githubusercontent.com/118953928/208876768-f6355ea0-91e6-49bf-a5bf-7855fa04b739.JPG)
+![Slide15](https://user-images.githubusercontent.com/118953928/208876775-2582b0f2-8d63-41d0-aac7-3e6066da54dd.JPG)
+![Slide16](https://user-images.githubusercontent.com/118953928/208876778-a88dfb54-8b45-46e3-9343-8b5976d1557f.JPG)
+![Slide17](https://user-images.githubusercontent.com/118953928/208876784-aa808b3b-ae0f-46c7-af3f-ec7fc7e996d0.JPG)
+![Slide18](https://user-images.githubusercontent.com/118953928/208876788-e0efee02-99b7-4660-892b-d8db7aaf9c72.JPG)
+![Slide19](https://user-images.githubusercontent.com/118953928/208876789-cc771875-08e6-47a5-a974-fd6194a5635d.JPG)
+![Slide20](https://user-images.githubusercontent.com/118953928/208876794-61b1ff20-8c45-40f0-8f5f-c85e7080c28f.JPG)
+
   </details>
   
   <details>
   <summary>Lect 5 - What are constraints?</summary>
   
-Content
+![Slide22](https://user-images.githubusercontent.com/118953928/208876827-4f34bfb4-4605-4c9e-aee2-29610815edf6.JPG)
+![Slide23](https://user-images.githubusercontent.com/118953928/208876837-749c1652-1bd1-4288-9e01-e736abe84345.JPG)
+![Slide24](https://user-images.githubusercontent.com/118953928/208876840-122ea900-ddb9-4ffd-821e-f4abe5ca2d37.JPG)
+![Slide25](https://user-images.githubusercontent.com/118953928/208876842-31dc4eb9-5aa8-4c72-8eec-350744801fd5.JPG)
+![Slide26](https://user-images.githubusercontent.com/118953928/208876851-2200a5b5-02da-4ab4-9270-d6850700ca32.JPG)
+
   </details>
   
 <details>
   <summary>Lect 6 - Inp Trans Output Load</summary>
   
-Content
+![Slide28](https://user-images.githubusercontent.com/118953928/208876909-9e06f85d-2751-4065-a597-b455332904cb.JPG)
+![Slide29](https://user-images.githubusercontent.com/118953928/208876919-15730877-a4db-4afa-a730-d6268be9cf0b.JPG)
+![Slide30](https://user-images.githubusercontent.com/118953928/208876971-46259cb5-0d12-4d24-9e3c-a24af66eb936.JPG)
+
   </details>
   
   <details>
   <summary>Lab 5 - Timing dot Libs</summary>
   
-Content
+![Slide32](https://user-images.githubusercontent.com/118953928/208877101-892c8180-79ac-43d5-bd5b-140e7e0d2809.JPG)
+![Slide33](https://user-images.githubusercontent.com/118953928/208877111-09ec6f65-5766-4dca-9066-8219fef1f329.JPG)
+![Slide34](https://user-images.githubusercontent.com/118953928/208877122-7c16ed0d-d33c-46d6-a451-b2a94ca7487b.JPG)
+![Slide35](https://user-images.githubusercontent.com/118953928/208877126-9fad1fd8-e3c2-4f01-84af-298149af5dc5.JPG)
+![Slide36](https://user-images.githubusercontent.com/118953928/208877128-3adf5412-9a98-46d8-9e97-5a42d9fc59b5.JPG)
+![Slide37](https://user-images.githubusercontent.com/118953928/208877132-ea9649c8-19ef-4df0-9852-24de21535812.JPG)
+![Slide38](https://user-images.githubusercontent.com/118953928/208877139-4081efa7-75cf-47cd-bd0a-561f6fc87145.JPG)
+
   </details>
   
   <details>
   <summary>Lab 6 - Exploring dot Lib</summary>
   
-Content
+![Slide40](https://user-images.githubusercontent.com/118953928/208877162-9ea49546-3400-4a9a-ab8b-d4d246aca796.JPG)
+![Slide41](https://user-images.githubusercontent.com/118953928/208877244-d48ef973-7d86-4a89-8bec-f9cf554701b8.JPG)
+![Slide42](https://user-images.githubusercontent.com/118953928/208877250-57c1c7b6-1f87-4892-a5dd-320dfece3e25.JPG)
+![Slide43](https://user-images.githubusercontent.com/118953928/208877253-7930e79e-0d3d-4440-9ac8-8e024ee7ec6d.JPG)
+
   </details>
   
   <details>
   <summary>Lab7 - Exploring dot Lib part2</summary>
   
-Content
+
+![Slide45](https://user-images.githubusercontent.com/118953928/208877299-d036ae52-cbf8-4eba-8181-dcc408851341.JPG)
+![Slide46](https://user-images.githubusercontent.com/118953928/208877307-cb03ffb6-3b40-4003-8e91-4a9cb9e1a09d.JPG)
+![Slide47](https://user-images.githubusercontent.com/118953928/208877312-ccc3c4af-c48f-40b2-ac6d-56e278b7246b.JPG)
+![Slide48](https://user-images.githubusercontent.com/118953928/208877316-01b38546-48e3-4539-9dd8-faca592599ee.JPG)
+![Slide49](https://user-images.githubusercontent.com/118953928/208877317-dee6ebf8-e7b7-43a9-a724-6814d6ce15f5.JPG)
+![Slide50](https://user-images.githubusercontent.com/118953928/208877323-08c48ef5-d4c6-4d58-9f4a-76d414373226.JPG)
+![Slide51](https://user-images.githubusercontent.com/118953928/208877327-5a15dbaf-4203-40ea-82fd-93d3a07c5536.JPG)
+![Slide52](https://user-images.githubusercontent.com/118953928/208877331-69041a11-0101-4c31-818f-2ef5702b3ba3.JPG)
+
   </details>
   
   
