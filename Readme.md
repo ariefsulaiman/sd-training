@@ -522,5 +522,48 @@ Command : Gvim multiple_module.v
 ![Slide34](https://user-images.githubusercontent.com/118953928/208457766-8bf57748-fd69-415b-aaab-cc3ab6b130b6.JPG)
   </details>
 
+## Day 7 - Basics of STA
 
-
+<details>
+  <summary>Lecture session</summary>
+  
+Content
+  </details>
+  
+<details>
+  <summary>Lect 4 - Intro to STA</summary>
+  
+Content
+  </details>
+  
+  <details>
+  <summary>Lect 5 - What are constraints?</summary>
+  
+Content
+  </details>
+  
+<details>
+  <summary>Lect 6 - Inp Trans Output Load</summary>
+  
+Content
+  </details>
+  
+  <details>
+  <summary>Lab 5 - Timing dot Libs</summary>
+  
+Content
+  </details>
+  
+  <details>
+  <summary>Lab 6 - Exploring dot Lib</summary>
+  
+Content
+  </details>
+  
+  <details>
+  <summary>Lab7 - Exploring dot Lib part2</summary>
+  
+Content
+  </details>
+  
+  
