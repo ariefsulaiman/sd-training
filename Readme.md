@@ -619,13 +619,27 @@ Command : Gvim multiple_module.v
 <details>
   <summary>Lecture 7 - SDC Part1 Clock - Clock Tree Modelling - Uncertainty</summary>
 
-Content
+![Slide2](https://user-images.githubusercontent.com/118953928/209176161-7e8a5599-156d-40e8-a19b-1677af5dcae8.jpg)
+![Slide3](https://user-images.githubusercontent.com/118953928/209176132-84482f26-f6c5-4e20-9a61-706260d2b9ac.JPG)
+![Slide4](https://user-images.githubusercontent.com/118953928/209176139-b2e6b38d-baa9-40a4-b792-340cbbf4f043.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/209176144-ebb35c42-6776-4c8d-8d91-2bfb72ef36a4.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/209176148-9340da56-b92b-4c60-b19d-559d8dfb6bca.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/209176153-0fa5b73e-86b3-40aa-9660-43f5fd4cfe4a.JPG)
+![Slide8](https://user-images.githubusercontent.com/118953928/209176159-d6b1f905-5641-4c40-89dc-d2da908236ed.JPG)
 </details>
 
 <details>
   <summary>Lecture 8 - SDC Part2 IO delays</summary>
 
-Content
+![Slide10](https://user-images.githubusercontent.com/118953928/209176272-b92a4fae-f140-425e-814d-4a31e86903af.JPG)
+![Slide11](https://user-images.githubusercontent.com/118953928/209176277-d0f78594-7cc2-4c3e-92f9-21d3bc4e7884.JPG)
+![Slide12](https://user-images.githubusercontent.com/118953928/209176282-4621bcff-ec98-4042-a0f4-ab79283e3e04.JPG)
+![Slide13](https://user-images.githubusercontent.com/118953928/209176284-ea112835-eb14-4c0a-b4c1-3123f29f154c.JPG)
+![Slide14](https://user-images.githubusercontent.com/118953928/209176285-2d703a1b-6d5a-41e0-851f-b26276cee577.JPG)
+![Slide15](https://user-images.githubusercontent.com/118953928/209176287-e12018d7-2827-42a9-82a3-dc28483f9816.JPG)
+![Slide16](https://user-images.githubusercontent.com/118953928/209176290-db315f4d-b184-48c6-b3ac-179ed81aa7c2.JPG)
+![Slide17](https://user-images.githubusercontent.com/118953928/209176294-4000981c-e731-4b5f-9e9b-1d6b56d727e2.JPG)
+![Slide18](https://user-images.githubusercontent.com/118953928/209176296-0bd56aa2-984d-4408-b685-85aab473b095.JPG)
 </details>
 
 <details>
