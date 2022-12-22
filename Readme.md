@@ -9,7 +9,8 @@
 [Day 4 - GLS, blocking vs non-blocking and Synthesis-Simulation mismatch](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-4---gls-blocking-vs-non-blocking-and-synthesis-simulation-mismatch)\
 [Day 5 - DFT](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-5---dft)\
 [Day 6 - Introduction to Logic Synthesis](https://github.com/ariefsulaiman/sd-training#day-6---introduction-to-logic-synthesis)\
-[Day 7 - Basics of STA](https://github.com/ariefsulaiman/sd-training#day-7---basics-of-sta)
+[Day 7 - Basics of STA](https://github.com/ariefsulaiman/sd-training#day-7---basics-of-sta)\
+[Day 8 - Advanced constraints](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-8---advanced-constraints)
 
 
 ## Day 0 - System/Tool Setup Check. GitHub ID creation
