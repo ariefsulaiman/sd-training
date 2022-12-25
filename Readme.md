@@ -645,31 +645,56 @@ Command : Gvim multiple_module.v
 <details>
   <summary>Lab 8 - Loading design get_cells, get_ports, get_nets</summary>
 
-Content
+![Slide21](https://user-images.githubusercontent.com/118953928/209462777-6c227638-d1ea-4bac-86b5-a31029e6f214.JPG)
+![Slide22](https://user-images.githubusercontent.com/118953928/209462779-46b72346-69a4-464f-ba04-4592f5433966.JPG)
+![Slide23](https://user-images.githubusercontent.com/118953928/209462782-7aae4a46-6b41-49bc-ad69-e7d1fcd2b982.JPG)
+![Slide24](https://user-images.githubusercontent.com/118953928/209462783-a6e6a54b-d2fd-4cc6-b348-90bc09599758.JPG)
+![Slide25](https://user-images.githubusercontent.com/118953928/209462784-1739b615-510f-41f7-abfe-7377f8d78b64.JPG)
+![Slide26](https://user-images.githubusercontent.com/118953928/209462785-86a7363d-0a8d-443a-9524-3f75dd629cf3.JPG)
+![Slide27](https://user-images.githubusercontent.com/118953928/209462786-7db3f743-0427-4395-8895-d999f0064b70.JPG)
 </details>
 
 <details>
   <summary>Lab 9 - get_pins, get_clocks, querying_clocks</summary>
 
-Content
+![Slide29](https://user-images.githubusercontent.com/118953928/209462796-e3ac68a5-9107-4ff5-9ec0-34cfc3dc66e1.JPG)
+![Slide30](https://user-images.githubusercontent.com/118953928/209462799-c3969e1b-3b7d-4a57-95b5-2f763dcb1085.JPG)
 </details>
 
 <details>
   <summary>Lab 10 - create_clock waveform</summary>
 
-Content
+![Slide32](https://user-images.githubusercontent.com/118953928/209462807-3e2a4cee-dc60-48c1-9439-e83fa50097b7.JPG)
+![Slide33](https://user-images.githubusercontent.com/118953928/209462809-31680b2c-05f7-4c6d-b4fb-71b4e50153d3.JPG)
+![Slide34](https://user-images.githubusercontent.com/118953928/209462810-91baa2e4-1df4-4782-b113-24180a501416.JPG)
+![Slide35](https://user-images.githubusercontent.com/118953928/209462811-57d826b3-1614-4aa9-8efb-79e6f65616d0.JPG)
+![Slide36](https://user-images.githubusercontent.com/118953928/209462812-75ea043b-d5c1-46f9-9700-eee2084219db.JPG)
 </details>
 
 <details>
   <summary>Lab 11- Clock Network Modelling - Uncertainty, report_timing</summary>
 
-Content
+![Slide38](https://user-images.githubusercontent.com/118953928/209462822-7894e5db-7db1-4c02-afb6-22a6ccd185c1.JPG)
+![Slide39](https://user-images.githubusercontent.com/118953928/209462826-e865d63c-35b1-40f9-86c3-878b1c00d930.JPG)
+![Slide40](https://user-images.githubusercontent.com/118953928/209462828-77ef3b89-adfa-494e-803a-1fe92929302c.JPG)
+![Slide41](https://user-images.githubusercontent.com/118953928/209462832-217632b2-416a-4e96-95ba-98ae94abdde5.JPG)
+![Slide42](https://user-images.githubusercontent.com/118953928/209462834-c4dcc7ce-0ddc-42ff-b465-99004005ea39.JPG)
 </details>
 
 <details>
   <summary>Lab 12- IO Delays - Uncertainty</summary>
 
-Content
+![Slide44](https://user-images.githubusercontent.com/118953928/209462843-9d7249c6-7553-4fc9-9476-cfb56face885.JPG)
+![Slide45](https://user-images.githubusercontent.com/118953928/209462845-d088a637-fb7f-4784-ae03-8db87e695b3e.JPG)
+![Slide46](https://user-images.githubusercontent.com/118953928/209462846-92795c88-2745-4094-8b51-2ec9df310b6f.JPG)
+![Slide47](https://user-images.githubusercontent.com/118953928/209462847-c8e8a137-3d9d-4529-a1ad-f37d7b23a303.JPG)
+![Slide48](https://user-images.githubusercontent.com/118953928/209462850-14d161a5-10bd-40d0-a7ab-e3e1c903b6a0.JPG)
+![Slide49](https://user-images.githubusercontent.com/118953928/209462851-97f70490-c2de-4461-a99c-48d08c3eaa31.JPG)
+![Slide50](https://user-images.githubusercontent.com/118953928/209462852-8713029d-0d71-4a60-81f1-10dec04d822d.JPG)
+![Slide51](https://user-images.githubusercontent.com/118953928/209462853-789f93a9-3cee-4488-84b9-fa75ab5ac89f.JPG)
+![Slide52](https://user-images.githubusercontent.com/118953928/209462854-0b411e9d-52c0-4b93-a9cb-7b1755c5cbf2.JPG)
+![Slide53](https://user-images.githubusercontent.com/118953928/209462855-96276937-368c-4651-b29b-813decae142f.JPG)
+![Slide54](https://user-images.githubusercontent.com/118953928/209462856-da9ed510-c2b6-4359-b307-0aec2c609ca5.JPG)
 </details>
 
 <details>
