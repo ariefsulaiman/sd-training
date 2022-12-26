@@ -700,29 +700,52 @@ Command : Gvim multiple_module.v
 <details>
   <summary>Lecture 9 - SDC Part3 generated_clk</summary>
 
-Content
+![Slide56](https://user-images.githubusercontent.com/118953928/209539007-3448fd48-a25c-4530-b2ce-b3f33cfd4e5e.JPG)
+![Slide57](https://user-images.githubusercontent.com/118953928/209539010-808c7b9e-aab8-4c68-a376-4392a15a0f62.JPG)
 </details>
 
 <details>
   <summary>Lab 13 - generated_clocks</summary>
 
-Content
+![Slide59](https://user-images.githubusercontent.com/118953928/209539038-e4f9430f-4dff-4573-afca-f342f47f851d.JPG)
+![Slide60](https://user-images.githubusercontent.com/118953928/209539042-1a50d905-15ee-4834-a811-2362180044e1.JPG)
+![Slide61](https://user-images.githubusercontent.com/118953928/209539044-b1663393-520e-4f51-b311-84c7249a8ecb.JPG)
+![Slide62](https://user-images.githubusercontent.com/118953928/209539047-731aac47-6a48-4239-a1bf-f0e355dabbcb.JPG)
+![Slide63](https://user-images.githubusercontent.com/118953928/209539049-06bde80d-4e51-47ff-83f1-bea53f918881.JPG)
+![Slide64](https://user-images.githubusercontent.com/118953928/209539053-792e871b-6cfc-4a4a-9040-87a4413ba022.JPG)
+![Slide65](https://user-images.githubusercontent.com/118953928/209539054-54f7d8c7-3c08-4306-ad9c-b30dfc37913a.JPG)
 </details>
 
 <details>
   <summary>Lecture 10 - SDC Part4 vclk, max_latency, rise_fall IO Delays</summary>
 
-Content
+![Slide67](https://user-images.githubusercontent.com/118953928/209539093-700817b8-4063-4739-83fe-480e184228b6.JPG)
+![Slide68](https://user-images.githubusercontent.com/118953928/209539101-502292b3-a555-47d5-8a07-01ded4f4b9cf.JPG)
+![Slide69](https://user-images.githubusercontent.com/118953928/209539105-ff4feea1-2cee-49e3-b06b-c40d9be249ad.JPG)
+![Slide70](https://user-images.githubusercontent.com/118953928/209539110-4b5af6cc-2f09-4454-a4a2-88627d0ef01f.JPG)
+![Slide71](https://user-images.githubusercontent.com/118953928/209539112-31b44c42-7f23-4349-b5fe-1aa8cddf14ff.JPG)
+![Slide72](https://user-images.githubusercontent.com/118953928/209539113-2ab9e3b2-1c15-472b-ad74-52fa3467bed4.JPG)
 </details>
 
 <details>
   <summary>Lab 15 - part1 Set_Max_delay</summary>
 
-Content
+![Slide75](https://user-images.githubusercontent.com/118953928/209539166-c445002b-0c00-48ed-9cd9-a18880ae9101.JPG)
+![Slide76](https://user-images.githubusercontent.com/118953928/209539171-d013e896-1e99-4895-b7fb-d136950366ce.JPG)
+![Slide77](https://user-images.githubusercontent.com/118953928/209539175-afe17c7d-ae27-4f81-bd86-a39bebee2141.JPG)
+![Slide78](https://user-images.githubusercontent.com/118953928/209539176-33a0b4a2-deb3-43cf-9d4f-86f5d978070f.JPG)
+![Slide79](https://user-images.githubusercontent.com/118953928/209539180-95427563-fe86-44fb-a691-ce4cde854388.JPG)
+![Slide80](https://user-images.githubusercontent.com/118953928/209539184-f0569bda-e49b-48b7-9d75-ccf5cecbb4e0.JPG)
+![Slide81](https://user-images.githubusercontent.com/118953928/209539186-110ca6b0-92c6-4ce1-b771-fe051937d831.JPG)
 </details>
 
 <details>
   <summary>Lab 15 - part2 - VCLK</summary>
 
-Content
+![Slide83](https://user-images.githubusercontent.com/118953928/209539223-ecc2baf2-a4c3-4e55-9286-28641d223103.JPG)
+![Slide84](https://user-images.githubusercontent.com/118953928/209539227-4ac22ee5-10dc-4606-a229-134f57cc8237.JPG)
+![Slide85](https://user-images.githubusercontent.com/118953928/209539232-20de0cf1-3162-4fa9-bc91-071c322c0ed4.JPG)
+![Slide86](https://user-images.githubusercontent.com/118953928/209539234-fc7e51ca-943e-44fe-b6e7-b8b5cc587e6a.JPG)
+![Slide87](https://user-images.githubusercontent.com/118953928/209539236-21165a31-5e72-4648-b2f4-6cb9aba429ff.JPG)
+![Slide88](https://user-images.githubusercontent.com/118953928/209539238-997e2e74-f632-488a-8003-49956fd0c8e6.JPG)
 </details>
