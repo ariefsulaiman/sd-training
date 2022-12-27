@@ -749,3 +749,74 @@ Command : Gvim multiple_module.v
 ![Slide87](https://user-images.githubusercontent.com/118953928/209539236-21165a31-5e72-4648-b2f4-6cb9aba429ff.JPG)
 ![Slide88](https://user-images.githubusercontent.com/118953928/209539238-997e2e74-f632-488a-8003-49956fd0c8e6.JPG)
 </details>
+
+## Day 9 - Optimization 
+
+<details>
+  <summary>Lecture11 - Optimizations Combinational Opt</summary>
+  
+Content
+</details>
+
+<details>
+  <summary>Lecture12 Sequential Optimizations</summary>
+  
+Content
+</details>
+
+<details>
+  <summary>Lab16 - part1 Combinational_optimizations</summary>
+  
+Content
+</details>
+
+<details>
+  <summary>Lab16 - part2 resource sharing optimizations</summary>
+  
+Content
+</details>
+
+<details>
+  <summary>lab17 - seq optimizations</summary>
+  
+Content
+</details>
+
+<details>
+  <summary>Lecture 13 special optimizations</summary>
+  
+Content
+</details>
+
+<details>
+  <summary> Lecture 14 - How Paths are timed MCP?</summary>
+  
+Content
+</details>
+
+<details>
+  <summary>Lab 18 - Boundary Optimization</summary>
+  
+Content
+</details>
+
+<details>
+  <summary>Lab 19 - Register Retiming</summary>
+  
+Content
+</details>
+
+<details>
+  <summary>Lab 20 - Isolating output ports</summary>
+  
+Content
+</details>
+
+<details>
+  <summary>Lab21 - MultiCycle path</summary>
+  
+Content
+</details>
+
+
+  
