@@ -10,7 +10,8 @@
 [Day 5 - DFT](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-5---dft)\
 [Day 6 - Introduction to Logic Synthesis](https://github.com/ariefsulaiman/sd-training#day-6---introduction-to-logic-synthesis)\
 [Day 7 - Basics of STA](https://github.com/ariefsulaiman/sd-training#day-7---basics-of-sta)\
-[Day 8 - Advanced constraints](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-8---advanced-constraints)
+[Day 8 - Advanced constraints](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-8---advanced-constraints)\
+[Day 9 - Optimization](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-9---optimization)
 
 
 ## Day 0 - System/Tool Setup Check. GitHub ID creation
@@ -753,31 +754,31 @@ Command : Gvim multiple_module.v
 ## Day 9 - Optimization 
 
 <details>
-  <summary>Lecture11 - Optimizations Combinational Opt</summary>
+  <summary>Lecture 11 - Optimizations Combinational Opt</summary>
   
 Content
 </details>
 
 <details>
-  <summary>Lecture12 Sequential Optimizations</summary>
+  <summary>Lecture 12 Sequential Optimizations</summary>
   
 Content
 </details>
 
 <details>
-  <summary>Lab16 - part1 Combinational_optimizations</summary>
+  <summary>Lab 16 - part1 Combinational_optimizations</summary>
   
 Content
 </details>
 
 <details>
-  <summary>Lab16 - part2 resource sharing optimizations</summary>
+  <summary>Lab 16 - part2 resource sharing optimizations</summary>
   
 Content
 </details>
 
 <details>
-  <summary>lab17 - seq optimizations</summary>
+  <summary>Lab 17 - seq optimizations</summary>
   
 Content
 </details>
@@ -789,7 +790,7 @@ Content
 </details>
 
 <details>
-  <summary> Lecture 14 - How Paths are timed MCP?</summary>
+  <summary>Lecture 14 - How Paths are timed MCP?</summary>
   
 Content
 </details>
@@ -813,7 +814,7 @@ Content
 </details>
 
 <details>
-  <summary>Lab21 - MultiCycle path</summary>
+  <summary>Lab 21 - MultiCycle path</summary>
   
 Content
 </details>
