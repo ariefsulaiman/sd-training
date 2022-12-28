@@ -798,6 +798,14 @@ Command : Gvim multiple_module.v
 
 - Advanced
 	- State optimization
+### **Optimization of unloaded output**
+	
+### **Controlling sequential optimization in DC**
+```
+- compile_seqmap_propagate_constants
+- compile_delete_unloaded_sequential_cells
+- compile_register_replication
+```
 	
 
 </details>
