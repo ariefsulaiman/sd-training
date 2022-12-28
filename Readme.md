@@ -788,7 +788,18 @@ Command : Gvim multiple_module.v
 <details>
   <summary>Lecture 12 Sequential Optimizations</summary>
   
-Content
+### **Sequential Logic Optimization**
+
+- Basic 
+	- Sequential Constant Propagation
+	- Retiming
+	- Unused Flop removal
+	- Clock gating
+
+- Advanced
+	- State optimization
+	
+
 </details>
 
 <details>
