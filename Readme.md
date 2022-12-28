@@ -816,6 +816,9 @@ Content
 <details>
   <summary>Lab 21 - MultiCycle path</summary>
   
+```
+test
+```
 Content
 </details>
 
