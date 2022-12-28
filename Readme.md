@@ -756,7 +756,29 @@ Command : Gvim multiple_module.v
 <details>
   <summary>Lecture 11 - Optimizations Combinational Opt</summary>
   
-Content
+### **Optimization Goals**
+
+- Cost function based optimization
+	- Optimization till the cost is met.
+		for example cost function for timing is IO delay, clock period, max delay.
+	- Over optimization of one goal will harm other goals.
+	- Goals for sythesis
+		- Meet timing
+		- Meet area
+		- Meet power
+	- Remember that there will be trade-off to get faster cell.
+	
+### **Combinational Logic Optimization**
+
+1.	Squeezing the logic to get most optimised design.
+	- Area and Power savings
+2.	Constant  Propagation
+	- Direct Optimization
+3. 	Boolean Logic Optimization
+	- K-Map 
+	- Quine McKluskey
+	
+
 </details>
 
 <details>
