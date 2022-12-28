@@ -819,7 +819,81 @@ Command : Gvim multiple_module.v
 <details>
   <summary>Lab 16 - part1 Combinational_optimizations</summary>
   
-Content
+### **Optimization of opt_check.v**
+```
+IN DESIGN COMPILER
+sh gvim DC_WORKSHOP/verilog_files/opt_check*.v -o
+read_verilog DC_WORKSHOP/verilog_files/opt_check.v
+report_timing
+get_cells *
+report_timing -to y2
+report_timing -to y1
+write -f ddc -out opt_check.ddc
+
+```
+
+```
+IN DESIGN VISION
+reset_design
+read_ddc DC_WORKSHOP/verilog_files/opt_check.ddc
+```
+![Slide14](https://user-images.githubusercontent.com/118953928/209793583-8a6cb822-e553-454a-88d2-b56664fc898b.JPG)
+![Slide15](https://user-images.githubusercontent.com/118953928/209793592-05e0ebf2-cf3b-4acc-9bc0-d4b3a5a667b5.JPG)
+	
+### **Optimization of opt_check2.v**
+```
+IN DESIGN COMPILER
+reset_design
+read_ddc DC_WORKSHOP/verilog_files/opt_check2.v 
+link
+compile
+write -f ddc -out opt_check2.ddc
+```
+
+```
+IN DESIGN VISION
+reset_design
+read_ddc DC_WORKSHOP/verilog_files/opt_check2.ddc
+```
+![Slide16](https://user-images.githubusercontent.com/118953928/209793596-5a503ce2-0f71-49a4-bdfb-6736f4d10c35.JPG)
+![Slide17](https://user-images.githubusercontent.com/118953928/209793598-37e503fd-91d1-4c33-9f7e-7dba45d31238.JPG)
+	
+### **Optimization of opt_check3.v**
+```
+IN DESIGN COMPILER
+reset_design
+read_ddc DC_WORKSHOP/verilog_files/opt_check3.v 
+link
+compile
+write -f ddc -out opt_check3.ddc
+```
+
+```
+IN DESIGN VISION
+reset_design
+read_ddc DC_WORKSHOP/verilog_files/opt_check3.ddc
+```
+![Slide18](https://user-images.githubusercontent.com/118953928/209793600-4e7c5384-b8af-4adb-8e69-ff5398c8823e.JPG)
+![Slide19](https://user-images.githubusercontent.com/118953928/209793604-819c4912-3218-4a76-b570-93677b059aa2.JPG)
+	
+### **Optimization of opt_check4.v**
+```
+IN DESIGN COMPILER
+reset_design
+read_ddc DC_WORKSHOP/verilog_files/opt_check4.v 
+link
+compile
+write -f ddc -out opt_check4.ddc
+```
+
+```
+IN DESIGN VISION
+reset_design
+read_ddc DC_WORKSHOP/verilog_files/opt_check4.ddc
+```
+![Slide20](https://user-images.githubusercontent.com/118953928/209793609-2e0ede4c-c75e-4bc4-8274-fe2393ad4e6f.JPG)
+![Slide21](https://user-images.githubusercontent.com/118953928/209793612-48518d7e-5048-4510-8f9e-5cd8faaba70d.JPG)
+
 </details>
 
 <details>
