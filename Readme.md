@@ -777,8 +777,12 @@ Command : Gvim multiple_module.v
 3. 	Boolean Logic Optimization
 	- K-Map 
 	- Quine McKluskey
-	
 
+![Slide3](https://user-images.githubusercontent.com/118953928/209755542-10728535-fdb2-418b-82eb-67ce436731ef.JPG)
+![Slide4](https://user-images.githubusercontent.com/118953928/209755545-03274155-4906-41fe-a9d3-5bfe5867a9e4.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/209755546-fbef08e8-cf8d-4bbc-9232-017d31163241.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/209755550-83e86cbf-49f1-41e7-b249-14a0ddc98130.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/209755552-4b5851e7-09bb-4334-b933-f9714c831534.JPG)
 </details>
 
 <details>
