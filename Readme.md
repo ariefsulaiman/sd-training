@@ -798,13 +798,19 @@ Command : Gvim multiple_module.v
 
 - Advanced
 	- State optimization
+	
+![Slide9](https://user-images.githubusercontent.com/118953928/209770915-44e42126-506b-4908-8a7e-b280b3725339.JPG)
+![Slide10](https://user-images.githubusercontent.com/118953928/209770919-7b1e18c8-2c40-40c9-b575-4eeaf43d932a.JPG)
+![Slide11](https://user-images.githubusercontent.com/118953928/209770921-d3f0289c-9d63-4a86-9395-ae364d1f0a47.JPG)
+
 ### **Optimization of unloaded output**
+![Slide12](https://user-images.githubusercontent.com/118953928/209770974-ae07c530-e3fa-43b1-b328-fbc9978ad507.JPG)
 	
 ### **Controlling sequential optimization in DC**
 ```
-- compile_seqmap_propagate_constants
-- compile_delete_unloaded_sequential_cells
-- compile_register_replication
+- compile_seqmap_propagate_constants --> for constant optimization
+- compile_delete_unloaded_sequential_cells --> for sequential optimization
+- compile_register_replication --> for clonning register
 ```
 	
 
