@@ -1057,5 +1057,57 @@ report_timing -nosplit -inp -cap -trans -sig 4
 
 </details>
 
+## Day 10 - Quality checks 
 
+<details>
+<summary>L1 - Lecture Report timing</summary>
+	
+![Slide3](https://user-images.githubusercontent.com/118953928/210225260-f0217fb6-e18c-4777-a46e-40510f91bc9b.JPG)
+![Slide4](https://user-images.githubusercontent.com/118953928/210225268-880a3d2a-5967-4fd5-9cf9-b49433d6b900.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/210225276-7e126bf4-093b-47f9-80ad-ccb0553febe2.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/210225281-9107dfe7-76d3-4400-aa4b-2a96a0429004.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/210225282-ba127fd4-2c9d-4b7a-8119-fddb22d4ffe5.JPG)
+</details>
   
+	
+<details>
+<summary>L2 - Lab Report timing</summary>
+	
+![Slide9](https://user-images.githubusercontent.com/118953928/210225312-669e7bce-0229-4cda-aace-9e7df89b6703.JPG)
+![Slide10](https://user-images.githubusercontent.com/118953928/210225317-71c48336-346f-4340-afa6-c4e1c624e4a0.JPG)
+![Slide11](https://user-images.githubusercontent.com/118953928/210225319-027d8db8-518f-452e-9ddd-838e3bd58dd4.JPG)
+![Slide12](https://user-images.githubusercontent.com/118953928/210225323-69d3aed5-caec-48fe-b9f8-ea24897ecbdc.JPG)
+![Slide13](https://user-images.githubusercontent.com/118953928/210225326-0eafa32e-3821-483b-b8bf-ce592c06b062.JPG)
+![Slide14](https://user-images.githubusercontent.com/118953928/210225335-51608585-ba71-4eb5-8366-3cf6b95a087e.JPG)
+</details>
+	
+<details>
+<summary>L3 - Lab Check_timing, Check_design, Set_max_capacitance, HFN</summary>
+	
+![Slide16](https://user-images.githubusercontent.com/118953928/210225408-d836e8c8-1a71-4700-8146-4e685010f2d5.JPG)
+![Slide17](https://user-images.githubusercontent.com/118953928/210225419-b6eb9497-016e-4841-8ac4-adc6c8ee2d2f.JPG)
+![Slide18](https://user-images.githubusercontent.com/118953928/210225423-9d2aeb6c-a82d-473c-b31c-4e0b19a99ede.JPG)
+![Slide19](https://user-images.githubusercontent.com/118953928/210225424-213ea58a-1d45-4a44-b92d-3c310856a933.JPG)
+![Slide20](https://user-images.githubusercontent.com/118953928/210225427-e892ef0e-db7d-4fd6-858b-48f66622e676.JPG)
+![Slide21](https://user-images.githubusercontent.com/118953928/210225431-c9217d53-988d-4a0b-adbe-0ce6dc3cc241.JPG)
+![Slide22](https://user-images.githubusercontent.com/118953928/210225434-1f6cef8c-bb20-4905-9e5b-fb654df50cb0.JPG)
+![Slide23](https://user-images.githubusercontent.com/118953928/210225441-a9ec4a8f-dfc2-4e00-8dfc-b875f32fd936.JPG)
+![Slide24](https://user-images.githubusercontent.com/118953928/210225442-38006c60-c505-4d2e-a91a-914c0ae49b1a.JPG)
+![Slide25](https://user-images.githubusercontent.com/118953928/210225443-480565a7-76bf-488f-9264-d501fcde119e.JPG)
+![Slide26](https://user-images.githubusercontent.com/118953928/210225445-4e1d3c6a-8a7d-4966-847b-2a062e852c7e.JPG)
+![Slide27](https://user-images.githubusercontent.com/118953928/210225448-8a45d3f0-1e28-439d-8787-db4cd1e48d18.JPG)
+![Slide28](https://user-images.githubusercontent.com/118953928/210225453-30fd4306-b1f4-4c6a-bf1c-b5d773f758fe.JPG)
+![Slide29](https://user-images.githubusercontent.com/118953928/210225459-75586f3a-8464-4399-a33e-0ef7a2067e99.JPG)
+![Slide30](https://user-images.githubusercontent.com/118953928/210225460-426fffef-1e9d-42bd-a828-0de021fd5027.JPG)
+![Slide31](https://user-images.githubusercontent.com/118953928/210225462-abbd5f42-31a7-4caa-ac07-8709169197eb.JPG)
+![Slide32](https://user-images.githubusercontent.com/118953928/210225464-8fc07b72-b559-484b-831b-ba222d7c9636.JPG)
+</details>
+	
+	
+<details>
+<summary>Timing Models</summary>
+	
+![Slide33](https://user-images.githubusercontent.com/118953928/210225488-bc4d5b5f-5af7-4454-ab06-249b678393cc.JPG)
+![Slide34](https://user-images.githubusercontent.com/118953928/210225494-b16305ba-3f95-4ec9-bdcd-27afc7462b9c.JPG)
+![Slide35](https://user-images.githubusercontent.com/118953928/210225496-288c2700-9ddd-4080-b17f-3b771678e815.JPG)
+</details>
