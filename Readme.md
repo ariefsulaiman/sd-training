@@ -949,46 +949,112 @@ report_area
 <details>
   <summary>Lab 17 - seq optimizations</summary>
   
-Content
+![Slide34](https://user-images.githubusercontent.com/118953928/210192542-6d1d9b51-b5ba-4403-bc63-efecbdc85fd0.JPG)
+![Slide35](https://user-images.githubusercontent.com/118953928/210192549-788850bd-df39-4c6c-aa7f-aa758b652306.JPG)
+![Slide36](https://user-images.githubusercontent.com/118953928/210192551-1b42f6e0-0a59-4055-9a7d-93f9f5108438.JPG)
+![Slide37](https://user-images.githubusercontent.com/118953928/210192552-a04028cf-ae97-40af-a11f-cec9af42a0e0.JPG)
+![Slide38](https://user-images.githubusercontent.com/118953928/210192554-0156b5a0-8902-4c5d-8bba-d5cb3fa8fdf0.JPG)
+![Slide39](https://user-images.githubusercontent.com/118953928/210192556-160d9e46-b0c9-46d1-a4b8-5bf863b542fe.JPG)
+![Slide40](https://user-images.githubusercontent.com/118953928/210192559-e4ca2c1f-b820-4e30-ab95-0d15f351704c.JPG)
+![Slide41](https://user-images.githubusercontent.com/118953928/210192561-d83ce0c5-c956-4c7a-9a9f-480bd986f6d6.JPG)
+![Slide42](https://user-images.githubusercontent.com/118953928/210192562-ba2fc0d2-100e-4c43-b837-cb8880516b84.JPG)
+![Slide43](https://user-images.githubusercontent.com/118953928/210192565-08cf7cb1-30c0-4258-b146-d9bd8c5370b4.JPG)
+![Slide44](https://user-images.githubusercontent.com/118953928/210192567-f2c864a6-2178-419e-81f5-3d68268e674f.JPG)
 </details>
 
 <details>
   <summary>Lecture 13 special optimizations</summary>
   
-Content
+![Slide46](https://user-images.githubusercontent.com/118953928/210192583-5fbc793f-a229-4494-9124-5c3a0bd5cd53.JPG)
+![Slide47](https://user-images.githubusercontent.com/118953928/210192587-f84bb934-bf66-4690-81c2-f3f1aa213e44.JPG)
+![Slide48](https://user-images.githubusercontent.com/118953928/210192589-57ee9c53-897a-4c3c-b197-c161e669ceea.JPG)
+![Slide49](https://user-images.githubusercontent.com/118953928/210192590-1685a477-a9c8-4439-8bd3-a75a6474c696.JPG)
+![Slide50](https://user-images.githubusercontent.com/118953928/210192592-2eabf78b-20e7-4f83-ad8b-023e49c993be.JPG)
+![Slide51](https://user-images.githubusercontent.com/118953928/210192594-1f3f1237-26e6-42a9-94f3-a9df476e6a43.JPG)
 </details>
 
 <details>
   <summary>Lecture 14 - How Paths are timed MCP?</summary>
   
-Content
+![Slide53](https://user-images.githubusercontent.com/118953928/210192614-2200c780-ed7b-4fc7-9571-492948e5b25c.JPG)
+![Slide54](https://user-images.githubusercontent.com/118953928/210192617-80ebc7a7-1a46-471d-ae60-0cd7af2892df.JPG)
 </details>
 
 <details>
   <summary>Lab 18 - Boundary Optimization</summary>
   
-Content
+![Slide56](https://user-images.githubusercontent.com/118953928/210192641-d987e246-2576-4f4c-9e7a-a42988800dc6.JPG)
+![Slide57](https://user-images.githubusercontent.com/118953928/210192644-5fdb469e-068a-4832-a2f4-ebc6eb37fd78.JPG)
 </details>
 
 <details>
   <summary>Lab 19 - Register Retiming</summary>
   
-Content
+```
+read_verilog DC_WORKSHOP/verilog_files/check_reg_retime.v
+link
+compile
+report_timing
+sh gvim DC_WORKSHOP/verilog_files/reg_retime_cons.tcl
+source DC_WORKSHOP/verilog_files/reg_retime_cons.tcl
+report_clocks
+report_timing
+compile_ultra -retime
+```
+![Slide59](https://user-images.githubusercontent.com/118953928/210192652-d879ae36-abdd-433a-884d-1a0b7ffdf0f4.JPG)
+![Slide60](https://user-images.githubusercontent.com/118953928/210192653-ed514244-cc89-4901-9e84-f6a8be8ce6d3.JPG)
+![Slide61](https://user-images.githubusercontent.com/118953928/210192654-6ea8a95b-733d-4112-a712-2972c82ced0c.JPG)
+![Slide62](https://user-images.githubusercontent.com/118953928/210192656-9b6c6a0f-f556-43ac-9389-6e0f23200532.JPG)
 </details>
 
 <details>
   <summary>Lab 20 - Isolating output ports</summary>
   
-Content
+```
+set_isolate_ports -type buffer [all_outputs]
+compile_ultra
+report_timing -nosplit -inp -cap -trans -sig 4
+report_timing -from val_out_reg[0]/CLK -to val_out_reg[0]/D -nosplit -inp -cap -trans -sig 4
+```
+![Slide64](https://user-images.githubusercontent.com/118953928/210192667-710da853-13db-4625-ae5d-f4f5d7558366.JPG)
+![Slide65](https://user-images.githubusercontent.com/118953928/210192670-63b004be-8b71-495c-ba1b-50e0b122ca86.JPG)
+![Slide66](https://user-images.githubusercontent.com/118953928/210192671-d1420054-d82a-436b-b08a-822ffb690fff.JPG)
+![Slide67](https://user-images.githubusercontent.com/118953928/210192674-237c4303-c85d-48b6-b86a-9a86d72a3a4c.JPG)
+![Slide68](https://user-images.githubusercontent.com/118953928/210192676-0086ccf3-d81e-4ceb-bd1a-39a200e6ab3b.JPG)
+![Slide69](https://user-images.githubusercontent.com/118953928/210192681-22b19641-e184-4b95-9959-f8b8e4d5f1e9.JPG)
 </details>
 
 <details>
   <summary>Lab 21 - MultiCycle path</summary>
   
 ```
-test
+read_verilog DC_WORKSHOP/verilog_files/mcp_check.v
+link
+compile_ultra
+sh gvim DC_WORKSHOP/verilog_files/mcp_check_cons.tcl
+source DC_WORKSHOP/verilog_files/mcp_check_cons.tcl
+report_timing
+compile_ultra
+report_timing
+set_multicycle_path -setup 2 -to prod_reg[*]/D -from [all_inputs] 	
+report_timing -to prod_reg[*]/D -from valid_reg/CLK
+report_clock *
 ```
-Content
+![Slide71](https://user-images.githubusercontent.com/118953928/210192700-f795aaae-9cec-4e1c-8f39-057e36ad7215.JPG)
+![Slide72](https://user-images.githubusercontent.com/118953928/210192701-e4b1c6d9-f2ea-443d-900a-b79d42f97445.JPG)
+![Slide73](https://user-images.githubusercontent.com/118953928/210192702-569e4b99-2f11-45fc-8629-94d9ec7ce378.JPG)
+![Slide74](https://user-images.githubusercontent.com/118953928/210192703-7aca42d6-7ae6-4f1a-94d9-6ee75636ecc1.JPG)
+```
+report_timing -to prod_reg[*]/D -from [all_inputs]
+report_timing -delay min
+set_multicycle_path -hold 1 -from [all_inputs] -to prod_reg[*]/D
+report_timing -delay min -to prod_reg[*]/D -from [all_inputs]
+report_timing -nosplit -inp -cap -trans -sig 4
+```
+
+![Slide75](https://user-images.githubusercontent.com/118953928/210192704-e380ab1a-e21c-4440-91e5-81b9688a7646.JPG)
+
+
 </details>
 
 
