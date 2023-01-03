@@ -1112,3 +1112,20 @@ report_timing -nosplit -inp -cap -trans -sig 4
 ![Slide34](https://user-images.githubusercontent.com/118953928/210225494-b16305ba-3f95-4ec9-bdcd-27afc7462b9c.JPG)
 ![Slide35](https://user-images.githubusercontent.com/118953928/210225496-288c2700-9ddd-4080-b17f-3b771678e815.JPG)
 </details>
+
+## Day 11 -  Introduction to the BabySoC
+
+<details>
+<summary>Theory</summary>
+
+![note_page-0001](https://user-images.githubusercontent.com/118953928/210316604-6ede7510-5eec-4d2d-840f-5e97abe87e80.jpg)
+![note_page-0002](https://user-images.githubusercontent.com/118953928/210316612-f7f9bec4-18da-4be6-9af1-f35888056002.jpg)
+![note_page-0003](https://user-images.githubusercontent.com/118953928/210316614-14a8d378-7453-4bff-9adf-27d2ed36f025.jpg)
+</details>
+
+
+<details>
+<summary>Video Summary</summary>
+
+Content
+</details>
