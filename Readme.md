@@ -1127,5 +1127,6 @@ report_timing -nosplit -inp -cap -trans -sig 4
 <details>
 <summary>Video Summary</summary>
 
-Content
+![note_page-0004](https://user-images.githubusercontent.com/118953928/210473719-a6120a4c-0fe1-4d09-9c5a-ac8312c3f4f1.jpg)
+![note_page-0005](https://user-images.githubusercontent.com/118953928/210473753-603222a4-a88f-4609-8692-4222b7114922.jpg)
 </details>
