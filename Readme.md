@@ -1137,32 +1137,44 @@ report_timing -nosplit -inp -cap -trans -sig 4
 <details>
 <summary>mythcore_test.v & tb_mythcore_test.v</summary>
 
+![Slide3](https://user-images.githubusercontent.com/118953928/210831890-ee893609-753e-4ad5-9b20-128c91fb1038.JPG)
+![Slide4](https://user-images.githubusercontent.com/118953928/210831901-2ff93473-752b-4982-af34-20def09dd156.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/210831904-3f27d880-6c7e-44b1-9878-e4238a9333d7.JPG)
 </details>
 	
 <details>
 <summary>avsddac.v & avsddac_tb_test.v</summary>
 
+![Slide7](https://user-images.githubusercontent.com/118953928/210831996-94d9c0d7-759a-4f95-b5c4-d01314c3ad12.JPG)
+![Slide8](https://user-images.githubusercontent.com/118953928/210832002-55ab7941-0d76-46bb-a3c6-380539def390.JPG)
 </details>
 
 <details>
 <summary>avsd_pll_1v8.v pll_tb.v</summary>
 
+![Slide10](https://user-images.githubusercontent.com/118953928/210832215-12b9a06f-de3f-4b61-8e6f-c8b89f1e5813.JPG)
+![Slide11](https://user-images.githubusercontent.com/118953928/210832224-2c81a359-ea3b-4168-8db2-8417d1a422e7.JPG)
 </details>
 
 <details>
 <summary>interactive mode(debug mode)</summary>
 
+![Slide13](https://user-images.githubusercontent.com/118953928/210832288-ec323a98-f513-47da-81d4-31b4a2e0832f.JPG)
+![Slide14](https://user-images.githubusercontent.com/118953928/210832296-4bf92702-abc2-4355-9612-3881ee35f060.JPG)
 </details>
 
 <details>
 <summary>rvmyth_pll.v & rvmyth_pll_tb.v </summary>
 
+![Slide16](https://user-images.githubusercontent.com/118953928/210832421-30260ec4-6cb9-40b9-8509-3b6741335731.JPG)
+![Slide17](https://user-images.githubusercontent.com/118953928/210832431-2dfb3fd1-32da-4e8b-b9f6-e815a561e98b.JPG)
 </details>
 
-	
 <details>
 <summary>rvmyth_avsddac.v & rvmyth_avsddac_TB.v</summary>
 
+![Slide19](https://user-images.githubusercontent.com/118953928/210832527-d50c3b61-62d0-4d53-b3ba-5ce19ae513f2.JPG)
+![Slide20](https://user-images.githubusercontent.com/118953928/210832533-ce78f1b3-ae24-4208-8b82-bdd2c65f2e06.JPG)
 </details>
 
 
@@ -1174,9 +1186,12 @@ report_timing -nosplit -inp -cap -trans -sig 4
 <details>
 <summary>Difference Table For All The Modes In Interactive Mode</summary>
 
+![Slide24](https://user-images.githubusercontent.com/118953928/210832625-b63c4421-154a-4543-be34-98e3abcb7126.JPG)
 </details>
 	
 <details>
 <summary>One Take A Example Circuit For Example</summary>
 
+![Slide26](https://user-images.githubusercontent.com/118953928/210832683-a5bfa519-362c-4413-af53-aa71dd7cb30e.JPG)
+![Slide27](https://user-images.githubusercontent.com/118953928/210832696-efcd90a1-59e5-421b-95f6-d2fc4792751d.JPG)
 </details>
