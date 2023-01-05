@@ -1131,3 +1131,52 @@ report_timing -nosplit -inp -cap -trans -sig 4
 ![note_page-0004](https://user-images.githubusercontent.com/118953928/210473719-a6120a4c-0fe1-4d09-9c5a-ac8312c3f4f1.jpg)
 ![note_page-0005](https://user-images.githubusercontent.com/118953928/210473753-603222a4-a88f-4609-8692-4222b7114922.jpg)
 </details>
+	
+## Day 12 -  BabySoC Modelling
+
+<details>
+<summary>mythcore_test.v & tb_mythcore_test.v</summary>
+
+</details>
+	
+<details>
+<summary>avsddac.v & avsddac_tb_test.v</summary>
+
+</details>
+
+<details>
+<summary>avsd_pll_1v8.v pll_tb.v</summary>
+
+</details>
+
+<details>
+<summary>interactive mode(debug mode)</summary>
+
+</details>
+
+<details>
+<summary>rvmyth_pll.v & rvmyth_pll_tb.v </summary>
+
+</details>
+
+	
+<details>
+<summary>rvmyth_avsddac.v & rvmyth_avsddac_TB.v</summary>
+
+</details>
+
+
+<details>
+<summary>Simulate And Model All Three Ip’s Together</summary>
+
+</details>
+
+<details>
+<summary>Difference Table For All The Modes In Interactive Mode</summary>
+
+</details>
+	
+<details>
+<summary>One Take A Example Circuit For Example</summary>
+
+</details>
