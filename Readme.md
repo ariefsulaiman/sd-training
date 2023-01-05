@@ -13,8 +13,8 @@
 [Day 8 - Advanced constraints](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-8---advanced-constraints)\
 [Day 9 - Optimization](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-9---optimization)\
 [Day 10 - Timing Models](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-10---quality-checks)\
-[Day 11 - Introduction to the BabySoC](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-11----introduction-to-the-babysoc)
-[Day 12 - Module 12: BabySoC Modelling ]()
+[Day 11 - Introduction to the BabySoC](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-11----introduction-to-the-babysoc)\
+[Day 12 - Module 12: BabySoC Modelling ](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-12----babysoc-modelling)
 
 
 ## Day 0 - System/Tool Setup Check. GitHub ID creation
