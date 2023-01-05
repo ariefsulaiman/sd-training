@@ -1181,6 +1181,7 @@ report_timing -nosplit -inp -cap -trans -sig 4
 <details>
 <summary>Simulate And Model All Three Ip’s Together</summary>
 
+Dont know
 </details>
 
 <details>
