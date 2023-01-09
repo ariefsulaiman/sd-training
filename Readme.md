@@ -1245,3 +1245,13 @@ report_timing -nosplit -inp -cap -trans -sig 4
 ![Slide26](https://user-images.githubusercontent.com/118953928/210832683-a5bfa519-362c-4413-af53-aa71dd7cb30e.JPG)
 ![Slide27](https://user-images.githubusercontent.com/118953928/210832696-efcd90a1-59e5-421b-95f6-d2fc4792751d.JPG)
 </details>
+
+
+
+	
+## Day 13 -  Post-synthesis simulation
+
+<details>
+<summary>Theory</summary>
+
+</details>
