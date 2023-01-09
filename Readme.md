@@ -1255,4 +1255,32 @@ report_timing -nosplit -inp -cap -trans -sig 4
 <details>
 <summary>Theory</summary>
 
+### Why do pre-synthesis? 
+- To test the design if there is a synth-mismatch.
+- Pre-synthesis simulation is performed according to the logic that we have designed for and written -> only functionality.
+- Post-synthesis simulation/GLS (gate level simulation) is performed after synthesis, taking each gate delay into account, and reporting violations in both functionality and timing.
+- This will display the mismatches that are likely to occur as a result of incorrect operator usage and latch inference, for example, using 'X' (simulator/synthesizer terms) as 'Unknown'/'Don't care'
+	
+### Gate Level Simulation (GLS)
+- 'Gate level' refers to the netlist view of a circuit, which is often created by logic synthesis. 
+- RTL simulation is pre-synthesis, whereas GLS is post-synthesis.
+- Netlist view is a complete connection list consisting of gates and IP models with full functional and temporal behaviour. GLS can also have zero delay, however it is more commonly employed in unit delay or full timing mode.
+	
+Gate level simulation is used to boost the confidence regarding implementation of a design and can help verify dynamic circuit behaviour, which cannot be verified accurately by static methods. It is a significant step in the verification process.
+
+### Tools used to synthesize the netlist
+- Making use of Synopsys' DC shell (Design Compiler)
+- The DC RTL synthesis solution helps customers to solve today's design difficulties by optimising timing, area, power, and test at the same time.
+	
+### Why post-synthesis simulation is needed?
+- To verify that all gate delays are included.
+- To compare pre-synthesis in VCS and DVE from prior laboratories.
+- To see the output created.
+- Note that post-simulation output should be matched with pre-simulation output.
+	
+### Synthesizable And Non-Synthesizable Constructs in Verilog
+![image](https://user-images.githubusercontent.com/118953928/211336447-8c65b320-18a0-45e7-93e7-63f4d0958f2e.png)
+
+
+
 </details>
