@@ -1280,7 +1280,26 @@ Gate level simulation is used to boost the confidence regarding implementation o
 	
 ### Synthesizable And Non-Synthesizable Constructs in Verilog
 ![image](https://user-images.githubusercontent.com/118953928/211336447-8c65b320-18a0-45e7-93e7-63f4d0958f2e.png)
-
-
-
 </details>
+
+<details>
+  <summary>Rvmyth avddac synthesis</summary>
+	
+![Slide2](https://user-images.githubusercontent.com/118953928/211850853-d0237ec4-056f-463d-80ae-2562a28f9938.JPG)
+![Slide3](https://user-images.githubusercontent.com/118953928/211850862-928d7a6d-5ccd-4daa-90a5-c571fbd6ca38.JPG)
+![Slide4](https://user-images.githubusercontent.com/118953928/211850865-7e1c42bb-dab4-48e7-91a2-962c64ba46a5.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/211850868-6f735096-8f40-4347-aaf0-821d2254e3f8.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/211850872-5dfb16fe-3819-4c18-a60e-06ac567eeb35.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/211850878-c29ef5c0-3c1e-41ff-b225-a3fd19d41afe.JPG)
+![Slide8](https://user-images.githubusercontent.com/118953928/211850880-0d9bfa21-8af0-4854-9391-ec7ac191494b.JPG)
+</details> 
+	
+<details>
+  <summary>avsdpll.lib synthesis</summary>
+
+![Slide10](https://user-images.githubusercontent.com/118953928/211851486-43f47ac5-24ee-4003-ae82-adc4743cdcc7.JPG)
+![Slide11](https://user-images.githubusercontent.com/118953928/211851492-fd423114-e160-4907-89eb-3a01aee271c0.JPG)
+![Slide12](https://user-images.githubusercontent.com/118953928/211851498-628e1e54-76b4-4b02-810b-abc1c87b85df.JPG)
+![Slide13](https://user-images.githubusercontent.com/118953928/211851503-b0ebf749-1391-4052-a1ff-07af040f152b.JPG)
+![Slide14](https://user-images.githubusercontent.com/118953928/211851509-2dd5ae76-d343-4cb2-b15a-0d36851c7598.JPG)
+</details> 
