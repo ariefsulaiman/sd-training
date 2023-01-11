@@ -1283,7 +1283,7 @@ Gate level simulation is used to boost the confidence regarding implementation o
 </details>
 
 <details>
-  <summary>Rvmyth avddac synthesis</summary>
+  <summary>Rvmyth avddac pre-synthesis</summary>
 	
 ![Slide2](https://user-images.githubusercontent.com/118953928/211850853-d0237ec4-056f-463d-80ae-2562a28f9938.JPG)
 ![Slide3](https://user-images.githubusercontent.com/118953928/211850862-928d7a6d-5ccd-4daa-90a5-c571fbd6ca38.JPG)
@@ -1295,7 +1295,7 @@ Gate level simulation is used to boost the confidence regarding implementation o
 </details> 
 	
 <details>
-  <summary>avsdpll.lib synthesis</summary>
+  <summary>avsdpll.lib pre-synthesis</summary>
 
 ![Slide10](https://user-images.githubusercontent.com/118953928/211851486-43f47ac5-24ee-4003-ae82-adc4743cdcc7.JPG)
 ![Slide11](https://user-images.githubusercontent.com/118953928/211851492-fd423114-e160-4907-89eb-3a01aee271c0.JPG)
