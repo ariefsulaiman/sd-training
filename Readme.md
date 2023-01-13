@@ -1378,11 +1378,18 @@ Pending	(There is error with simulating the netlist)
 <details>
 <summary>Converting all .lib to db</summary>
 	
-	
+![Slide2](https://user-images.githubusercontent.com/118953928/212260537-3a3acd44-8ea4-45b2-b933-bcad8dbbf279.JPG)
+![Slide3](https://user-images.githubusercontent.com/118953928/212260546-a5f388b6-88a0-4efe-9423-59307b75bb1f.JPG)
 </details>
 	
 <details>
 <summary>Tabulating all PVT corner on VsdBabySoC</summary>
-	
-	
+
+![Slide5](https://user-images.githubusercontent.com/118953928/212260589-c9880f8a-8fa1-4487-9929-e1a8230d0c9b.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/212260596-c77e3e96-919a-4022-8a79-bce0cf51e19a.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/212260597-5614a058-0bdb-4441-9286-f6fa8b508b6f.JPG)
+![sky130_page-0001](https://user-images.githubusercontent.com/118953928/212260776-47731d0c-7b01-413d-976d-4eadb59cec4f.jpg)
+![sky130_page-0002](https://user-images.githubusercontent.com/118953928/212260782-0ab77942-6ccd-4aac-9c0f-78f3c9054734.jpg)
+![Slide8](https://user-images.githubusercontent.com/118953928/212260831-bd511c9d-b498-43f9-a0bd-8de0a24ebc72.JPG)
+
 </details>
