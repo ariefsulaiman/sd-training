@@ -1371,8 +1371,39 @@ Pending	(There is error with simulating the netlist)
 
 <details>
 <summary>Theory</summary>
+
+**What really is synthesis?**
+- Translation from RTL to gate level
+- The design is transformed into gates, and links are established between the gates.
+- This is distributed in the form of a file named netlist.
+
+**What specifically is .lib?**
+- A grouping of logical components
+- Basic logic gates such as AND, OR, NOT, and so on are included.
+- Contains diffrent variety of the same gate
+
+**What does PVT stand for?**
+- Temperature, Voltage, and Process
+- Process: is used to describe variety. The parameters of transistors during manufacture cannot be similar throughout the device since layers are produced. (tt=typical-typical, ff=fast-fast, ss=slow-slow, fs=fast-slow, sf=slow-fast)
+- Voltage: refers to the fluctuating voltages on the chip during operation, which can be caused by a variety of factors such as IO drop or supply noise caused by parasitic inductance.
+- Temperature: relates to the chip's variable temperature during operation as a result of power dissipation in the MOS-transistors, which affects the delay on the cells.
+
+**PVT corners**
+- Designers model the chip at various process, voltage, and temperature corners in order to make it operate after manufacturing in all feasible scenarios. 
+- These are referred to as corners. 
+- All three of these characteristics have a direct impact on the cell's latency.
 	
-	
+ **PVT terminologies**
+- WNS (Worst Negative Slack): slack for the timing path with worst timing failure
+	- If WNS is positive, the path has passed. Else, it failed.
+- WHS (Worst Hole Slack):  slack for hold path with worst timing failure
+- TNS (Total Negative Slack): sum of the total negative path slacks, or the sum of all WNS
+	- If TNS = 0, the design meets timing. 
+	- If positive, there is negative slack in the design (hence the design fails).
+- THS (Total Hold Slack): sum of the total negative hold slack paths, or the sum of all WHS
+	- If THS = 0, the design passed. 
+	- If positive, the design failed.
+
 </details>
 
 <details>
