@@ -1283,7 +1283,7 @@ Gate level simulation is used to boost the confidence regarding implementation o
 </details>
 
 <details>
-  <summary>Rvmyth avddac pre-synthesis</summary>
+  <summary>Rvmyth avddac synthesis</summary>
 	
 ![Slide2](https://user-images.githubusercontent.com/118953928/211850853-d0237ec4-056f-463d-80ae-2562a28f9938.JPG)
 ![Slide3](https://user-images.githubusercontent.com/118953928/211850862-928d7a6d-5ccd-4daa-90a5-c571fbd6ca38.JPG)
@@ -1295,11 +1295,21 @@ Gate level simulation is used to boost the confidence regarding implementation o
 </details> 
 	
 <details>
-  <summary>avsdpll.lib pre-synthesis</summary>
+  <summary>avsdpll_1v8 synthesis</summary>
 
 ![Slide10](https://user-images.githubusercontent.com/118953928/211851486-43f47ac5-24ee-4003-ae82-adc4743cdcc7.JPG)
 ![Slide11](https://user-images.githubusercontent.com/118953928/211851492-fd423114-e160-4907-89eb-3a01aee271c0.JPG)
 ![Slide12](https://user-images.githubusercontent.com/118953928/211851498-628e1e54-76b4-4b02-810b-abc1c87b85df.JPG)
 ![Slide13](https://user-images.githubusercontent.com/118953928/211851503-b0ebf749-1391-4052-a1ff-07af040f152b.JPG)
 ![Slide14](https://user-images.githubusercontent.com/118953928/211851509-2dd5ae76-d343-4cb2-b15a-0d36851c7598.JPG)
+</details> 
+	
+<details>
+  <summary>VsdBabySoC synthesis</summary>
+
+![Slide16](https://user-images.githubusercontent.com/118953928/212208026-cff5dae2-9a08-4a5f-82b8-bfa53ddac599.JPG)
+![Slide17](https://user-images.githubusercontent.com/118953928/212208030-552cd68c-d186-4a10-b838-10a009c78bdd.JPG)
+![Slide18](https://user-images.githubusercontent.com/118953928/212208033-acf5946d-92db-4b38-a894-daea358176d5.JPG)
+![Slide19](https://user-images.githubusercontent.com/118953928/212208034-aaad5da4-ddfb-4e6d-8b4c-6b14ad846068.JPG)
+![Slide20](https://user-images.githubusercontent.com/118953928/212208036-6b849ee4-2482-4925-956b-f39f53904aaa.JPG)
 </details> 
