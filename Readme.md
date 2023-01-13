@@ -1187,23 +1187,39 @@ report_timing -nosplit -inp -cap -trans -sig 4
 <details>
 <summary>mythcore_test.v & tb_mythcore_test.v</summary>
 
+### Using Design Compiler
 ![Slide3](https://user-images.githubusercontent.com/118953928/210831890-ee893609-753e-4ad5-9b20-128c91fb1038.JPG)
 ![Slide4](https://user-images.githubusercontent.com/118953928/210831901-2ff93473-752b-4982-af34-20def09dd156.JPG)
 ![Slide5](https://user-images.githubusercontent.com/118953928/210831904-3f27d880-6c7e-44b1-9878-e4238a9333d7.JPG)
+
+### Using Yosys
+- Using yosys, there is no error when reading the design file. So, no change on the design file. 
+![Slide2](https://user-images.githubusercontent.com/118953928/212209951-6b51737b-c1da-440d-aa31-e62922d3aaec.JPG)
 </details>
 	
 <details>
 <summary>avsddac.v & avsddac_tb_test.v</summary>
 
+### Using Design Compiler
 ![Slide7](https://user-images.githubusercontent.com/118953928/210831996-94d9c0d7-759a-4f95-b5c4-d01314c3ad12.JPG)
 ![Slide8](https://user-images.githubusercontent.com/118953928/210832002-55ab7941-0d76-46bb-a3c6-380539def390.JPG)
+
+### Using Yosys
+- Using yosys, there is no error when reading the design file. So, no change on the design file. 
+![Slide4](https://user-images.githubusercontent.com/118953928/212210095-9759b8ea-9ad4-4c41-92a2-69f3dd8190eb.JPG)
 </details>
+
 
 <details>
 <summary>avsd_pll_1v8.v pll_tb.v</summary>
 
+### Using Design Compiler
 ![Slide10](https://user-images.githubusercontent.com/118953928/210832215-12b9a06f-de3f-4b61-8e6f-c8b89f1e5813.JPG)
 ![Slide11](https://user-images.githubusercontent.com/118953928/210832224-2c81a359-ea3b-4168-8db2-8417d1a422e7.JPG)
+	
+### Using Yosys
+- Using yosys, there is no error when reading the design file. So, no change on the design file. 
+![Slide6](https://user-images.githubusercontent.com/118953928/212210159-5d3147b9-5925-47cc-b27c-3fb58b4205be.JPG)
 </details>
 
 <details>
@@ -1216,23 +1232,41 @@ report_timing -nosplit -inp -cap -trans -sig 4
 <details>
 <summary>rvmyth_pll.v & rvmyth_pll_tb.v </summary>
 
+### Using Design Compiler
 ![Slide16](https://user-images.githubusercontent.com/118953928/210832421-30260ec4-6cb9-40b9-8509-3b6741335731.JPG)
 ![Slide17](https://user-images.githubusercontent.com/118953928/210832431-2dfb3fd1-32da-4e8b-b9f6-e815a561e98b.JPG)
+	
+### Using Yosys
+- Using yosys, there is no error when reading the design file. So, no change on the design file. 
+![Slide8](https://user-images.githubusercontent.com/118953928/212210216-93b27517-5d9c-41a2-8387-b8f1be7ce50f.JPG)
 </details>
 
 <details>
 <summary>rvmyth_avsddac.v & rvmyth_avsddac_TB.v</summary>
 
+### Using Design Compiler
 ![Slide19](https://user-images.githubusercontent.com/118953928/210832527-d50c3b61-62d0-4d53-b3ba-5ce19ae513f2.JPG)
 ![Slide20](https://user-images.githubusercontent.com/118953928/210832533-ce78f1b3-ae24-4208-8b82-bdd2c65f2e06.JPG)
+
+### Using Yosys
+- Using yosys, there is no error when reading the design file. So, no change on the design file. 
+![Slide10](https://user-images.githubusercontent.com/118953928/212210317-37e141e5-f70c-4a61-a704-31f4fa0bc210.JPG)
 </details>
+	
 
 
 <details>
 <summary>Simulate And Model All Three Ip’s Together</summary>
 
+### Using Design Compiler
 ![Slide22](https://user-images.githubusercontent.com/118953928/210958013-55e9ba72-e9fd-4dfb-9f82-8500bd77d705.JPG)
 ![Slide23](https://user-images.githubusercontent.com/118953928/210958017-00ae8ac2-9c6d-4f3b-8250-f0ac8a49ad64.JPG)
+
+### Using Yosys
+- Using yosys, there is error when reading the design file. But the error is minor and and be easily fixeable by putting include header and change module name.
+![Slide12](https://user-images.githubusercontent.com/118953928/212210786-4f0e16ad-e368-4b29-a48f-a8e6b760914d.JPG)
+![Slide13](https://user-images.githubusercontent.com/118953928/212210799-fc5d5f9b-cdf6-4c3f-8de6-617921bbdcc9.JPG)
+
 </details>
 
 <details>
