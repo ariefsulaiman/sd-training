@@ -1352,19 +1352,19 @@ Gate level simulation is used to boost the confidence regarding implementation o
 <details>
   <summary>Simulation Rvmyth avddac post synthesis</summary>
 	
-Pending	
+Pending	(There is error with simulating the netlist)
 </details>
 	
 <details>
   <summary>Simulation avsdpll_1v8 post synthesis</summary>
 	
-Pending	
+Pending	(There is error with simulating the netlist)
 </details>
 	
 <details>
   <summary>Simulation VsdBabySoC post synthesis</summary>
 	
-Pending	
+Pending	(There is error with simulating the netlist)
 </details>
 	
 ## Day 14 -   Synopsys DC and timing analysis
