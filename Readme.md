@@ -1331,3 +1331,23 @@ Pending
 	
 Pending	
 </details>
+	
+## Day 14 -   Synopsys DC and timing analysis
+
+<details>
+<summary>Theory</summary>
+	
+	
+</details>
+
+<details>
+<summary>Converting all .lib to db</summary>
+	
+	
+</details>
+	
+<details>
+<summary>Tabulating all PVT corner on VsdBabySoC</summary>
+	
+	
+</details>
