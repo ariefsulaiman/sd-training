@@ -1426,7 +1426,7 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 
 </details>
 
-## Day 13 -  Post-synthesis simulation
+## Day 15 - Inception of EDA and PDK
 
 ### How to talk to computers
 	
