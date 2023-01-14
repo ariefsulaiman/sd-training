@@ -17,7 +17,7 @@
 [Day 12 - Module 12: BabySoC Modelling ](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-12----babysoc-modelling)\
 [Day 13 - Post-synthesis simulation](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-13----post-synthesis-simulation)\
 [Day 14 -  Synopsys DC and timing analysis](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-14-----synopsys-dc-and-timing-analysis)\
-[Day 15 - Inception of EDA and PDK]
+[Day 15 - Inception of EDA and PDK](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-13----post-synthesis-simulation-1)
 
 
 ## Day 0 - System/Tool Setup Check. GitHub ID creation
@@ -1432,64 +1432,100 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 	
 <details>
 <summary>Introduction to QFN-48 Package, chip, pads, core, die and IPs</summary>
-		
+
+![Slide3](https://user-images.githubusercontent.com/118953928/212459022-d7779cfb-386d-4306-aaa0-fd408c44f1fa.JPG)
 </details>
 	
 <details>
 <summary>Introduction to RISC-V</summary>
-		
+
+![Slide5](https://user-images.githubusercontent.com/118953928/212459029-e1f4861e-ae7b-469f-8a2b-bd74468a0c59.JPG)
 </details>
 	
 <details>
 <summary>From Software Applications to Hardware</summary>
-		
+
+![Slide7](https://user-images.githubusercontent.com/118953928/212459038-667412bf-4f47-4cf5-a992-7cfb8536003e.JPG)
+![Slide8](https://user-images.githubusercontent.com/118953928/212459040-fa38844c-b830-442b-9692-a823cd67966e.JPG)
+![Slide9](https://user-images.githubusercontent.com/118953928/212459041-683ed05f-8eb9-437c-98eb-48ba36e0bafc.JPG)
 </details>
 
 ### SoC design and OpenLANE 
 	
 <details>
 <summary>Introduction to all components of open-source digital asic design</summary>
-		
+	
+![Slide12](https://user-images.githubusercontent.com/118953928/212459045-36dc3e0f-18f6-490b-89f5-78d92d637682.JPG)
+![Slide13](https://user-images.githubusercontent.com/118953928/212459046-f8130170-c501-4b6a-85be-73515aa5e552.JPG)
+![Slide14](https://user-images.githubusercontent.com/118953928/212459047-a943901a-8fb0-41dd-bab4-d907d196c35d.JPG)
 </details>
 	
 <details>
 <summary>Simplified RTL2GDS flow</summary>
-		
+
+![Slide16](https://user-images.githubusercontent.com/118953928/212459055-457fd56f-42d0-4fb2-9a41-f9e68a884560.JPG)
+![Slide17](https://user-images.githubusercontent.com/118953928/212459057-7df77e1e-df7e-47d3-a343-c1a2aaa60444.JPG)
+![Slide18](https://user-images.githubusercontent.com/118953928/212459058-3a6de035-0554-43de-a035-e85eeffdfe7d.JPG)
+![Slide19](https://user-images.githubusercontent.com/118953928/212459059-37432d27-5896-4a0c-9a2d-f4d0ed189fd8.JPG)
+![Slide20](https://user-images.githubusercontent.com/118953928/212459060-9579b28c-7b5c-41ce-b24d-8747c5f0cc27.JPG)
+![Slide21](https://user-images.githubusercontent.com/118953928/212459062-77678787-6c97-450f-851b-2fe3db1bce08.JPG)
 </details>
 	
 <details>
 <summary>Introduction to OpenLANE and Strive chipsets</summary>
-		
+	
+![Slide23](https://user-images.githubusercontent.com/118953928/212459079-e723bfd8-522f-4bb8-b9aa-005a9bd2b4f2.JPG)
+![Slide24](https://user-images.githubusercontent.com/118953928/212459081-87150a3c-80e5-459b-b7d1-96979a2d4d69.JPG)
 </details>
 	
 <details>
 <summary>Introduction to OpenLANE detailed ASIC design flow</summary>
 		
+![Slide29](https://user-images.githubusercontent.com/118953928/212459097-812957af-92ec-499f-8974-eb4a4ed30ac6.JPG)
+![Slide30](https://user-images.githubusercontent.com/118953928/212459099-4fd11ff2-ab0e-489c-8cd4-1c2821175104.JPG)
+![Slide31](https://user-images.githubusercontent.com/118953928/212459100-6a9f6685-2550-44f9-aa91-309c7ade575b.JPG)
+![Slide32](https://user-images.githubusercontent.com/118953928/212459101-6013b0dd-cf0a-4c54-b4a5-b72df14548b9.JPG)
+![Slide33](https://user-images.githubusercontent.com/118953928/212459103-bad63dce-77b7-4da9-949b-1458a1908bb7.JPG)
+![Slide34](https://user-images.githubusercontent.com/118953928/212459104-822a2c13-cf78-4c19-8c5d-7c0a180ce13c.JPG)
+![Slide26](https://user-images.githubusercontent.com/118953928/212459106-43d8e72d-23d8-4e87-8e6b-688a18e01297.JPG)
+![Slide27](https://user-images.githubusercontent.com/118953928/212459107-4013d3dd-7b3b-4540-b03c-63bc6f7b5e31.JPG)
+![Slide28](https://user-images.githubusercontent.com/118953928/212459108-6458004f-8055-46d8-aa50-5635be2bac8b.JPG)
 </details>
 	
 ### Get familiar to open-source EDA tools
 
 <details>
 <summary>OpenLANE Directory structure in detail</summary>
-		
+
+![Slide37](https://user-images.githubusercontent.com/118953928/212459121-895cf002-7541-494b-836d-b3bc79c85213.JPG)
+![Slide38](https://user-images.githubusercontent.com/118953928/212459125-5efafd53-a6f6-476e-ae92-a80f4c71f13e.JPG)
+![Slide39](https://user-images.githubusercontent.com/118953928/212459126-97ce19c7-d33b-403f-93bc-ad016888077b.JPG)
 </details>
 	
 <details>
 <summary>Design Preparation Step</summary>
-		
+	
+![Slide41](https://user-images.githubusercontent.com/118953928/212459133-ad342351-2561-480f-8dae-cdde80c8bad3.JPG)
+![Slide42](https://user-images.githubusercontent.com/118953928/212459134-ae1aff40-40d7-4ec9-905c-c1a94810d95d.JPG)
+![Slide43](https://user-images.githubusercontent.com/118953928/212459135-b54c0b11-a7a1-4421-aada-aa76958f95eb.JPG)
 </details>
 	
 <details>
 <summary>Review files after design prep and run synthesis</summary>
-		
+	
+![Slide45](https://user-images.githubusercontent.com/118953928/212459144-4bb1dc50-5134-4da2-a2d5-a8e86805e925.JPG)
+![Slide46](https://user-images.githubusercontent.com/118953928/212459146-11dc2a15-a0b7-4ce8-a754-bbd5c77e5207.JPG)
 </details>
 	
 <details>
 <summary>OpenLANE Project Git Link Description</summary>
-		
+
+![Slide48](https://user-images.githubusercontent.com/118953928/212459153-a08934fd-5ffb-448f-92ef-b48a9c697055.JPG)
 </details>
 	
 <details>
 <summary>Steps to characterize synthesis results</summary>
-		
+	
+![Slide50](https://user-images.githubusercontent.com/118953928/212459157-ca7fd324-8c74-4f3b-b159-b14986a42573.JPG)
+![Slide51](https://user-images.githubusercontent.com/118953928/212459158-ddf639ff-9eec-4da3-9cbc-8d2b9904deee.JPG)
 </details>
