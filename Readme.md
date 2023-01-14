@@ -17,7 +17,7 @@
 [Day 12 - Module 12: BabySoC Modelling ](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-12----babysoc-modelling)\
 [Day 13 - Post-synthesis simulation](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-13----post-synthesis-simulation)\
 [Day 14 -  Synopsys DC and timing analysis](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-14-----synopsys-dc-and-timing-analysis)\
-[Day 15 - Inception of EDA and PDK](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-13----post-synthesis-simulation-1)
+[Day 15 - Inception of EDA and PDK](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-15---inception-of-eda-and-pdk)
 
 
 ## Day 0 - System/Tool Setup Check. GitHub ID creation
