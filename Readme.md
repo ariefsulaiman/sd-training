@@ -16,7 +16,8 @@
 [Day 11 - Introduction to the BabySoC](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-11----introduction-to-the-babysoc)\
 [Day 12 - Module 12: BabySoC Modelling ](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-12----babysoc-modelling)\
 [Day 13 - Post-synthesis simulation](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-13----post-synthesis-simulation)\
-[Day 14 -  Synopsys DC and timing analysis](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-14-----synopsys-dc-and-timing-analysis)
+[Day 14 -  Synopsys DC and timing analysis](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-14-----synopsys-dc-and-timing-analysis)\
+[Day 15 - Inception of EDA and PDK]
 
 
 ## Day 0 - System/Tool Setup Check. GitHub ID creation
@@ -1423,4 +1424,72 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 ![sky130_page-0002](https://user-images.githubusercontent.com/118953928/212260782-0ab77942-6ccd-4aac-9c0f-78f3c9054734.jpg)
 ![Slide8](https://user-images.githubusercontent.com/118953928/212260831-bd511c9d-b498-43f9-a0bd-8de0a24ebc72.JPG)
 
+</details>
+
+## Day 13 -  Post-synthesis simulation
+
+### How to talk to computers
+	
+<details>
+<summary>Introduction to QFN-48 Package, chip, pads, core, die and IPs</summary>
+		
+</details>
+	
+<details>
+<summary>Introduction to RISC-V</summary>
+		
+</details>
+	
+<details>
+<summary>From Software Applications to Hardware</summary>
+		
+</details>
+
+### SoC design and OpenLANE 
+	
+<details>
+<summary>Introduction to all components of open-source digital asic design</summary>
+		
+</details>
+	
+<details>
+<summary>Simplified RTL2GDS flow</summary>
+		
+</details>
+	
+<details>
+<summary>Introduction to OpenLANE and Strive chipsets</summary>
+		
+</details>
+	
+<details>
+<summary>Introduction to OpenLANE detailed ASIC design flow</summary>
+		
+</details>
+	
+### Get familiar to open-source EDA tools
+
+<details>
+<summary>OpenLANE Directory structure in detail</summary>
+		
+</details>
+	
+<details>
+<summary>Design Preparation Step</summary>
+		
+</details>
+	
+<details>
+<summary>Review files after design prep and run synthesis</summary>
+		
+</details>
+	
+<details>
+<summary>OpenLANE Project Git Link Description</summary>
+		
+</details>
+	
+<details>
+<summary>Steps to characterize synthesis results</summary>
+		
 </details>
