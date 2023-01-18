@@ -1529,3 +1529,127 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 ![Slide50](https://user-images.githubusercontent.com/118953928/212459157-ca7fd324-8c74-4f3b-b159-b14986a42573.JPG)
 ![Slide51](https://user-images.githubusercontent.com/118953928/212459158-ddf639ff-9eec-4da3-9cbc-8d2b9904deee.JPG)
 </details>
+
+## Day 16: Understand importance of good floorplan vs bad floor plan and introduction to library cells
+
+### Chip Floor planning considerations
+	
+<details>
+<summary>Utilization factor and aspect ratio</summary>
+
+content
+</details>
+	
+<details>
+<summary>Concept of pre-placed cells</summary>
+
+content
+</details>
+	
+<details>
+<summary>De-coupling capacitors</summary>
+
+content
+</details>
+
+<details>
+<summary>Power planning</summary>
+
+content
+</details>
+
+<details>
+<summary>Pin placement and logical cell placement blockage</summary>
+
+content
+</details>
+
+<details>
+<summary>Steps to run floorplan using OpenLANE</summary>
+
+content
+</details>
+
+<details>
+<summary>Review floorplan files and steps to view floorplan</summary>
+
+content
+</details>
+
+<details>
+<summary>Review floorplan layout in Magic</summary>
+
+content
+</details>
+
+###  Library Binding and Placement
+	
+<details>
+<summary>Netlist binding and initial place design</summary>
+
+content
+</details>
+	
+<details>
+<summary>Optimize placement using estimated wire-length and capacitance</summary>
+
+content
+</details>
+	
+<details>
+<summary>Final placement optimization</summary>
+
+content
+</details>
+
+<details>
+<summary>Need for libraries and characterization</summary>
+
+content
+</details>
+
+<details>
+<summary>Congestion aware placement using RePlAcee</summary>
+
+content
+</details>
+
+###  Cell design and characterization flows
+	
+<details>
+<summary>Inputs for cell design flow</summary>
+
+content
+</details>
+	
+<details>
+<summary>Circuit design step</summary>
+
+content
+</details>
+	
+<details>
+<summary>Layout design step</summary>
+
+content
+</details>
+
+<details>
+<summary>Typical characterization flow</summary>
+
+content
+</details>
+
+###  General timing characterization parameters
+	
+<details>
+<summary>Timing threshold definitions</summary>
+
+content
+</details>
+	
+<details>
+<summary>Propagation delay and transition time</summary>
+
+content
+</details>
