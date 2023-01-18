@@ -1606,31 +1606,36 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 <details>
 <summary>Netlist binding and initial place design</summary>
 
-content
+![Slide3](https://user-images.githubusercontent.com/118953928/213139036-6c01f64d-d08d-4517-a766-6c8d32701a8c.JPG)
+![Slide4](https://user-images.githubusercontent.com/118953928/213139046-eb113470-1026-4c25-94e1-af9fec8b13c3.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/213139051-2b026853-5aa1-40b5-989a-5655dfda7493.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/213139057-c7d08586-96cc-405c-a868-c028a13e35f6.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/213139059-35306ef5-e051-48f5-8061-ae64f2346de8.JPG)
 </details>
 	
 <details>
 <summary>Optimize placement using estimated wire-length and capacitance</summary>
 
-content
+![Slide9](https://user-images.githubusercontent.com/118953928/213139115-ee95d099-f21d-485d-bbfb-c9fb54322c8a.JPG)
 </details>
 	
 <details>
 <summary>Final placement optimization</summary>
 
-content
+![Slide11](https://user-images.githubusercontent.com/118953928/213139207-5c7ef283-150d-48a5-b1bf-8b3df1bff392.JPG)
 </details>
 
 <details>
 <summary>Need for libraries and characterization</summary>
 
-content
+![Slide13](https://user-images.githubusercontent.com/118953928/213139269-7d833fe9-5fb9-4287-82b6-6a98f53e44a6.JPG)
 </details>
 
 <details>
 <summary>Congestion aware placement using RePlAcee</summary>
 
-content
+![Slide15](https://user-images.githubusercontent.com/118953928/213139357-66e2b225-a3cc-4104-812f-7cb6974d4a6d.JPG)
+![Slide16](https://user-images.githubusercontent.com/118953928/213139369-791b81b3-4fb5-4b09-9474-af886f6de189.JPG)
 </details>
 
 ###  Cell design and characterization flows
@@ -1638,25 +1643,30 @@ content
 <details>
 <summary>Inputs for cell design flow</summary>
 
-content
+![Slide19](https://user-images.githubusercontent.com/118953928/213139531-0e8f4457-ffa9-422a-9819-bd01ab4c657a.JPG)
+![Slide20](https://user-images.githubusercontent.com/118953928/213139573-5277245e-7097-4427-8225-20f70a5c4f5d.JPG)
+![Slide21](https://user-images.githubusercontent.com/118953928/213139599-8f74c831-8545-429c-a899-7bf184730e8a.JPG)
+![Slide22](https://user-images.githubusercontent.com/118953928/213139633-3b46c937-e2c2-4ba6-9f94-da3b14c5ea2d.JPG)
 </details>
 	
 <details>
 <summary>Circuit design step</summary>
 
-content
+![Slide24](https://user-images.githubusercontent.com/118953928/213139821-c410cc5a-ba5f-47e6-9c99-018695c3f18e.JPG)
+![Slide25](https://user-images.githubusercontent.com/118953928/213139847-a01f79ce-3cf2-4e6f-b0c7-65a76ca012ea.JPG)
 </details>
 	
 <details>
 <summary>Layout design step</summary>
 
-content
+![Slide27](https://user-images.githubusercontent.com/118953928/213139946-9cc3ee2d-5cab-4732-9f9c-85cd5352ca0e.JPG)
 </details>
 
 <details>
 <summary>Typical characterization flow</summary>
 
-content
+![Slide29](https://user-images.githubusercontent.com/118953928/213140106-88f05bb2-eccd-46f3-bc20-5026e9b17c8f.JPG)
+![Slide30](https://user-images.githubusercontent.com/118953928/213140121-20247458-c1d1-4c7f-ab69-dd5a02fc1366.JPG)
 </details>
 
 ###  General timing characterization parameters
@@ -1664,11 +1674,16 @@ content
 <details>
 <summary>Timing threshold definitions</summary>
 
-content
+![Slide32](https://user-images.githubusercontent.com/118953928/213140283-e71cb161-f629-497f-9d71-39062af4e818.JPG)
+![Slide33](https://user-images.githubusercontent.com/118953928/213140287-d61efbad-7e53-4896-9dc1-72c8dab41607.JPG)
+![Slide34](https://user-images.githubusercontent.com/118953928/213140292-c31aefe7-19ec-4746-8705-35b03be75842.JPG)
 </details>
 	
 <details>
 <summary>Propagation delay and transition time</summary>
 
-content
+![Slide36](https://user-images.githubusercontent.com/118953928/213140383-287529f5-ed3c-4fe0-a59d-3967144030dd.JPG)
+![Slide37](https://user-images.githubusercontent.com/118953928/213140402-ba7da6d1-a7c9-4261-a4e1-c55c218c71f2.JPG)
+![Slide38](https://user-images.githubusercontent.com/118953928/213140427-d90b4bf8-553a-42a2-94a1-66f3365a4c33.JPG)
+![Slide39](https://user-images.githubusercontent.com/118953928/213140438-0ada10e7-4fe4-4187-a16d-0521fdf99262.JPG)
 </details>
