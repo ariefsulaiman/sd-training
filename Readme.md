@@ -1537,49 +1537,68 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 <details>
 <summary>Utilization factor and aspect ratio</summary>
 
-content
+![Slide4](https://user-images.githubusercontent.com/118953928/213086268-1d085c92-b552-4b7e-8163-79c7320b087e.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/213086271-fc6dab65-c120-457c-b33b-f4e8f98f59cd.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/213086277-0f29fe77-8b47-40e8-9e3e-f4aacdf542af.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/213086289-6425e396-8435-435d-b3d2-147978211cfd.JPG)
+![Slide8](https://user-images.githubusercontent.com/118953928/213086296-5b5bea8b-8859-4406-9359-34b262d57d49.JPG)
+![Slide9](https://user-images.githubusercontent.com/118953928/213086311-5bcd56bb-dd38-4898-9476-95a3f7b940c6.JPG)
 </details>
 	
 <details>
 <summary>Concept of pre-placed cells</summary>
 
-content
+![Slide11](https://user-images.githubusercontent.com/118953928/213086348-597ab457-b024-41fb-8b4a-8780bf310bc5.JPG)
+![Slide12](https://user-images.githubusercontent.com/118953928/213086351-622a6646-4535-4c6b-82b9-6fd193117b5a.JPG)
+![Slide13](https://user-images.githubusercontent.com/118953928/213086352-85c6113d-3132-4b14-9ea2-717481055dc4.JPG)
+![Slide14](https://user-images.githubusercontent.com/118953928/213086353-d777c367-aafa-4662-b4d9-1cf95e72d57f.JPG)
 </details>
 	
 <details>
 <summary>De-coupling capacitors</summary>
 
-content
+![Slide16](https://user-images.githubusercontent.com/118953928/213086402-2e144505-2494-4ead-85c5-bd3449a339d5.JPG)
+![Slide17](https://user-images.githubusercontent.com/118953928/213086411-d4de27f3-2ac2-4fcf-9810-614ef864b7cb.JPG)
+![Slide18](https://user-images.githubusercontent.com/118953928/213086414-20184613-6d78-401c-9cdf-2ac4780bb5e2.JPG)
+![Slide19](https://user-images.githubusercontent.com/118953928/213086416-9c6af726-0335-47f8-b137-9e939fa5bcd2.JPG)
+![Slide20](https://user-images.githubusercontent.com/118953928/213086418-5054d46e-6c2e-4c53-8d72-fc03b3ea5479.JPG)
 </details>
 
 <details>
 <summary>Power planning</summary>
 
-content
+![Slide22](https://user-images.githubusercontent.com/118953928/213086450-0c928a76-a3ff-4123-96e9-04de79f0f762.JPG)
+![Slide23](https://user-images.githubusercontent.com/118953928/213086459-bd402fd9-3fc8-4f84-a663-b1aff9faf423.JPG)
 </details>
 
 <details>
 <summary>Pin placement and logical cell placement blockage</summary>
 
-content
+![Slide25](https://user-images.githubusercontent.com/118953928/213086485-482f1369-d3f2-44f4-9b07-491b25e16515.JPG)
 </details>
 
 <details>
 <summary>Steps to run floorplan using OpenLANE</summary>
 
-content
+![Slide27](https://user-images.githubusercontent.com/118953928/213086577-f2381ef4-c56d-459c-8879-e3837e70b9af.JPG)
+![Slide28](https://user-images.githubusercontent.com/118953928/213086582-5a0b4ed4-cea2-46f3-a9ba-ce716c2757d7.JPG)
+![Slide29](https://user-images.githubusercontent.com/118953928/213086587-3c26c48c-c4da-48b2-92a5-b6164c816e9f.JPG)
 </details>
 
 <details>
 <summary>Review floorplan files and steps to view floorplan</summary>
 
-content
+![Slide31](https://user-images.githubusercontent.com/118953928/213086651-5005d8d7-65b9-4a43-ae25-a4dfcfc5f08e.JPG)
+![Slide32](https://user-images.githubusercontent.com/118953928/213086658-ac52d767-7cef-4c5a-9752-8b8eeb849dab.JPG)
+![Slide33](https://user-images.githubusercontent.com/118953928/213086660-12a9d148-978b-43f3-9919-703ad9ddc217.JPG)
+![Slide34](https://user-images.githubusercontent.com/118953928/213086665-5ee16373-f151-4558-815a-17f8b196ce2d.JPG)
 </details>
 
 <details>
 <summary>Review floorplan layout in Magic</summary>
 
-content
+![Slide36](https://user-images.githubusercontent.com/118953928/213086672-e1417034-5b1f-420e-b360-2acd61146c3d.JPG)
+![Slide37](https://user-images.githubusercontent.com/118953928/213086675-05c4af67-7785-4e12-a2d3-c4e548ab4464.JPG)
 </details>
 
 ###  Library Binding and Placement
