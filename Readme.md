@@ -1695,49 +1695,46 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 <details>
 <summary>IO placer revision</summary>
 
-content
+![Slide4](https://user-images.githubusercontent.com/118953928/214884613-832f1d59-31df-4c13-8c12-49f55ba053db.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/214884632-6ecafad0-96d9-4d1d-baa6-09f707650112.JPG)
 </details>
 	
 <details>
 <summary>SPICE deck creation for CMOS inverter</summary>
 
-content
+![Slide7](https://user-images.githubusercontent.com/118953928/214884685-3d0fffc0-5e28-48b5-8014-b26adf45c993.JPG)
+![Slide8](https://user-images.githubusercontent.com/118953928/214884820-46777357-8c62-47cb-8f84-2c1209057970.JPG)
 </details>
 	
 <details>
 <summary>SPICE simulation lab for CMOS inverter</summary>
 
-content
+![Slide10](https://user-images.githubusercontent.com/118953928/214884943-bfd318a7-0277-4152-ba46-1f8e16119859.JPG)
+![Slide11](https://user-images.githubusercontent.com/118953928/214884957-841df266-a1b7-4d14-badd-af9121a29458.JPG)
+![Slide12](https://user-images.githubusercontent.com/118953928/214884961-1fa64eba-d343-4e48-b037-9285a5a0ce6e.JPG)
+![Slide13](https://user-images.githubusercontent.com/118953928/214884964-c2fb313f-81dd-4aa8-be0d-c750f7d36104.JPG)
 </details>
 
 <details>
 <summary>Switching Threshold Vm</summary>
 
-content
+![Slide15](https://user-images.githubusercontent.com/118953928/214885141-ab80bdad-5353-4f59-946c-45b0400d5b4c.JPG)
+![Slide16](https://user-images.githubusercontent.com/118953928/214885159-9471b2e2-b1ad-49c2-a9b6-d6afc058150e.JPG)
 </details>
 
 <details>
 <summary>Static and dynamic simulation of CMOS inverter</summary>
 
-content
+![Slide18](https://user-images.githubusercontent.com/118953928/214885260-4d7b545f-9f8a-480d-8ec3-056bc9a61c8b.JPG)
+![Slide19](https://user-images.githubusercontent.com/118953928/214885282-d6044cc1-1856-45f9-8499-4c04aa3b77e5.JPG)
 </details>
 
-<details>
-<summary>Steps to run floorplan using OpenLANE</summary>
-
-content
-</details>
-	
-<details>
-<summary>Review floorplan files and steps to view floorplan</summary>
-
-content
-</details>
-	
 <details>
 <summary>Lab steps to git clone vsdstdcelldesign</summary>
 
-content
+![Slide21](https://user-images.githubusercontent.com/118953928/214886152-b17a1690-0a43-4cb8-ae77-d7b713b54551.JPG)
+![Slide22](https://user-images.githubusercontent.com/118953928/214886162-95224941-cb24-44c7-844b-52b8174527eb.JPG)
+
 </details>
 
 ###  Inception of Layout & CMOS fabrication process
@@ -1745,110 +1742,141 @@ content
 <details>
 <summary>Create Active regions</summary>
 
-content
+![Slide25](https://user-images.githubusercontent.com/118953928/214886322-803024d3-fa0c-4597-b85d-b1abd17749ea.JPG)
+![Slide26](https://user-images.githubusercontent.com/118953928/214886332-a807fc03-070f-4f1c-abbc-de63052c40fb.JPG)
+![Slide27](https://user-images.githubusercontent.com/118953928/214886336-fc9a7540-46bb-44bc-90a6-4aed6590fc4d.JPG)
+![Slide21](https://user-images.githubusercontent.com/118953928/214886342-8562414f-641d-4d94-b2fe-e8ec2cae7f56.JPG)
+![Slide22](https://user-images.githubusercontent.com/118953928/214886344-0b7e76ac-bfb0-40ea-987b-0745730ea999.JPG)
 </details>
+
 	
 <details>
 <summary>Formation of N-well and P-well</summary>
 
-content
+![Slide29](https://user-images.githubusercontent.com/118953928/214886474-1a9f8083-9e88-40bc-99e9-072e8ee05fa8.JPG)
+![Slide30](https://user-images.githubusercontent.com/118953928/214886480-fc120644-d01a-4794-befc-21fc063662e4.JPG)
+![Slide31](https://user-images.githubusercontent.com/118953928/214886484-940a6f0d-c2ef-4754-9001-ef59e3488289.JPG)
 </details>
 	
 <details>
 <summary>Formation of gate terminal</summary>
 
-content
+![Slide33](https://user-images.githubusercontent.com/118953928/214886561-928d9b62-0979-4744-bd71-2bd634517f0a.JPG)
+![Slide34](https://user-images.githubusercontent.com/118953928/214886567-2d7a21e2-579c-4f37-a871-2ae63541f7ec.JPG)
+![Slide35](https://user-images.githubusercontent.com/118953928/214886570-7c854f00-dbc1-4070-8047-db930ab9e1a0.JPG)
+![Slide36](https://user-images.githubusercontent.com/118953928/214886574-75514e2d-7d35-445d-bc75-6e50322acf43.JPG)
+![Slide37](https://user-images.githubusercontent.com/118953928/214886577-7e9e6663-8cc4-4749-8581-c337ddb0e5e7.JPG)
 </details>
 
 <details>
 <summary>Lightly doped drain (LDD) formation</summary>
 
-content
+![Slide39](https://user-images.githubusercontent.com/118953928/214886647-2407584c-cd5f-420f-987d-efce0cb1b17c.JPG)
+![Slide40](https://user-images.githubusercontent.com/118953928/214886660-cc94f2ac-b692-4da6-a845-2b6d33cc956b.JPG)
+![Slide41](https://user-images.githubusercontent.com/118953928/214886671-b3509f7b-8889-4ed6-8cb6-309b8ccee05c.JPG)
 </details>
 
 <details>
 <summary>Source & drain formation</summary>
 
-content
+![Slide43](https://user-images.githubusercontent.com/118953928/214886787-89c6e2fe-0653-43f2-b895-ec7db1dd7f76.JPG)
+![Slide44](https://user-images.githubusercontent.com/118953928/214886857-26a115f7-bc6e-4849-a92c-6a58683a74a0.JPG)
 </details>
 
 <details>
 <summary>Local interconnect formation</summary>
 
-content
+![Slide46](https://user-images.githubusercontent.com/118953928/214886948-4ee133a7-17a7-41ea-a93d-eac169fd0d9c.JPG)
+![Slide47](https://user-images.githubusercontent.com/118953928/214886959-6fb4635d-4c1a-4498-9a1d-9fa272049032.JPG)
 </details>
 	
 <details>
 <summary>Higher level metal formation</summary>
 
-content
+![Slide49](https://user-images.githubusercontent.com/118953928/214887060-a379544f-7766-4931-9ccb-1bf6cc1c496e.JPG)
+![Slide50](https://user-images.githubusercontent.com/118953928/214887065-78f8bc2d-69f1-4f74-b14b-a8f30abd40f5.JPG)
+![Slide51](https://user-images.githubusercontent.com/118953928/214887067-87c416c6-07bd-41bb-bb11-03c13ac73a50.JPG)
+![Slide52](https://user-images.githubusercontent.com/118953928/214887074-5a43fcc2-1390-4225-a656-f737b0697939.JPG)
+![Slide53](https://user-images.githubusercontent.com/118953928/214887075-02b3ec2b-85a0-4c5e-be18-ea38c220c1dc.JPG)
+![Slide54](https://user-images.githubusercontent.com/118953928/214887079-d9ebbeab-b7ef-4731-bef2-e33f3a54c7ba.JPG)
 </details>
 	
 <details>
 <summary>Lab introduction to Sky130 basic layers layout and LEF using inverter</summary>
 
-content
+![Slide56](https://user-images.githubusercontent.com/118953928/214887222-17a09bf5-5fe2-4b91-ba57-dc30508b4eb4.JPG)
+![Slide57](https://user-images.githubusercontent.com/118953928/214887237-dc678897-ade1-4481-b0b5-d8cd9f73a385.JPG)
+![Slide58](https://user-images.githubusercontent.com/118953928/214887250-03b1d765-4981-4392-b98b-d9cc7a2ce41b.JPG)
+![Slide59](https://user-images.githubusercontent.com/118953928/214887260-215e939e-0738-4a5d-8fbf-1c4c142c81c6.JPG)
+![Slide60](https://user-images.githubusercontent.com/118953928/214887269-6340b70c-ab21-41c3-a536-8a5f790c48d1.JPG)
+![Slide61](https://user-images.githubusercontent.com/118953928/214887288-29c78f22-a195-4900-83c3-534ff08fa973.JPG)
 </details>
-
-<details>
-<summary>Lab steps to create std cell layout and extract spice netlist</summary>
-
-content
-</details>
-
 
 ### Cell design and characterization flows
 	
 <details>
 <summary>Lab steps to create final SPICE deck using Sky130 tech</summary>
 
-content
+![Slide64](https://user-images.githubusercontent.com/118953928/214887533-f340488a-87e1-4b3d-a831-f6691daae07d.JPG)
 </details>
 	
 <details>
 <summary>Lab steps to characterize inverter using sky130 model files</summary>
 
-content
+![Slide66](https://user-images.githubusercontent.com/118953928/214887650-566287c3-baf6-40b5-9f9f-c981f05aca4d.JPG)
+![Slide67](https://user-images.githubusercontent.com/118953928/214887662-1f3b5018-edda-4364-a8fe-e4f905a4964e.JPG)
+![Slide68](https://user-images.githubusercontent.com/118953928/214887665-316bd133-b9c9-45b6-9044-4ba74d5d9b22.JPG)
+![Slide69](https://user-images.githubusercontent.com/118953928/214887670-0a517708-f5e7-4be2-be5b-1de455104703.JPG)
 </details>
 	
 <details>
 <summary>Lab introduction to Magic tool options and DRC rules</summary>
 
-content
+![Slide71](https://user-images.githubusercontent.com/118953928/214887762-d6d7a301-bd7f-44b4-b2d8-ce9a518c94ca.JPG)
 </details>
 
 <details>
 <summary>Lab introduction to Sky130 pdk's and steps to download labs</summary>
 
-content
+![Slide73](https://user-images.githubusercontent.com/118953928/214887831-68911cda-54dc-41ef-9f6f-136afc156e9c.JPG)
 </details>
 
 <details>
 <summary>Lab introduction to Magic and steps to load Sky130 tech-rulesn</summary>
 
-content
+![Slide75](https://user-images.githubusercontent.com/118953928/214887868-3c4a2609-79ee-4e1e-b2d8-87f677397a85.JPG)
+![Slide76](https://user-images.githubusercontent.com/118953928/214887887-8cee6c69-c46c-4467-b6d0-916b460b5c44.JPG)
 </details>
 
 <details>
 <summary>Lab exercise to fix poly.9 error in Sky130 tech-file</summary>
 
-content
+![Slide78](https://user-images.githubusercontent.com/118953928/214888643-6d538589-e7fc-4554-8c3e-3fdc61308066.JPG)
+![Slide79](https://user-images.githubusercontent.com/118953928/214888656-dbd7e597-2cff-4801-9a4c-91d5c10ef7a9.JPG)
+![Slide80](https://user-images.githubusercontent.com/118953928/214888671-0d6d4ba0-15af-4379-b84a-ac90c571a18e.JPG)
+![Slide81](https://user-images.githubusercontent.com/118953928/214888676-59ad59a4-a182-42c6-8197-f0b2d83bc408.JPG)
 </details>
 	
 <details>
 <summary>Lab exercise to implement poly resistor spacing to diff and tap</summary>
 
-content
+![Slide83](https://user-images.githubusercontent.com/118953928/214888748-3697a267-ebd2-4064-ba0a-b96bbe6482ec.JPG)
 </details>
 	
 <details>
 <summary>Lab challenge exercise to describe DRC error as geometrical construct</summary>
 
-content
+![Slide85](https://user-images.githubusercontent.com/118953928/214888859-346d8cc1-da29-4a86-9d80-fd63d9661ce1.JPG)
+![Slide86](https://user-images.githubusercontent.com/118953928/214888874-749e16ac-bb5d-47b4-be00-c1e39e4a0d63.JPG)
+![Slide87](https://user-images.githubusercontent.com/118953928/214888884-20ed6c6b-4e4d-4a88-b128-670ef186a76d.JPG)
+![Slide88](https://user-images.githubusercontent.com/118953928/214888903-607c07b2-8c69-4797-a773-3172e2ad6c74.JPG)
+
 </details>
 
 <details>
 <summary>Lab challenge to find missing or incorrect rules and fix themt</summary>
 
-content
+![Slide90](https://user-images.githubusercontent.com/118953928/214888991-c3b48678-cc2f-4f5e-822a-a78e793afc89.JPG)
+![Slide91](https://user-images.githubusercontent.com/118953928/214889003-2094bfb3-f6bb-4788-bf0e-b6dfed998c8f.JPG)
+
 </details>
