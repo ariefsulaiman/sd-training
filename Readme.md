@@ -1888,31 +1888,43 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 <details>
 <summary>Lab steps to convert grid info to track info</summary>
 
-content
+![Slide4](https://user-images.githubusercontent.com/118953928/214902228-3dfcba9b-5e97-44e1-9826-0b1a69e82689.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/214902240-63963010-b810-4057-a123-83b683aa3f16.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/214902245-b7057977-4f22-4819-a2d1-473af63e511c.JPG)
+
 </details>
 	
 <details>
 <summary>Lab steps to convert magic layout to std cell LEF</summary>
 
-content
+![Slide8](https://user-images.githubusercontent.com/118953928/214902298-e546b437-d6ec-4714-9480-bdbb6c26be66.JPG)
+![Slide9](https://user-images.githubusercontent.com/118953928/214902303-8cb5e10c-42c0-4739-a93b-68146e918adf.JPG)
+![Slide10](https://user-images.githubusercontent.com/118953928/214902305-a12833f2-57b7-4287-bd62-05b4a35b6b04.JPG)
+![Slide11](https://user-images.githubusercontent.com/118953928/214902308-94eea710-0460-4f18-a26f-7da5a47c54a6.JPG)
+![Slide12](https://user-images.githubusercontent.com/118953928/214902311-a661e12f-130e-42bc-9faf-57c82e2ad055.JPG)
 </details>
 	
 <details>
 <summary>Introduction to delay tables</summary>
 
-content
+![Slide14](https://user-images.githubusercontent.com/118953928/214902431-081b81fe-9f58-4039-af24-a904817225b7.JPG)
+![Slide15](https://user-images.githubusercontent.com/118953928/214902453-e745864c-1615-4046-946e-7b248acb942e.JPG)
 </details>
 
 <details>
 <summary>Delay table usage</summary>
 
-content
+![Slide17](https://user-images.githubusercontent.com/118953928/214902551-5da9fbc9-1a60-4d7a-adf0-2f1b174e7aec.JPG)
+![Slide18](https://user-images.githubusercontent.com/118953928/214902569-44aa7e4f-5871-4731-9f86-32db48ecc20b.JPG)
 </details>
 
 <details>
 <summary>Lab steps to configure synthesis settings to fix slack and include vsdinv</summary>
 
-content
+![Slide20](https://user-images.githubusercontent.com/118953928/214902779-39e93eb3-01ad-4342-9920-06892e14ec37.JPG)
+![Slide21](https://user-images.githubusercontent.com/118953928/214902829-f634433d-cd84-4c4d-b9da-942b31efb40e.JPG)
+![Slide22](https://user-images.githubusercontent.com/118953928/214902871-fbf3436f-5d9e-4788-968a-92cb15881eda.JPG)
+![Slide23](https://user-images.githubusercontent.com/118953928/214902902-844614a1-0e63-43e1-9b97-fef3ce5968e5.JPG)
 </details>
 
 
@@ -1921,31 +1933,36 @@ content
 <details>
 <summary>Setup timing analysis and introduction to flip-flop setup time</summary>
 
-content
+![Slide26](https://user-images.githubusercontent.com/118953928/214903089-72363eac-2491-4dce-b0de-6c5f67a99025.JPG)
+![Slide27](https://user-images.githubusercontent.com/118953928/214903106-a98ffd4d-6f27-4c81-94b8-c188c6bd1f34.JPG)
 </details>
 	
 <details>
 <summary>Introduction to clock jitter and uncertainty</summary>
 
-content
+![Slide29](https://user-images.githubusercontent.com/118953928/214903191-084caa03-90cd-4fdc-b30c-9ccce0b0d8a7.JPG)
+![Slide30](https://user-images.githubusercontent.com/118953928/214903199-2537d036-eaf6-4854-a96c-8951a4e96092.JPG)
 </details>
 	
 <details>
 <summary> Lab steps to configure OpenSTA for post-synth timing analysis</summary>
 
-content
+![Slide32](https://user-images.githubusercontent.com/118953928/214903288-b059342b-f01e-48b3-9b14-9eb0752ebf81.JPG)
+![Slide33](https://user-images.githubusercontent.com/118953928/214903297-2a113d73-7cc4-4c86-abd8-cd7aeaf90412.JPG)
 </details>
 
 <details>
 <summary>Lab steps to optimize synthesis to reduce setup violations</summary>
 
-content
+![Slide35](https://user-images.githubusercontent.com/118953928/214903343-e5edd393-394d-4156-9efa-dc192ac45720.JPG)
+![Slide36](https://user-images.githubusercontent.com/118953928/214903347-00ea376b-efd4-4e9d-9d2a-888c598d9929.JPG)
+![Slide37](https://user-images.githubusercontent.com/118953928/214903350-60309b69-b577-483b-9e5e-9de595348b3e.JPG)
 </details>
 
 <details>
 <summary>Lab steps to do basic timing ECO</summary>
 
-content
+![Slide39](https://user-images.githubusercontent.com/118953928/214903456-1153ed36-df5f-4525-ab47-9dfab7b0d216.JPG)
 </details>
 
 ### Clock tree synthesis TritonCTS and signal integrity
