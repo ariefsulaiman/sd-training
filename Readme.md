@@ -2012,13 +2012,13 @@ content
 </details>
 
 <details>
-<summary>Lab steps to analyze timing with real clocks using OpenSTA</summary>
+<summary>Lab steps to execute OpenSTA with right timing libraries and CTS assignment</summary>
 
 content
 </details>
 	
 <details>
-<summary>Lab steps to analyze timing with real clocks using OpenSTA</summary>
+<summary>Lab steps to observe impact of bigger CTS buffers on setup and hold timing</summary>
 
 content
 </details>
