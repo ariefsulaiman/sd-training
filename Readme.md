@@ -1880,3 +1880,128 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 ![Slide91](https://user-images.githubusercontent.com/118953928/214889003-2094bfb3-f6bb-4788-bf0e-b6dfed998c8f.JPG)
 
 </details>
+
+## Day 18 - Pre-layout timing analysis and importance of good clock tree
+
+###  Timing modelling using delay tables
+	
+<details>
+<summary>Lab steps to convert grid info to track info</summary>
+
+content
+</details>
+	
+<details>
+<summary>Lab steps to convert magic layout to std cell LEF</summary>
+
+content
+</details>
+	
+<details>
+<summary>Introduction to delay tables</summary>
+
+content
+</details>
+
+<details>
+<summary>Delay table usage</summary>
+
+content
+</details>
+
+<details>
+<summary>Lab steps to configure synthesis settings to fix slack and include vsdinv</summary>
+
+content
+</details>
+
+
+###  Timing analysis with ideal clocks using openSTA
+
+<details>
+<summary>Setup timing analysis and introduction to flip-flop setup time</summary>
+
+content
+</details>
+	
+<details>
+<summary>Introduction to clock jitter and uncertainty</summary>
+
+content
+</details>
+	
+<details>
+<summary> Lab steps to configure OpenSTA for post-synth timing analysis</summary>
+
+content
+</details>
+
+<details>
+<summary>Lab steps to optimize synthesis to reduce setup violations</summary>
+
+content
+</details>
+
+<details>
+<summary>Lab steps to do basic timing ECO</summary>
+
+content
+</details>
+
+### Clock tree synthesis TritonCTS and signal integrity
+	
+<details>
+<summary>Clock tree routing and buffering using H-Tree algorithm</summary>
+
+content
+</details>
+	
+<details>
+<summary>Crosstalk and clock net shielding</summary>
+
+content
+</details>
+	
+<details>
+<summary>Lab steps to run CTS using TritonCTS</summary>
+
+content
+</details>
+
+<details>
+<summary>Lab steps to verify CTS runs</summary>
+
+content
+</details>
+
+### Timing analysis with real clocks using openSTA
+	
+<details>
+<summary>Setup timing analysis using real clocks</summary>
+
+content
+</details>
+	
+<details>
+<summary>Hold timing analysis using real clocks</summary>
+
+content
+</details>
+	
+<details>
+<summary>Lab steps to analyze timing with real clocks using OpenSTA</summary>
+
+content
+</details>
+
+<details>
+<summary>Lab steps to analyze timing with real clocks using OpenSTA</summary>
+
+content
+</details>
+	
+<details>
+<summary>Lab steps to analyze timing with real clocks using OpenSTA</summary>
+
+content
+</details>
