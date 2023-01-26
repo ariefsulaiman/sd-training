@@ -1687,3 +1687,168 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 ![Slide38](https://user-images.githubusercontent.com/118953928/213140427-d90b4bf8-553a-42a2-94a1-66f3365a4c33.JPG)
 ![Slide39](https://user-images.githubusercontent.com/118953928/213140438-0ada10e7-4fe4-4187-a16d-0521fdf99262.JPG)
 </details>
+
+## Day 17 - Design and characterise one library cell using Layout tool and spice simulator
+
+###  Cell design and characterization flows
+	
+<details>
+<summary>IO placer revision</summary>
+
+content
+</details>
+	
+<details>
+<summary>SPICE deck creation for CMOS inverter</summary>
+
+content
+</details>
+	
+<details>
+<summary>SPICE simulation lab for CMOS inverter</summary>
+
+content
+</details>
+
+<details>
+<summary>Switching Threshold Vm</summary>
+
+content
+</details>
+
+<details>
+<summary>Static and dynamic simulation of CMOS inverter</summary>
+
+content
+</details>
+
+<details>
+<summary>Steps to run floorplan using OpenLANE</summary>
+
+content
+</details>
+	
+<details>
+<summary>Review floorplan files and steps to view floorplan</summary>
+
+content
+</details>
+	
+<details>
+<summary>Lab steps to git clone vsdstdcelldesign</summary>
+
+content
+</details>
+
+###  Inception of Layout & CMOS fabrication process
+
+<details>
+<summary>Create Active regions</summary>
+
+content
+</details>
+	
+<details>
+<summary>Formation of N-well and P-well</summary>
+
+content
+</details>
+	
+<details>
+<summary>Formation of gate terminal</summary>
+
+content
+</details>
+
+<details>
+<summary>Lightly doped drain (LDD) formation</summary>
+
+content
+</details>
+
+<details>
+<summary>Source & drain formation</summary>
+
+content
+</details>
+
+<details>
+<summary>Local interconnect formation</summary>
+
+content
+</details>
+	
+<details>
+<summary>Higher level metal formation</summary>
+
+content
+</details>
+	
+<details>
+<summary>Lab introduction to Sky130 basic layers layout and LEF using inverter</summary>
+
+content
+</details>
+
+<details>
+<summary>Lab steps to create std cell layout and extract spice netlist</summary>
+
+content
+</details>
+
+
+### Cell design and characterization flows
+	
+<details>
+<summary>Lab steps to create final SPICE deck using Sky130 tech</summary>
+
+content
+</details>
+	
+<details>
+<summary>Lab steps to characterize inverter using sky130 model files</summary>
+
+content
+</details>
+	
+<details>
+<summary>Lab introduction to Magic tool options and DRC rules</summary>
+
+content
+</details>
+
+<details>
+<summary>Lab introduction to Sky130 pdk's and steps to download labs</summary>
+
+content
+</details>
+
+<details>
+<summary>Lab introduction to Magic and steps to load Sky130 tech-rulesn</summary>
+
+content
+</details>
+
+<details>
+<summary>Lab exercise to fix poly.9 error in Sky130 tech-file</summary>
+
+content
+</details>
+	
+<details>
+<summary>Lab exercise to implement poly resistor spacing to diff and tap</summary>
+
+content
+</details>
+	
+<details>
+<summary>Lab challenge exercise to describe DRC error as geometrical construct</summary>
+
+content
+</details>
+
+<details>
+<summary>Lab challenge to find missing or incorrect rules and fix themt</summary>
+
+content
+</details>
