@@ -2029,3 +2029,73 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 ![Slide64](https://user-images.githubusercontent.com/118953928/215034851-4b0d5c19-e041-4e5a-a1e6-5b16c8e9d13d.JPG)
 ![Slide61](https://user-images.githubusercontent.com/118953928/215034854-dd42827a-839e-4127-8590-df9876d30a25.JPG)
 </details>
+
+## Day 19 - Final steps for RTL2GDS
+
+###  Power Distribution Network and routing
+	
+<details>
+<summary>Introduction to Maze Routing Lee’s algorithm</summary>
+
+content
+</details>
+	
+<details>
+<summary>Lee’s Algorithm conclusion</summary>
+
+content
+</details>
+	
+<details>
+<summary>Design Rule Check</summary>
+
+content
+</details>
+
+###  Power Distribution Network and routing
+
+<details>
+<summary>Lab steps to build power distribution network</summary>
+
+content
+</details>
+	
+<details>
+<summary>Lab steps from power straps to std cell power</summary>
+
+content
+</details>
+	
+<details>
+<summary>Basics of global and detail routing and configure TritonRoute</summary>
+
+content
+</details>
+
+
+### TritonRoute Features
+	
+<details>
+<summary>TritonRoute feature 1 - Honors pre-processed route guides</summary>
+
+content
+</details>
+	
+<details>
+<summary>TritonRoute Feature2 & 3 - Inter-guide connectivity and intra- & inter-layer routing</summary>
+
+content
+</details>
+	
+<details>
+<summary>TritonRoute method to handle connectivity</summary>
+
+content
+</details>
+
+<details>
+<summary>Routing topology algorithm and final files list post-route</summary>
+
+content
+</details>
+
