@@ -1954,15 +1954,16 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 <details>
 <summary>Lab steps to optimize synthesis to reduce setup violations</summary>
 
-![Slide35](https://user-images.githubusercontent.com/118953928/214903343-e5edd393-394d-4156-9efa-dc192ac45720.JPG)
-![Slide36](https://user-images.githubusercontent.com/118953928/214903347-00ea376b-efd4-4e9d-9d2a-888c598d9929.JPG)
-![Slide37](https://user-images.githubusercontent.com/118953928/214903350-60309b69-b577-483b-9e5e-9de595348b3e.JPG)
+![Slide35](https://user-images.githubusercontent.com/118953928/215034335-60cb3ad7-39e4-4ee3-953d-d4602360023f.JPG)
+![Slide36](https://user-images.githubusercontent.com/118953928/215034340-2703c355-e0d9-47ad-ab60-8f89f76472dc.JPG)
+![Slide37](https://user-images.githubusercontent.com/118953928/215034345-df07344d-7b16-4580-b4e6-b75742bf2494.JPG)
+
 </details>
 
 <details>
 <summary>Lab steps to do basic timing ECO</summary>
 
-![Slide39](https://user-images.githubusercontent.com/118953928/214903456-1153ed36-df5f-4525-ab47-9dfab7b0d216.JPG)
+![Slide39](https://user-images.githubusercontent.com/118953928/215034372-eec86835-46fb-4fb9-b448-f8df123bf09b.JPG)
 </details>
 
 ### Clock tree synthesis TritonCTS and signal integrity
@@ -1970,25 +1971,26 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 <details>
 <summary>Clock tree routing and buffering using H-Tree algorithm</summary>
 
-content
+![Slide42](https://user-images.githubusercontent.com/118953928/215034459-e30c5fa5-1e5b-4800-8969-2b38297fdba9.JPG)
+![Slide43](https://user-images.githubusercontent.com/118953928/215034465-349649aa-effd-4ffc-8350-990fb26136d0.JPG)
 </details>
 	
 <details>
 <summary>Crosstalk and clock net shielding</summary>
 
-content
+![Slide45](https://user-images.githubusercontent.com/118953928/215034547-3d638802-8108-4876-9037-474d6c4d38fa.JPG)
 </details>
 	
 <details>
 <summary>Lab steps to run CTS using TritonCTS</summary>
 
-content
+![Slide47](https://user-images.githubusercontent.com/118953928/215034604-b799f2aa-ef35-49c8-9505-afb5a67dcda3.JPG)
 </details>
 
 <details>
 <summary>Lab steps to verify CTS runs</summary>
 
-content
+![Slide49](https://user-images.githubusercontent.com/118953928/215034634-df36f416-4b5f-4329-b116-3d900a3db342.JPG)
 </details>
 
 ### Timing analysis with real clocks using openSTA
@@ -1996,29 +1998,34 @@ content
 <details>
 <summary>Setup timing analysis using real clocks</summary>
 
-content
+![Slide52](https://user-images.githubusercontent.com/118953928/215034663-e6be13af-cf7c-421e-9dc0-f3d1d545fbdb.JPG)
+![Slide53](https://user-images.githubusercontent.com/118953928/215034676-13b5abcc-bc80-4749-ad66-693d1ef54dbe.JPG)
 </details>
 	
 <details>
 <summary>Hold timing analysis using real clocks</summary>
 
-content
+![Slide55](https://user-images.githubusercontent.com/118953928/215034718-e3036dfd-efc7-4ea2-88a9-1fd8df997c9a.JPG)
+![Slide56](https://user-images.githubusercontent.com/118953928/215034720-39ae74ac-2388-495f-8e1a-490b74b0738f.JPG)
 </details>
 	
 <details>
 <summary>Lab steps to analyze timing with real clocks using OpenSTA</summary>
 
-content
+![Slide58](https://user-images.githubusercontent.com/118953928/215034756-bf1ec9f2-8a39-4b46-83a9-120edca0d0dc.JPG)
+![Slide59](https://user-images.githubusercontent.com/118953928/215034764-de710c6b-c196-4d1d-98fc-1babcb20cadf.JPG)
 </details>
 
 <details>
 <summary>Lab steps to execute OpenSTA with right timing libraries and CTS assignment</summary>
 
-content
+![Slide61](https://user-images.githubusercontent.com/118953928/215034805-0f4b4788-780b-4162-8e2e-40447b7da692.JPG)
 </details>
 	
 <details>
 <summary>Lab steps to observe impact of bigger CTS buffers on setup and hold timing</summary>
 
-content
+![Slide63](https://user-images.githubusercontent.com/118953928/215034843-873409d6-c295-41a7-a567-df5c4f3cac94.JPG)
+![Slide64](https://user-images.githubusercontent.com/118953928/215034851-4b0d5c19-e041-4e5a-a1e6-5b16c8e9d13d.JPG)
+![Slide61](https://user-images.githubusercontent.com/118953928/215034854-dd42827a-839e-4127-8590-df9876d30a25.JPG)
 </details>
