@@ -2037,19 +2037,22 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 <details>
 <summary>Introduction to Maze Routing Lee’s algorithm</summary>
 
-content
+![Slide4](https://user-images.githubusercontent.com/118953928/215120309-77f52c52-414b-4df8-9a0e-a5b7375b068d.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/215120325-36a31169-f8c1-47a2-bc1f-b46ae5e2f038.JPG)
 </details>
 	
 <details>
 <summary>Lee’s Algorithm conclusion</summary>
 
-content
+![Slide7](https://user-images.githubusercontent.com/118953928/215120389-2d0ebd3e-4ffa-4d67-9530-dd267b124fa0.JPG)
 </details>
 	
 <details>
 <summary>Design Rule Check</summary>
 
-content
+![Slide9](https://user-images.githubusercontent.com/118953928/215120436-b5b8833b-13ec-487a-a385-38055765539f.JPG)
+![Slide10](https://user-images.githubusercontent.com/118953928/215120455-d92ff280-dfd6-43b6-934b-bf354bc1a1db.JPG)
+![Slide11](https://user-images.githubusercontent.com/118953928/215120523-6b4d2501-0e56-42fc-bb3e-9dbdf7e32a1a.JPG)
 </details>
 
 ###  Power Distribution Network and routing
@@ -2057,19 +2060,20 @@ content
 <details>
 <summary>Lab steps to build power distribution network</summary>
 
-content
+![Slide14](https://user-images.githubusercontent.com/118953928/215122240-c9058936-d011-4acd-b332-d6aeb28a2ac7.JPG)
 </details>
 	
 <details>
 <summary>Lab steps from power straps to std cell power</summary>
 
-content
+![Slide16](https://user-images.githubusercontent.com/118953928/215120980-82574a9d-40d2-4dbc-8e03-3fa047df1923.JPG)
 </details>
 	
 <details>
 <summary>Basics of global and detail routing and configure TritonRoute</summary>
 
-content
+![Slide18](https://user-images.githubusercontent.com/118953928/215121063-f65d0c49-5641-4a55-af7b-bd36c769c15f.JPG)
+![Slide19](https://user-images.githubusercontent.com/118953928/215121073-5691e47e-8bf6-4e58-8321-318c046601bc.JPG)
 </details>
 
 
@@ -2078,24 +2082,29 @@ content
 <details>
 <summary>TritonRoute feature 1 - Honors pre-processed route guides</summary>
 
-content
+![Slide22](https://user-images.githubusercontent.com/118953928/215121322-11bb8c4a-f9fc-4fdd-80e9-c04d1c2626a4.JPG)
 </details>
 	
 <details>
 <summary>TritonRoute Feature2 & 3 - Inter-guide connectivity and intra- & inter-layer routing</summary>
 
-content
+![Slide24](https://user-images.githubusercontent.com/118953928/215121409-2ea19da2-2b3f-4dce-bf5e-e68f16d9eb9d.JPG)
+![Slide25](https://user-images.githubusercontent.com/118953928/215121424-fc1abbbc-602b-4822-8673-6c834cb6392c.JPG)
 </details>
 	
 <details>
 <summary>TritonRoute method to handle connectivity</summary>
 
-content
+![Slide27](https://user-images.githubusercontent.com/118953928/215121577-ef6c2a83-dca0-4691-b0e6-279ec7c27780.JPG)
+
 </details>
 
 <details>
 <summary>Routing topology algorithm and final files list post-route</summary>
 
-content
+![Slide29](https://user-images.githubusercontent.com/118953928/215121723-e6b16a21-c6d5-4379-9588-0095d8d41ff7.JPG)
+![Slide30](https://user-images.githubusercontent.com/118953928/215121732-78bc9309-9ef4-4cdf-a178-2061bceaddd5.JPG)
+![Slide31](https://user-images.githubusercontent.com/118953928/215121753-17cbc15c-8024-4a66-888d-d6521286401b.JPG)
+
 </details>
 
