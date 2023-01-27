@@ -17,7 +17,11 @@
 [Day 12 - Module 12: BabySoC Modelling ](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-12----babysoc-modelling)\
 [Day 13 - Post-synthesis simulation](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-13----post-synthesis-simulation)\
 [Day 14 -  Synopsys DC and timing analysis](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-14-----synopsys-dc-and-timing-analysis)\
-[Day 15 - Inception of EDA and PDK](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-15---inception-of-eda-and-pdk)
+[Day 15 - Inception of EDA and PDK](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-15---inception-of-eda-and-pdk)\
+[Day 16 - Understand importance of good floorplan vs bad floor plan and introduction to library cells](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-16-understand-importance-of-good-floorplan-vs-bad-floor-plan-and-introduction-to-library-cells)\
+[Day 17 - Design and characterise one library cell using Layout tool and spice simulator](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-17---design-and-characterise-one-library-cell-using-layout-tool-and-spice-simulator)\
+[Day 18 - Pre-layout timing analysis and importance of good clock tree](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-18---pre-layout-timing-analysis-and-importance-of-good-clock-tree)\
+[Day 19 - Final steps for RTL2GDS](https://github.com/ariefsulaiman/sd-training/blob/main/Readme.md#day-19---final-steps-for-rtl2gds)
 
 
 ## Day 0 - System/Tool Setup Check. GitHub ID creation
