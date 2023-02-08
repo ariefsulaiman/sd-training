@@ -2113,7 +2113,7 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 </details>
 
 
-## Day 19 - Final steps for RTL2GDS
+## Day 20 -  Floorplanning and power planning labs
 
 	
 <details>
