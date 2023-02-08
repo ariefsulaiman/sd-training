@@ -2121,31 +2121,37 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 
 ![image](https://user-images.githubusercontent.com/118953928/217490840-2942f0c2-ad0a-4f08-aa37-2c1ae3230939.png)
 	
-- Make a netlist of gates (after synthesis)
+**Make a netlist of gates (after synthesis)**
+	
 The netlist is the output of the synthesis process and serves as the basis for physical design. Synthesis converts RTL designs defined in VHDL or Verilog HDL into gate-level specifications that the following collection of tools can understand. This netlist contains information on the cells utilised, their interconnections, the area used, and other factors.
 
-- Partitioning
+**Partitioning**
+	
 The partitioning process then divides the chip into discrete parts. This approach is primarily used to differentiate between various functional blocks and to aid in placement and routing. Partitioning occurs when the design engineer divides the overall design into sub-blocks and then proceeds to design each module during the RTL design process.
 	
-- Floorplanning
+**Floorplanning**
+	
 In this phase, we compute the dimensions of all the blocks and position them on the chip. This phase is carried out to maintain the blocks that are highly bonded together.
 	
-- Placement
+**Placement**
+	
 The process of inserting standard cells inside the core border at an ideal position is known as placement. The tool attempts to position the standard cell in such a manner that the design has the least amount of congestion and the optimal time. Every PnR tool has a variety of commands/switches that allow users to better optimise the design in terms of time, congestion, area, and power based on their needs. The tool tray is placed and optimised for higher QoR based on the user's preferences. Placement not only inserts the standard cells in the generated netlist, but also numerous physical only cells and adds buffers/inverters as needed to fulfil timings, DRV, and foundry requirements.
 	
-- Static timing analysis
+**Static timing analysis**
+	
 Static timing analysis (STA) is a technique for evaluating a design's timing performance by inspecting all conceivable avenues for timing violations. STA divides a design into timing pathways, estimates signal propagation delays along each path, and checks for timing constraints violations inside the design and at the input/output interface. Dynamic simulation, which determines the whole behaviour of the circuit for a given set of input stimulus vectors, is another method for doing timing analysis. Static timing analysis is substantially faster than dynamic simulation since it does not need to replicate the logical functioning of the circuit. STA is also more complete since it examines all temporal routes, not just those sensitised by a set of test vectors. STA, on the other hand, can only examine the timing of a circuit design, not its functioning.
 	
-- Clock Tree Synthesis (CTS)
+**Clock Tree Synthesis (CTS)**
+	
 Clock Tree Synthesis (CTS) is a critical phase in the VLSI physical design pipeline. It's utilised to cut down on skew and insertion delay. This phase aids in the equal distribution of the clock throughout all sequential parts of a design.
 	
-- Routing 
+**Routing**
+	
 Routing aids in the formation of connections between cells and blocks. Global routing and detailed routing are the two forms of routing. Global routing is used to assign routing resources to connections. It also maintains track of who is assigned to which network. The real connections, on the other hand, are formed by thorough routing.
 	
-- Physical verification
-Physical verification guarantees that the layout design provided is correct. This includes verifying that the layout is proper and that all technological conditions, such as density verification and cleaning density, are met.
+**Physical verification**
 	
-![image](https://user-images.githubusercontent.com/118953928/217491339-a69f98a3-10ec-46da-857d-f6f785cc4217.png)
+Physical verification guarantees that the layout design provided is correct. This includes verifying that the layout is proper and that all technological conditions, such as density verification and cleaning density, are met.
 
 </details>
 	
