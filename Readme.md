@@ -2119,6 +2119,8 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 <details>
 <summary>Theory</summary>
 
+![image](https://user-images.githubusercontent.com/118953928/217490840-2942f0c2-ad0a-4f08-aa37-2c1ae3230939.png)
+![image](https://user-images.githubusercontent.com/118953928/217491339-a69f98a3-10ec-46da-857d-f6f785cc4217.png)
 
 </details>
 	
