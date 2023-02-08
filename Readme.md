@@ -2112,3 +2112,41 @@ Pending	(There is error with simulating the netlist, will do later using Openlan
 
 </details>
 
+
+## Day 19 - Final steps for RTL2GDS
+
+	
+<details>
+<summary>Theory</summary>
+
+
+</details>
+	
+<details>
+<summary>Lab session</summary>
+
+![Slide2](https://user-images.githubusercontent.com/118953928/217489564-f52a2d6f-f97e-4730-8a88-cdd755548017.JPG)
+![Slide3](https://user-images.githubusercontent.com/118953928/217489572-66020aef-fde7-4793-a20c-99de5645c53e.JPG)
+![Slide4](https://user-images.githubusercontent.com/118953928/217489576-9e36ed5c-68f0-4858-b128-a2bc273e6ee4.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/217489580-802b0ee1-c516-4b36-9731-1387269da78e.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/217489583-52ede3f6-db94-45ee-abf0-d0b5f2190a40.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/217489588-503b5897-c861-48f9-a912-655fa91828d9.JPG)
+![Slide8](https://user-images.githubusercontent.com/118953928/217489591-bd2df28f-375a-40ff-94b5-cb23c077efc8.JPG)
+![Slide9](https://user-images.githubusercontent.com/118953928/217489594-03a5caf1-8f9e-40ea-a40d-5099c2674f39.JPG)
+![Slide10](https://user-images.githubusercontent.com/118953928/217489595-e6353ea1-39e8-40d6-ada2-227e6e5747bf.JPG)
+![Slide11](https://user-images.githubusercontent.com/118953928/217489597-b7a5fef7-bf7f-449d-9c93-5edd78d82dfa.JPG)
+![Slide12](https://user-images.githubusercontent.com/118953928/217489605-c13424e7-427d-4b1b-b695-659974e020f4.JPG)
+![Slide13](https://user-images.githubusercontent.com/118953928/217489610-9d33cc98-5234-4497-bb88-b3fd2e5686a0.JPG)
+![Slide14](https://user-images.githubusercontent.com/118953928/217489614-94a6ed72-1599-44c9-a9f9-a7022416feec.JPG)
+![Slide15](https://user-images.githubusercontent.com/118953928/217489617-446602e6-7a0c-418f-962a-ad02b16ebb98.JPG)
+![Slide16](https://user-images.githubusercontent.com/118953928/217489621-ab460945-0bd3-4d0d-94bc-69cd44af969e.JPG)
+![Slide17](https://user-images.githubusercontent.com/118953928/217489624-f30bfd1d-d158-4f76-8aec-4049d645e1cd.JPG)
+![Slide18](https://user-images.githubusercontent.com/118953928/217489628-266671ef-2bbe-4dbf-a2ce-a342d04458d4.JPG)
+![Slide19](https://user-images.githubusercontent.com/118953928/217489635-c4d26fee-2bb5-4f48-b4fd-010d7e13c6d6.JPG)
+![Slide20](https://user-images.githubusercontent.com/118953928/217489637-11ce4c5a-9608-4906-9a1f-b4a3e3536ab8.JPG)
+![Slide21](https://user-images.githubusercontent.com/118953928/217489640-86c7d944-a61f-4f7c-b067-3ac3b4a83b07.JPG)
+![Slide22](https://user-images.githubusercontent.com/118953928/217489641-8577c7f5-c91c-4138-9b87-05f5869c1066.JPG)
+</details>
+	
+
+
