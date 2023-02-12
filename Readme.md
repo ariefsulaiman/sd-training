@@ -2181,5 +2181,25 @@ Physical verification guarantees that the layout design provided is correct. Thi
 ![Slide22](https://user-images.githubusercontent.com/118953928/217489641-8577c7f5-c91c-4138-9b87-05f5869c1066.JPG)
 </details>
 	
+## Day 21 -  Placement and CTS labs
+	
+<details>
+<summary>Theory</summary>
 
+![Slide2](https://user-images.githubusercontent.com/118953928/218319396-8f21a85b-93fd-4729-a015-5f501cbf5948.JPG)
+![Slide3](https://user-images.githubusercontent.com/118953928/218319398-b7e26985-3a55-40a7-b614-ab82d06a9178.JPG)
+</details>
+	
+<details>
+<summary>Lab session</summary>
+
+![Slide4](https://user-images.githubusercontent.com/118953928/218319407-b2ee6568-fd5f-4040-8a75-f9153d850899.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/218319408-c8bd98a4-4df8-4ef4-a1c5-7a3ae1edd563.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/218319411-ca6e5e94-d642-4fca-9aa3-502181180221.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/218319412-e07f7ea6-727c-4594-a9dd-2d78394c7cae.JPG)
+![Slide8](https://user-images.githubusercontent.com/118953928/218319413-b18d3d1b-4ed6-465e-8b5b-7dab1a2c5525.JPG)
+![Slide9](https://user-images.githubusercontent.com/118953928/218319416-58aba15e-69b8-44e2-9a17-e0357d532a63.JPG)
+![Slide10](https://user-images.githubusercontent.com/118953928/218319418-5bd7cbb8-1d50-4a49-9bf7-2613eb143cbf.JPG)
+![Slide11](https://user-images.githubusercontent.com/118953928/218319421-f268545a-e61a-401a-9b44-9470dfca6568.JPG)
+</details>
 
