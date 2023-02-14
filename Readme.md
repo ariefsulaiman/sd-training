@@ -2208,13 +2208,20 @@ Physical verification guarantees that the layout design provided is correct. Thi
 <details>
 <summary>Theory</summary>
 
-
+![Slide2](https://user-images.githubusercontent.com/118953928/218739891-ef57b7c5-807b-4bf6-ba3d-acbf7ec76fe9.JPG)
+![Slide3](https://user-images.githubusercontent.com/118953928/218739900-b538bb56-950e-4129-b1fa-f21092963a8c.JPG)
+![Slide4](https://user-images.githubusercontent.com/118953928/218739905-605ea4e9-48eb-40c6-bde8-3354001bd522.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/218739916-93003f3e-cf66-41b6-86ca-6f08072c35e1.JPG)
 </details>
 	
 <details>
 <summary>Lab session</summary>
 
-
+![Slide6](https://user-images.githubusercontent.com/118953928/218739943-cfd81aff-917b-489e-8af2-5ca3326f4f00.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/218739957-0cd4d0eb-2836-46c2-afd7-3a28215559f2.JPG)
+![Slide8](https://user-images.githubusercontent.com/118953928/218739966-2ee6f85f-3d8b-4742-8d0c-21c1360a7531.JPG)
+![Slide9](https://user-images.githubusercontent.com/118953928/218739971-c14bd00c-551b-4a73-8494-4096d3c6c750.JPG)
+![Slide10](https://user-images.githubusercontent.com/118953928/218739975-0c3a70fe-49c6-4961-a972-db7bb939cf86.JPG)
 </details>
 
 ## Day 23 -   Clock gating technique
@@ -2222,13 +2229,17 @@ Physical verification guarantees that the layout design provided is correct. Thi
 <details>
 <summary>Theory</summary>
 
-
+![Slide2](https://user-images.githubusercontent.com/118953928/218740556-c3641b72-7134-4015-9a99-2325d52f17e8.JPG)
+![Slide3](https://user-images.githubusercontent.com/118953928/218740566-7778654a-4db0-4938-84d7-57fadfbfc1bc.JPG)
+![Slide4](https://user-images.githubusercontent.com/118953928/218740571-66682bfd-85be-467a-8cde-606cc3324529.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/218740572-0a664416-c5e3-4941-b00d-4a9d03b049e7.JPG)
 </details>
 	
 <details>
 <summary>Lab session</summary>
 
-
+![Slide6](https://user-images.githubusercontent.com/118953928/218740594-24dbe9c3-074c-4f24-a6ef-3d247f8c6818.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/218740609-df97ee78-c7b0-4e77-9644-8199ab3f1d62.JPG)
 </details>
 
 ## Day 24 -  Timing violations and ECO
@@ -2236,11 +2247,21 @@ Physical verification guarantees that the layout design provided is correct. Thi
 <details>
 <summary>Theory</summary>
 
-
+![Slide2](https://user-images.githubusercontent.com/118953928/218741263-36bf3a56-67c3-4382-a4d9-71b26b5b6ff8.JPG)
+![Slide3](https://user-images.githubusercontent.com/118953928/218741273-7797e1f5-996a-4aed-a7fd-bdfadeb15c03.JPG)
 </details>
 	
 <details>
 <summary>Lab session</summary>
 
-
+![Slide4](https://user-images.githubusercontent.com/118953928/218741327-88cba98f-429e-4a05-9907-a44a9b151142.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/218741337-3e8c0dce-62b0-410a-92df-68b67ca36f28.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/218741343-0e768a04-90fa-4303-8f10-a8911ca8abf0.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/218741350-2902c1e2-35fb-4760-8fb3-5de7113e7aed.JPG)
+![Slide8](https://user-images.githubusercontent.com/118953928/218741352-56e0ed55-6ca5-45b7-b5fb-d3d6a0ba3fb4.JPG)
+![Slide9](https://user-images.githubusercontent.com/118953928/218741354-067a6805-e63e-4967-95fd-552ec388a316.JPG)
+![Slide10](https://user-images.githubusercontent.com/118953928/218741359-0e33ab9f-a214-4a8d-911a-3a650965f7d2.JPG)
+![Slide11](https://user-images.githubusercontent.com/118953928/218741362-894b2b59-c8ce-4473-94b8-e4aeb4eb8d15.JPG)
+![Slide12](https://user-images.githubusercontent.com/118953928/218741372-ee7495b1-1257-47ab-b124-ed9bf5bedfee.JPG)
+![Slide13](https://user-images.githubusercontent.com/118953928/218741376-550a484a-9b55-4066-be7a-8c65444b00d3.JPG)
 </details>
