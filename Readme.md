@@ -2203,3 +2203,44 @@ Physical verification guarantees that the layout design provided is correct. Thi
 ![Slide11](https://user-images.githubusercontent.com/118953928/218319421-f268545a-e61a-401a-9b44-9470dfca6568.JPG)
 </details>
 
+## Day 22 -   CTS analysis labs
+	
+<details>
+<summary>Theory</summary>
+
+
+</details>
+	
+<details>
+<summary>Lab session</summary>
+
+
+</details>
+
+## Day 23 -   Clock gating technique
+	
+<details>
+<summary>Theory</summary>
+
+
+</details>
+	
+<details>
+<summary>Lab session</summary>
+
+
+</details>
+
+## Day 24 -  Timing violations and ECO
+	
+<details>
+<summary>Theory</summary>
+
+
+</details>
+	
+<details>
+<summary>Lab session</summary>
+
+
+</details>
