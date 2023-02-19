@@ -2222,6 +2222,16 @@ Physical verification guarantees that the layout design provided is correct. Thi
 ![image](https://user-images.githubusercontent.com/118953928/219908476-c54ec068-ac91-4f25-b802-bcd51ce49818.png)
 
 ### Day 22 lab
+```
+As per mention in theory section all these commands are executed
+check_clock_tree                        
+check_legality                          
+report_clock_timing -type summary   
+report_clock_timing -type skew
+report_clock_timing -type latency
+report_clock_timing -type transition
+```
+
 ![Slide6](https://user-images.githubusercontent.com/118953928/218739943-cfd81aff-917b-489e-8af2-5ca3326f4f00.JPG)
 ![Slide7](https://user-images.githubusercontent.com/118953928/218739957-0cd4d0eb-2836-46c2-afd7-3a28215559f2.JPG)
 ![Slide8](https://user-images.githubusercontent.com/118953928/218739966-2ee6f85f-3d8b-4742-8d0c-21c1360a7531.JPG)
