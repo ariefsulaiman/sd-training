@@ -2257,7 +2257,8 @@ report_clock_timing -type transition
 ![Slide7](https://user-images.githubusercontent.com/118953928/218740609-df97ee78-c7b0-4e77-9644-8199ab3f1d62.JPG)
 </details>
 
-## Day 24 -  Timing violations and ECO
+## Day 24 & 25 
+### Topic: Timing violations and ECO & RISC-V core RTL2GDS flow
 	
 <details>
 <summary>Theory</summary>
