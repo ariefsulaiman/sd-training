@@ -2298,7 +2298,7 @@ report_clock_timing -type transition
 </details>
 	
 
-## Day 287-  Introduction to crosstalk - glitch and delta delay
+## Day 27-  Introduction to crosstalk - glitch and delta delay
 	
 <details>
 <summary>Theory</summary>
