@@ -2282,7 +2282,7 @@ report_clock_timing -type transition
 ![Slide13](https://user-images.githubusercontent.com/118953928/218741376-550a484a-9b55-4066-be7a-8c65444b00d3.JPG)
 </details>
 
-## Day 27 -  Introduction to mixed-signal flow
+## Day 26 -  Introduction to mixed-signal flow
 	
 <details>
 <summary>Theory</summary>
@@ -2298,7 +2298,7 @@ report_clock_timing -type transition
 </details>
 	
 
-## Day 28 -  Introduction to crosstalk - glitch and delta delay
+## Day 287-  Introduction to crosstalk - glitch and delta delay
 	
 <details>
 <summary>Theory</summary>
