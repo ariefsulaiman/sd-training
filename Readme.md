@@ -2303,6 +2303,23 @@ report_clock_timing -type transition
 <details>
 <summary>Theory</summary>
 
+### Introduction
+![Slide2](https://user-images.githubusercontent.com/118953928/220298393-03a07b3a-4617-4c2a-b509-30215f4d5051.JPG)
 
 
+### High Routing Density
+![Slide4](https://user-images.githubusercontent.com/118953928/220298415-9211b43a-6c98-42bf-b835-e0dcccc41fd1.JPG)
+
+### Dominant Lateral Capacitance
+![Slide6](https://user-images.githubusercontent.com/118953928/220298502-b1f0f6bf-5bc1-4bfa-952b-a7400ac17d40.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/220298509-7c0a68a5-8e99-4b90-9766-67ff63736089.JPG)
+
+### Noise margin
+![Slide9](https://user-images.githubusercontent.com/118953928/220298564-a0962820-a51a-40f7-8232-d9bcb362856f.JPG)
+
+	
+### Signal Integrity and Crosstalk
+![Slide11](https://user-images.githubusercontent.com/118953928/220298642-2f479920-dd20-4012-b22b-84129f3cc0f8.JPG)
+
+	
 </details>
