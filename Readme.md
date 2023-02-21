@@ -2281,3 +2281,28 @@ report_clock_timing -type transition
 ![Slide12](https://user-images.githubusercontent.com/118953928/218741372-ee7495b1-1257-47ab-b124-ed9bf5bedfee.JPG)
 ![Slide13](https://user-images.githubusercontent.com/118953928/218741376-550a484a-9b55-4066-be7a-8c65444b00d3.JPG)
 </details>
+
+## Day 27 -  Introduction to mixed-signal flow
+	
+<details>
+<summary>Theory</summary>
+
+![Slide1](https://user-images.githubusercontent.com/118953928/220218327-8c7a82d7-c1ed-4571-aa23-515212354bee.JPG)
+![Slide2](https://user-images.githubusercontent.com/118953928/220218335-eead8ed9-be63-49d6-9d4b-1c7e6470070c.JPG)
+![Slide3](https://user-images.githubusercontent.com/118953928/220218340-c22a7ef1-a945-4ff2-9106-629be1de3b3a.JPG)
+![Slide4](https://user-images.githubusercontent.com/118953928/220218343-9e39f751-acdc-4bb3-b4fe-86974de87e0d.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/220218348-95981aac-941b-4f3b-81fc-84c14149612a.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/220218353-2641d198-12ae-443e-b4bc-b28413fe2b97.JPG)
+
+
+</details>
+	
+
+## Day 28 -  Introduction to crosstalk - glitch and delta delay
+	
+<details>
+<summary>Theory</summary>
+
+
+
+</details>
