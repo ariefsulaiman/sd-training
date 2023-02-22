@@ -2323,3 +2323,12 @@ report_clock_timing -type transition
 
 	
 </details>
+
+
+## Day 28-  Introduction to DRC/LVS
+
+<details>
+<summary>Theory</summary>
+
+
+</details>
