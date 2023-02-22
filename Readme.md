@@ -2330,5 +2330,40 @@ report_clock_timing -type transition
 <details>
 <summary>Theory</summary>
 
+### Introduction to Skywater PDK
+
+- SkyWater Open Source PDK is a joint project between Google and SkyWater Technology Foundry, where it provides a fully open source Process Design Kit (PDK), and its related resources.
+- SkyWater open PDK public repository contains:
+	- Documentation: https://skywater-pdk.readthedocs.io/en/main/
+	- PDK Library and files: https://github.com/google/skywater-pdk
+	- Community: https://invite.skywater.tools/
+	
+### Open-Source EDA Tools
+![image](https://user-images.githubusercontent.com/118953928/220544836-9d6190c4-8fe8-428b-abae-1a40db7fa52d.png)
+
+- Tools currently supported by open_pdks:
+	- Magic
+	- Klayout
+	- Openlane
+	- Xschem
+	- Netgen
+	- Ngspice
+	- IVerilog
+	- qflow
+	- IRSIM
+	- xcircuit
+
+- The libraries supported by open_pdks are:
+	- Digital standard cells (ex: sky130_fd_sc_hd)
+	- Primitive devices/analog (ex: sky130_fd_pr)
+	- I/O cells (ex: sky130_fd_io)
+	- 3rd party libraries (ex: sky130_ml_xx_hd)
+	
+- Open_PDKs uses a common installed filesystem structure, where the SkyWater PDKs are placed under the directory /usr/share/pdk/sky130A/. 
+- Under this main SK130 PDK directory, are 2 subdirectories libs.tech, which contains all subdirectories for the open source tool setups, and libs.ref, which contains the reference libraries in various formats.
+- The project directory follows a similar format, with a project_root/ directory containing subdirectories for each tool or flow needed.
+	
+### Physical Verification 
+![image](https://user-images.githubusercontent.com/118953928/220546617-493f2a2f-71b0-4e53-9c54-c4474a99ca5b.png)
 
 </details>
