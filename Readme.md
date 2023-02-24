@@ -2441,10 +2441,6 @@ report_clock_timing -type transition
 	
 </details>
 	
-<details>
-<summary>Lab - Width and Spacing Rules</summary>
-	
-</details>
 	
 <details>
 <summary>Lab - Wide Spacing and Notch Rules</summary>
