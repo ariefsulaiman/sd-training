@@ -2385,3 +2385,81 @@ report_clock_timing -type transition
 	
 </details>
 
+<details>
+<summary>Creating Sky130 Device Layout In Magic</summary>
+	
+</details>
+
+<details>
+<summary>Creating Simple Schematic In Xschem</summary>
+	
+</details>
+	
+<details>
+<summary>Creating Symbol And Exporting Schematic In Xschem</summary>
+	
+</details>
+	
+<details>
+<summary>Importing Schematic To Layout And Inverter Layout Steps</summary>
+	
+</details>
+	
+<details>
+<summary>Lab - Ports</summary>
+	
+</details>
+	
+<details>
+<summary>Lab - Abstract Views</summary>
+	
+</details>
+
+
+<details>
+<summary>Lab - Basic Extraction</summary>
+	
+</details>
+	
+<details>
+<summary>Lab - Setup for DRC</summary>
+	
+</details>
+	
+<details>
+<summary>Lab - Setup For LVS</summary>
+	
+</details>
+	
+<details>
+<summary>Lab - Setup for XOR</summary>
+	
+</details>
+	
+<details>
+<summary>Lab - Width and Spacing Rules</summary>
+	
+</details>
+	
+<details>
+<summary>Lab - Width and Spacing Rules</summary>
+	
+</details>
+	
+<details>
+<summary>Lab - Wide Spacing and Notch Rules</summary>
+	
+</details>
+	
+<details>
+<summary>Lab - Via Size, Multiple Vias, Via Overlap and Autogenerate Vias</summary>
+	
+</details>
+	
+<details>
+<summary>Lab - Minimum Area Rule And Minimum Hole Rule</summary>
+	
+</details>
+
+
+
