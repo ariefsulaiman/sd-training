@@ -2388,73 +2388,142 @@ report_clock_timing -type transition
 <details>
 <summary>Creating Sky130 Device Layout In Magic</summary>
 	
+![Slide2](https://user-images.githubusercontent.com/118953928/221257558-db66f63e-7daa-4c19-816d-5e49e8fb70b2.JPG)
 </details>
 
 <details>
 <summary>Creating Simple Schematic In Xschem</summary>
 	
+![Slide4](https://user-images.githubusercontent.com/118953928/221257606-60776248-80b0-4e26-8f3d-813ec1d78eb2.JPG)
+![Slide5](https://user-images.githubusercontent.com/118953928/221257615-c6354d3f-0f93-4f72-8bc2-283d1d412ed8.JPG)
+![Slide6](https://user-images.githubusercontent.com/118953928/221257624-b33e4545-f433-41d0-a0c8-7bde4e94cc71.JPG)
+![Slide7](https://user-images.githubusercontent.com/118953928/221257641-3c7f6782-a9cd-4ac9-bd49-4d42fabbf8f4.JPG)
+![Slide8](https://user-images.githubusercontent.com/118953928/221257652-18c7c503-24bd-4a6e-9324-3fd727062c4f.JPG)
 </details>
 	
 <details>
 <summary>Creating Symbol And Exporting Schematic In Xschem</summary>
 	
+![Slide10](https://user-images.githubusercontent.com/118953928/221257714-b835cadd-7950-4b66-91f6-f29f7b764a94.JPG)
+![Slide11](https://user-images.githubusercontent.com/118953928/221257727-73eb001d-86dc-4a00-b54e-09b3a294f75d.JPG)
+![Slide12](https://user-images.githubusercontent.com/118953928/221257737-33176fd5-3407-4ebe-906d-93cc81dc78da.JPG)
+![Slide13](https://user-images.githubusercontent.com/118953928/221257740-b11ad8a3-737f-442a-9171-ea8dd888d8a3.JPG)
 </details>
 	
 <details>
 <summary>Importing Schematic To Layout And Inverter Layout Steps</summary>
-	
+
+![Slide15](https://user-images.githubusercontent.com/118953928/221257820-42ff8d5b-8780-4e3b-99f3-ecb785a06b7a.JPG)
+![Slide16](https://user-images.githubusercontent.com/118953928/221257824-e8c5441b-604f-43dd-bcab-923ef1c9084e.JPG)
+![Slide17](https://user-images.githubusercontent.com/118953928/221257830-88f380be-994c-4cc7-bc7b-0057ede8714d.JPG)
+![Slide18](https://user-images.githubusercontent.com/118953928/221257836-a24fefa7-dadf-4c23-a3c9-c89c81fb742b.JPG)
+![Slide19](https://user-images.githubusercontent.com/118953928/221257843-9c1d6dfa-3104-44de-81cd-48b3cfca2a91.JPG)
+![Slide20](https://user-images.githubusercontent.com/118953928/221257846-69f661a1-c2c5-4f3e-87f3-65b6d24b653c.JPG)
+![Slide21](https://user-images.githubusercontent.com/118953928/221257853-dbb131b7-187b-48d6-b95e-1a1227f49645.JPG)
+![Slide22](https://user-images.githubusercontent.com/118953928/221257857-0ef848c8-05d5-4904-99a6-467410067bfa.JPG)
+![Slide23](https://user-images.githubusercontent.com/118953928/221257859-4fe4e528-0f22-4674-8a94-7a91fc456036.JPG)
 </details>
 	
 <details>
 <summary>Lab - Ports</summary>
 	
+![Slide26](https://user-images.githubusercontent.com/118953928/221257911-d2966b6c-b4fc-4a8b-ad13-f8e035216e86.JPG)
+![Slide27](https://user-images.githubusercontent.com/118953928/221257914-afb8fb15-0a6a-4db0-8e06-4610714d1d97.JPG)
+![Slide28](https://user-images.githubusercontent.com/118953928/221257920-1c13cf19-1f56-4594-8b5c-6259563a7835.JPG)
+![Slide29](https://user-images.githubusercontent.com/118953928/221257923-dfbbe5d3-3136-4dc8-b09e-4a4461bf8e6d.JPG)
+![Slide30](https://user-images.githubusercontent.com/118953928/221257926-7b646d7f-45d3-4d61-a96e-028fbb4942e8.JPG)
+![Slide31](https://user-images.githubusercontent.com/118953928/221257927-f292253c-a922-45ae-b590-d611b53d69ae.JPG)
+![Slide32](https://user-images.githubusercontent.com/118953928/221257929-32f0ad8a-1858-4bda-84c5-50b0f7e61ad6.JPG)
 </details>
 	
 <details>
 <summary>Lab - Abstract Views</summary>
 	
+![Slide34](https://user-images.githubusercontent.com/118953928/221257969-fea6711d-83b2-48f6-b796-92234d98fb53.JPG)
+![Slide35](https://user-images.githubusercontent.com/118953928/221257975-8f32d5c0-5759-441d-a0cd-713905791bca.JPG)
+![Slide36](https://user-images.githubusercontent.com/118953928/221257977-f588659e-b0c0-4d29-a4dd-8eab9edba965.JPG)
+![Slide37](https://user-images.githubusercontent.com/118953928/221257981-1ec0639d-14b6-4ddc-87f2-5dfd70002fff.JPG)
+![Slide38](https://user-images.githubusercontent.com/118953928/221257985-f74ad4f8-2f9b-4a5a-a8f9-ec6dbfba43a4.JPG)
+![Slide39](https://user-images.githubusercontent.com/118953928/221257986-bd0e3023-010d-4d3e-b034-a88701511a5f.JPG)
+![Slide40](https://user-images.githubusercontent.com/118953928/221257991-1e97a14a-e5b7-4155-8468-aa800ae36e39.JPG)
+![Slide41](https://user-images.githubusercontent.com/118953928/221257993-92341e29-7ab0-49f5-b0b6-d8366aa511bb.JPG)
+![Slide42](https://user-images.githubusercontent.com/118953928/221257995-4858a3e7-20d9-4491-86ea-e5d1997585d4.JPG)
+![Slide43](https://user-images.githubusercontent.com/118953928/221258000-34e73937-3cc2-484c-97f7-db9446087c6a.JPG)
 </details>
 
 
 <details>
 <summary>Lab - Basic Extraction</summary>
 	
+![Slide45](https://user-images.githubusercontent.com/118953928/221258032-a5754129-a058-4a9c-88ae-5375e5080c97.JPG)
+![Slide46](https://user-images.githubusercontent.com/118953928/221258037-d4e7d764-135d-4485-8953-efb55fc7f173.JPG)
+![Slide47](https://user-images.githubusercontent.com/118953928/221258045-419ffb6d-681d-4a6c-8fa7-a02dc9e53295.JPG)
+![Slide48](https://user-images.githubusercontent.com/118953928/221258050-23d4c978-4e0f-45e0-9309-48ecea76a074.JPG)
+![Slide49](https://user-images.githubusercontent.com/118953928/221258053-d112ff07-1e00-4c6e-b274-6fe18e73464a.JPG)
+![Slide50](https://user-images.githubusercontent.com/118953928/221258056-1004b404-5239-4db9-af8a-a6fe4d7100d3.JPG)
 </details>
 	
 <details>
 <summary>Lab - Setup for DRC</summary>
 	
+![Slide52](https://user-images.githubusercontent.com/118953928/221258100-c6ea984e-a18b-40f8-bf94-a718bb516b0c.JPG)
+![Slide53](https://user-images.githubusercontent.com/118953928/221258105-dec4e2fd-075b-41c7-8cfc-5ca47e81457d.JPG)
+![Slide54](https://user-images.githubusercontent.com/118953928/221258109-da71d778-b38f-4f20-bde1-fb0051224814.JPG)
+![Slide55](https://user-images.githubusercontent.com/118953928/221258114-3177fc2c-25d0-43c6-82ba-6ada80a2b724.JPG)
+![Slide56](https://user-images.githubusercontent.com/118953928/221258118-01f3fb01-5192-40c6-a66a-4d6c96c5974f.JPG)
 </details>
 	
 <details>
 <summary>Lab - Setup For LVS</summary>
-	
+
+![Slide58](https://user-images.githubusercontent.com/118953928/221258187-c9a9e24c-9aa9-4069-bb04-4b3921b88b40.JPG)
 </details>
 	
 <details>
 <summary>Lab - Setup for XOR</summary>
-	
+
+![Slide60](https://user-images.githubusercontent.com/118953928/221258235-dba729d4-2a1c-4f7c-a243-072957e7ae8d.JPG)
+![Slide61](https://user-images.githubusercontent.com/118953928/221258247-124e79ea-89b8-49c5-bdfc-e8c27aa6a292.JPG)
 </details>
 	
 <details>
 <summary>Lab - Width and Spacing Rules</summary>
 	
+![Slide63](https://user-images.githubusercontent.com/118953928/221258316-9b1acfb0-fea1-4155-86d6-5eebdb7e502e.JPG)
+![Slide64](https://user-images.githubusercontent.com/118953928/221258329-f376e418-bcc7-4a54-8f56-3b13882072c5.JPG)
+![Slide65](https://user-images.githubusercontent.com/118953928/221258332-ceaa8040-e663-4a67-93e0-2be122792bf2.JPG)
+![Slide66](https://user-images.githubusercontent.com/118953928/221258333-aae2ba29-b83f-48a4-a397-508199a390b6.JPG)
+![Slide67](https://user-images.githubusercontent.com/118953928/221258336-03687dbb-41c1-468d-b184-c6f569b2e852.JPG)
+![Slide68](https://user-images.githubusercontent.com/118953928/221258341-32a4dad7-b022-4cd8-b84f-bd03413f0ebd.JPG)
+![Slide69](https://user-images.githubusercontent.com/118953928/221258342-55427f72-f5c8-42f4-86f6-f6f7a0805412.JPG)
 </details>
 	
 	
 <details>
 <summary>Lab - Wide Spacing and Notch Rules</summary>
 	
+![Slide71](https://user-images.githubusercontent.com/118953928/221258387-9f6a8ca1-8a96-4711-b2ff-f4a1f3bbb39c.JPG)
+![Slide72](https://user-images.githubusercontent.com/118953928/221258393-9e73e015-efac-4215-b109-1ba2163f3011.JPG)
+![Slide73](https://user-images.githubusercontent.com/118953928/221258399-0e2569cf-51a8-43f5-81e4-53a9097cedee.JPG)
 </details>
 	
 <details>
 <summary>Lab - Via Size, Multiple Vias, Via Overlap and Autogenerate Vias</summary>
 	
+![Slide75](https://user-images.githubusercontent.com/118953928/221258435-e5ab1c56-9f33-4f12-af3e-25478ded5575.JPG)
+![Slide76](https://user-images.githubusercontent.com/118953928/221258441-3e461c3c-8e79-46e1-a8b0-031222d16bf2.JPG)
+![Slide77](https://user-images.githubusercontent.com/118953928/221258446-afeddd2b-d024-47d8-8a15-9ff09b2a09c8.JPG)
 </details>
 	
 <details>
 <summary>Lab - Minimum Area Rule And Minimum Hole Rule</summary>
 	
+![Slide79](https://user-images.githubusercontent.com/118953928/221258479-b2ca5f06-2ac1-45ef-8380-e0e5b564912b.JPG)
+![Slide80](https://user-images.githubusercontent.com/118953928/221258488-806fb488-b75e-4d96-9e48-2a934fee2776.JPG)
+![Slide81](https://user-images.githubusercontent.com/118953928/221258491-7edbb0fb-81c2-4738-8648-1d0aece497e7.JPG)
+![Slide82](https://user-images.githubusercontent.com/118953928/221258499-9e779158-d546-4d4c-a676-39f1db7a09a6.JPG)
+![Slide83](https://user-images.githubusercontent.com/118953928/221258500-97151c62-6903-47a8-9b56-c582642685ff.JPG)
+![Slide84](https://user-images.githubusercontent.com/118953928/221258512-39e20ff3-76ba-4e99-aee4-babf4e6141fd.JPG)
 </details>
 
 
