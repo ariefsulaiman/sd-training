@@ -2367,11 +2367,13 @@ report_clock_timing -type transition
 ![image](https://user-images.githubusercontent.com/118953928/220546617-493f2a2f-71b0-4e53-9c54-c4474a99ca5b.png)
 </details>
 	
-	
-<details>
-<summary>Lab Session</summary>
 
-### Opensource EDA Tools: Check Tool Installations
+### Lab Session
+
+<details>
+<summary>Opensource EDA Tools: Check Tool Installations</summary>
+
+
 
 - Magic: It can be run by giving the command ```magic``` in the command line interface. This brings up a layout window and a console window that is a stock tcl interpreter used to run commands for layout and actions. We can get the tcl interpreter in the terminal itself instead of the seperate console window by using the option ```magic -noconsole```. Magic can also be run without the graphics layout window using the option ```magic -dnull - noconsole```, and should be called as such when running from a script. To run magic in batch mode, we use the command ```magic -dnull -noconsole filename.tcl```.
 
