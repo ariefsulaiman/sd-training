@@ -2449,6 +2449,10 @@ Disclaimer : All the picture in this day are taken from https://www.udemy.com/co
 -Glitches are classified into four types: rise, fall, overshoot, and undershoot.	
 </details>
 
+<details>
+<summary>Lab</summary>
+	
+</details>
 
 ## Day 28 & 29
 ### Topic: Introduction to DRC/LVS & DRC/LVS labs
