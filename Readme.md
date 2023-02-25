@@ -2371,29 +2371,82 @@ Source: https://www.slideshare.net/vlsisyst/vlsi-physical-design-flow
 	
 
 ## Day 27-  Introduction to crosstalk - glitch and delta delay
-	
+Disclaimer : All the picture in this day are taken from https://www.udemy.com/course/vlsi-academy-crosstalk/learn/lecture/1614424#overview
+
 <details>
 <summary>Theory</summary>
 
 ### Introduction
-![Slide2](https://user-images.githubusercontent.com/118953928/220298393-03a07b3a-4617-4c2a-b509-30215f4d5051.JPG)
-
+**What happens when we go through a chip design cycle?**
+- When you go through a design there are three things that we try to achieve on a chip.
+![image](https://user-images.githubusercontent.com/118953928/221361910-4213c7d3-95ba-44f0-83bb-f4dc835107f0.png)
+- Power: focusing on the lowest power consumption.
+- Performance: focusing on the performance, process and speed of the device.
+- Area: preferable a smaller device
 
 ### High Routing Density
-![Slide4](https://user-images.githubusercontent.com/118953928/220298415-9211b43a-6c98-42bf-b835-e0dcccc41fd1.JPG)
+- There are quite a few gaps and pathways between each other in the 0.25 um and above procedure.
+- Reduce the channel length to quickly lower the size of the MOSFET, as does the overall size of the combinational logic, causing the cell within to shrink as well. We were able to reduce the size of the MOSFET in this manner.
+- If a reduced size is reached, the cells within shrink, and the entire circuit fits in a smaller space. 
+- As a result, we may have several instances of the circuits or similar types of circuits being created to return to the region.
+- Unfortunately, there is an issue with interference when the size is reduced. Referring to the 0.1 um and below procedure in the figure below, there is some interference in their operation that occurs when the two nets/wires are positioned very close to each other when the size is reduced. This is the most common cause of crosstalk.
+- After shrinking the size, the number of standard cells has grown ninefold where the standard cells must be connected to each other, and as a result, the number of routes has increased, and the routing has become extremely near to each other.
+- As a result, we will begin to witness certain design flaws, where some functionality failure is occurring, which we might refer to as crosstalk.
+
+![image](https://user-images.githubusercontent.com/118953928/221362145-9df1594b-9e6e-43df-a9ea-5a5b00db00c7.png)
 
 ### Dominant Lateral Capacitance
-![Slide6](https://user-images.githubusercontent.com/118953928/220298502-b1f0f6bf-5bc1-4bfa-952b-a7400ac17d40.JPG)
-![Slide7](https://user-images.githubusercontent.com/118953928/220298509-7c0a68a5-8e99-4b90-9766-67ff63736089.JPG)
+	
+**Reason why increasing the crosstalk noise**
+	
+1. Increase in number of metal layers resulting in increase in lateral capacitance
+	
+![image](https://user-images.githubusercontent.com/118953928/221362211-6bff298e-626f-40c8-a64b-9933efb96932.png)
+
+- Two type of capacitance:
+	1. Interlayer capacitance: capacitors that is placed between 2 consecutive different layers.
+	2. Lateral capacitance: capacitors that is placed between 2 wires at the same level and metal layer.
+
+2. Increase in the lateral capacitance  because it is increasing the metal layer.
+
+- The overlap region between metals 1 and 2 is rather large, resulting in an increase in lower capacitance. 
+- As a result, we suggest that the interlayer capacitance was dominating in 0.25 um and higher processes.
+![image](https://user-images.githubusercontent.com/118953928/221362440-8e41bbf8-15c1-49cf-ae2e-8f424acc065c.png)
+
+- Size of the MOSFET decrease, the number of standard cells increases, number of connections increase, number of routes has increase. 
+- If we narrow the metal, the demand for routes in the area is too great. As a result, lowering it will be ineffective.
+- As a result, we must make the connections in a different manner, causing the signal to flow in a direct path (just over metal 1) without first transmitting the signal to metal 3. 
+- This is due to the restricted number of resources/routing resources accessible in the area. In this scenario, the amount of space is really limited, and we must accommodate it wherever we must connect signals at any cost.
+![image](https://user-images.githubusercontent.com/118953928/221362533-5e5cc119-8ec0-4dd0-9628-48953f16bc44.png)
 
 ### Noise margin
-![Slide9](https://user-images.githubusercontent.com/118953928/220298564-a0962820-a51a-40f7-8232-d9bcb362856f.JPG)
 
+- In a simple inverter operation, if we supply low-level input to an inverter, we will receive high-level output. When Vin = low, Vout = high, converting the idea into a graphical way. 
+- The behaviour of an inverter occurs when half of the voltage (Vdd/2), we shall observe the behaviour of a switch.
+- The output is VDD when the input is zero. Then, we shift the input from zero and keep raising the input towards VDD. 
+- When we steadily raise the input voltage, the output voltage begins to fall. Finally, the output voltage will be equal to zero.
+
+![image](https://user-images.githubusercontent.com/118953928/221362609-5f262592-4297-4473-8809-be5c2baabd05.png)
+- Practically, the curve won't be as smooth as in ideally. It might have some slopes since it has some delays due to capacitances and resistances while travelling from VDD to zero voltage. However, it won't be exactly achieving zero voltage due to practical scenarios of nmos and pmos, but for sure it will be somewhere around zero.
+- Input low voltage (VIL): the input voltage is from zero to some particular value (VIL), as well as maximum input voltage that will be recognised as a low input logic level.
+- Output high voltage (VOH): the output voltage is from zero to some particular value (VOH), as well as nominal voltage corresponding to a high logic state.
+- Input high voltage (VIH): any voltage at the input level which lies above VIH and VDD, the output is expected to be low/VOL.
+- Output low voltage (VOL): the output at VIH.
 	
 ### Signal Integrity and Crosstalk
-![Slide11](https://user-images.githubusercontent.com/118953928/220298642-2f479920-dd20-4012-b22b-84129f3cc0f8.JPG)
 
+**Signal Integrity and Crosstalk**
+- The clock routes' quality tests are signal integrity and crosstalk.
+- Signal integrity is an electrical signal's ability to reliably carry information while resisting the effects of high-frequency electromagnetic interference from nearby signals.
+- Crosstalk is the undesired electrical interaction caused by capacitive cross-coupling between two or more physically nearby networks. It is a form of noise signal that taints the real signal as it is being transmitted via the communication link.
 	
+**Nets for Aggressors and Victims**
+- A victim net is one that experiences undesired cross-coupling effects from an adjacent net.
+- An aggressor net is one that creates these effects in a victim net.
+
+**Crosstalk-Glitch**
+- While one net is switching and another net is constant, the switching signal may induce spikes on the other net, resulting in coupling capacitance (Cc) between the two nets, which is referred to as crosstalk noise.
+-Glitches are classified into four types: rise, fall, overshoot, and undershoot.	
 </details>
 
 
