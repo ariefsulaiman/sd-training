@@ -2287,14 +2287,86 @@ report_clock_timing -type transition
 <details>
 <summary>Theory</summary>
 
-![Slide1](https://user-images.githubusercontent.com/118953928/220218327-8c7a82d7-c1ed-4571-aa23-515212354bee.JPG)
-![Slide2](https://user-images.githubusercontent.com/118953928/220218335-eead8ed9-be63-49d6-9d4b-1c7e6470070c.JPG)
-![Slide3](https://user-images.githubusercontent.com/118953928/220218340-c22a7ef1-a945-4ff2-9106-629be1de3b3a.JPG)
-![Slide4](https://user-images.githubusercontent.com/118953928/220218343-9e39f751-acdc-4bb3-b4fe-86974de87e0d.JPG)
-![Slide5](https://user-images.githubusercontent.com/118953928/220218348-95981aac-941b-4f3b-81fc-84c14149612a.JPG)
-![Slide6](https://user-images.githubusercontent.com/118953928/220218353-2641d198-12ae-443e-b4bc-b28413fe2b97.JPG)
+**Understanding mixed signal design**
+- What exactly are electrical signals?
 
+An electronic signal is a message or information that is encoded by varying the voltage of an electric current and is used to communicate between devices.
 
+- Electronic signal types?
+	
+Signals in both analogue and digital formats
+
+- What form of signal is most abundant in nature?
+	
+Analog signals were created instead of digital signals by every procedure. Analog signals are often transformed to digital signals
+	
+- Microcontrollers/microprocessors understand/speak which signal?
+	
+Digital signals are signals that are only understood by electronic equipment employing 1s and 0s.
+
+- What should we do because microprocessors/microcontrollers communicate in digital form, yet we need to obtain or take in analogue signals?
+	
+With ADC/DAC, convert digital signals to analogue signals or vice versa.
+
+- Mixed-signal chips are ones that cope with input signals whose exact values are important.
+	1. This wide category covers conversions such as RF, Analog, Analog-to-Digital, and Digital-to-Analog.
+	2. Recently, a considerable number of Mixed-Signal devices have been developed in which at least part of the chip architecture requires high precision signal measurement.
+	3. These chips have significantly different design and process technology requirements than standard digital circuits.
+
+**AMS: Analog and Mixed Signal (digital and analog) flow**
+	
+![image](https://user-images.githubusercontent.com/118953928/221361001-38794826-86f2-4036-a39a-3b7ae3272120.png)\
+Source: https://www.vlsisystemdesign.com/
+	
+	
+**Block diagram for mixed signal design**
+
+![image](https://user-images.githubusercontent.com/118953928/221361028-cd286349-b359-4964-b50f-cd5afc4f9de4.png)\
+Source: https://www.vlsisystemdesign.com/
+	
+	
+**Exploring the example of VSDBabySoC**\
+	1. RVMYTH processor --> digital block\
+	2. PLL --> analog block\
+	3. DAC --> analog block (for digital to analog conversion)\
+
+**Introduction to various files**
+
+- LEF (Library Exchange Format) file: physical properties such as width, height etc regarding the standard cells
+	1. tf (technology file) or tlef (technology lef) --> contains same information
+	2. Cell tf
+- LIBerty file --> contains timing information of the cells
+
+- gdsII and OASIS file --> GDSII is a file format similar to JPEG, DOCX, XLSX etc to enable a layout design to be transferred from one place to another (IP owner handoff to PD team, PD team to foundry for fabrication), to be viewed/used for verifications like Physical verification checks by EDA tools.
+
+![image](https://user-images.githubusercontent.com/118953928/221361117-8eab75b3-7441-48bc-941d-8e1efa552118.png)\
+Source: https://teamvlsi.com/2020/08/inputs-for-physical-design-physical-design-input-files.html
+	
+	
+**WHAT and WHY TO DO after getting the information?**
+	
+- This is why we need the following files:
+	- LEF file
+	- LIB file
+	- Tf files (tlu+ file)
+
+![image](https://user-images.githubusercontent.com/118953928/221361176-453c9a85-b37d-487f-af95-a13292806b73.png)\
+Source: https://www.slideshare.net/vlsisyst/vlsi-physical-design-flow
+	
+
+**What are IP cores?**
+
+- An IP core consists of a block of logic or data that is used in a semiconductor chip. 
+- It is usually the intellectual property of a particular person or company. 
+- IP cores are used when making a field programmable gate array (FPGA) or application-specific integrated circuit (ASIC).
+- IP cores are created throughout the design process and can be turned into components for reuse.
+- There are different categories for IP cores including hard IP cores and soft IP cores.The soft IP core , can be customized during the physical design phase and mapped to any process technology.
+- A hard IP core is one that has the logic implementation and the physical implementation. 
+- In other words, the physical layout of a hard macro-IP is finished and fixed in a particular process technology.
+
+**How it works in semiconductor industry**
+
+![image](https://user-images.githubusercontent.com/118953928/221361235-d7bb474c-cfb2-4de0-b0f1-76f18f033902.png)
 </details>
 	
 
