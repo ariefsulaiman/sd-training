@@ -2452,6 +2452,12 @@ Disclaimer : All the picture in this day are taken from https://www.udemy.com/co
 <details>
 <summary>Lab</summary>
 	
+![Slide13](https://user-images.githubusercontent.com/118953928/221366657-b1deb7d3-53ba-4243-be16-7c00e7d7b516.JPG)
+![Slide14](https://user-images.githubusercontent.com/118953928/221366658-0565e4ce-0f65-4c1f-839f-8b528d2c7dc7.JPG)
+![Slide15](https://user-images.githubusercontent.com/118953928/221366660-a9bddae8-6586-4224-9284-76a77c683f29.JPG)
+![Slide16](https://user-images.githubusercontent.com/118953928/221366661-0c9b9da6-cdf2-4589-9169-5af218043ace.JPG)
+![Slide17](https://user-images.githubusercontent.com/118953928/221366662-06dd2425-a583-4130-a0e5-6ba982907b3c.JPG)
+![Slide18](https://user-images.githubusercontent.com/118953928/221366663-1c70600e-c259-4a11-bb6e-3a8f368a0742.JPG)
 </details>
 
 ## Day 28 & 29
