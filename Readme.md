@@ -2662,5 +2662,65 @@ Disclaimer : All the picture in this day are taken from https://www.udemy.com/co
 ![Slide84](https://user-images.githubusercontent.com/118953928/221258512-39e20ff3-76ba-4e99-aee4-babf4e6141fd.JPG)
 </details>
 
+<details>
+<summary>Lab - Wells And Deep N-Well</summary>
 
+![Slide86](https://user-images.githubusercontent.com/118953928/221423057-270ea018-1a9e-4563-a256-17bc7d3f7e15.JPG)
+![Slide87](https://user-images.githubusercontent.com/118953928/221423061-7ad555e1-2f6c-4858-8679-f617482da476.JPG)
+</details>
+
+<details>
+<summary>Lab - Derived Layers</summary>
+	
+![Slide89](https://user-images.githubusercontent.com/118953928/221423078-d746f7bf-c274-4314-bb4f-18bb529704d6.JPG)
+![Slide90](https://user-images.githubusercontent.com/118953928/221423079-5fbb26f1-4c8a-4b47-bafc-d5a1aed8bff0.JPG)
+![Slide91](https://user-images.githubusercontent.com/118953928/221423085-9a11d366-fd5f-44de-80af-1b32417b230c.JPG)
+</details>
+
+<details>
+<summary>Lab - Paramterized And PDK Devices</summary>
+	
+![Slide93](https://user-images.githubusercontent.com/118953928/221423114-cdd69bd9-6d2b-42bc-9cae-b5c9e2e048f3.JPG)
+![Slide94](https://user-images.githubusercontent.com/118953928/221423115-30e20c39-b43c-452f-b46f-ed7bc0dcca74.JPG)
+![Slide95](https://user-images.githubusercontent.com/118953928/221423117-2005ebfa-0f0d-4d2c-afe3-b7094f838b81.JPG)
+![Slide96](https://user-images.githubusercontent.com/118953928/221423121-b4b6ad83-65d0-47d1-a317-c0eb353ee507.JPG)
+</details>
+
+<details>
+<summary>Lab - Angle Error And Overlap Rule</summary>
+	
+![Slide98](https://user-images.githubusercontent.com/118953928/221423129-93866630-e527-4491-bb44-1e306501aea9.JPG)
+![Slide99](https://user-images.githubusercontent.com/118953928/221423131-8afcf8e4-d37e-40cd-92a0-44e97f774320.JPG)
+![Slide100](https://user-images.githubusercontent.com/118953928/221423132-d26b87dc-20b8-4fe5-9d11-b6766ef17563.JPG)
+![Slide101](https://user-images.githubusercontent.com/118953928/221423138-3069b965-3589-4b2c-ad66-405aee8b56c3.JPG)
+![Slide102](https://user-images.githubusercontent.com/118953928/221423140-5a31dc55-fe4a-47f8-81da-a518dbd01c68.JPG)
+![Slide103](https://user-images.githubusercontent.com/118953928/221423142-86667bda-8f3e-4d8d-a1a7-0e3604cd4641.JPG)
+</details>
+
+<details>
+<summary>Lab - Unimplemented Rules</summary>
+	
+![Slide105](https://user-images.githubusercontent.com/118953928/221423162-cfd99da2-5d0e-43a7-b47f-e4212e5483a4.JPG)
+![Slide106](https://user-images.githubusercontent.com/118953928/221423165-4e5563f1-5f06-40c5-8585-f708f96e3054.JPG)
+![Slide107](https://user-images.githubusercontent.com/118953928/221423166-a6d447c7-682a-4024-8ade-95c3e3e4f607.JPG)
+</details>
+
+<details>
+<summary>Latch-up And Antenna Rules</summary>
+	
+![Slide109](https://user-images.githubusercontent.com/118953928/221423178-94ecff97-7594-423e-b092-e3f13c76151e.JPG)
+![Slide110](https://user-images.githubusercontent.com/118953928/221423183-4cb7f1b5-5512-4484-9c56-3224be0564df.JPG)
+![Slide111](https://user-images.githubusercontent.com/118953928/221423186-e586f40b-bda2-4490-8ce1-6abfd2b71163.JPG)
+![Slide112](https://user-images.githubusercontent.com/118953928/221423190-69f46532-4fa6-42ee-894e-26d199c7b509.JPG)
+</details>
+
+<details>
+<summary>Lab - Density Rules</summary>
+	
+![Slide114](https://user-images.githubusercontent.com/118953928/221423208-79279e64-42ff-48f5-84d3-fa2a8acafc21.JPG)
+![Slide115](https://user-images.githubusercontent.com/118953928/221423210-8e0f82de-5f25-4ad0-ab90-7948f91b32c6.JPG)
+![Slide116](https://user-images.githubusercontent.com/118953928/221423212-1024ec27-7801-45e0-9260-232de4cdf1f2.JPG)
+![Slide117](https://user-images.githubusercontent.com/118953928/221423214-90b7286f-c7d5-4ba1-a924-26bd3794f33c.JPG)
+![Slide118](https://user-images.githubusercontent.com/118953928/221423219-b0b4a387-578f-43de-9505-b26049fbc59f.JPG)
+</details>
 
